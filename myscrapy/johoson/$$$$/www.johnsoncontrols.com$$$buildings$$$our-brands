@@ -1,0 +1,821 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6 en" lang="en" > <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7 en" lang="en" > <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8 en" lang="en" > <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="en" class="en">
+<!--<![endif]-->
+
+<head>
+
+    <script>
+        var jci = {};
+        jci.virtualFolder = '/';
+    </script>
+
+    
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+
+<title>Our Brands | Johnson Controls</title>
+<link rel="canonical" href="http://www.johnsoncontrols.com/buildings/our-brands" />
+<meta name="description" content="Trust the Johnson Controls Buildings Product Brand Portfolio where you’ll find high quality products that will consistently solve your building challenges." />
+<meta name="keywords" content="" />
+
+
+<script type="text/javascript">
+/*{literal}<![CDATA[*/window.lightningjs||function(c){function g(b,d){d&&(d+=(/\?/.test(d)?"&":"?")+"lv=1");c[b]||function(){var i=window,h=document,j=b,g=h.location.protocol,l="load",k=0;(function(){function b(){a.P(l);a.w=1;c[j]("_load")}c[j]=function(){function m(){m.id=e;return c[j].apply(m,arguments)}var b,e=++k;b=this&&this!=i?this.id||0:0;(a.s=a.s||[]).push([e,b,arguments]);m.then=function(b,c,h){var d=a.fh[e]=a.fh[e]||[],j=a.eh[e]=a.eh[e]||[],f=a.ph[e]=a.ph[e]||[];b&&d.push(b);c&&j.push(c);h&&f.push(h);return m};return m};var a=c[j]._={};a.fh={};a.eh={};a.ph={};a.l=d?d.replace(/^\/\//,(g=="https:"?g:"http:")+"//"):d;a.p={0:+new Date};a.P=function(b){a.p[b]=new Date-a.p[0]};a.w&&b();i.addEventListener?i.addEventListener(l,b,!1):i.attachEvent("on"+l,b);var q=function(){function b(){return["<head></head><",c,' onload="var d=',n,";d.getElementsByTagName('head')[0].",d,"(d.",g,"('script')).",i,"='",a.l,"'\"></",c,">"].join("")}var c="body",e=h[c];if(!e)return setTimeout(q,100);a.P(1);var d="appendChild",g="createElement",i="src",k=h[g]("div"),l=k[d](h[g]("div")),f=h[g]("iframe"),n="document",p;k.style.display="none";e.insertBefore(k,e.firstChild).id=o+"-"+j;f.frameBorder="0";f.id=o+"-frame-"+j;/MSIE[ ]+6/.test(navigator.userAgent)&&(f[i]="javascript:false");f.allowTransparency="true";l[d](f);try{f.contentWindow[n].open()}catch(s){a.domain=h.domain,p="javascript:var d="+n+".open();d.domain='"+h.domain+"';",f[i]=p+"void(0);"}try{var r=f.contentWindow[n];r.write(b());r.close()}catch(t){f[i]=p+'d.write("'+b().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};a.l&&setTimeout(q,0)})()}();c[b].lv="1";return c[b]}var o="lightningjs",k=window[o]=g(o);k.require=g;k.modules=c}({});
+if(!navigator.userAgent.match(/Android|BlackBerry|BB10|iPhone|iPad|iPod|Opera Mini|IEMobile/i)) {window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/ca95063754e0.js"); } else {window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/fc973043953c.js"); }/*]]>{/literal}*/</script><script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0066/3434.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+<link rel="image_src" href="/-/media/jci/generic-photography/be/be_1200x800_skylight.jpg" />
+<meta property="og:title" content="Our Brands" />
+<meta property="og:description" content="Trust the Johnson Controls Buildings Product Portfolio where you’ll find high quality products that will consistently solve your building challenges – lower energy demand, reduced costs, easier installation, and reliable products for the life of your building." />
+<meta property="og:url" content="http://www.johnsoncontrols.com/buildings/our-brands" />
+<meta property="og:image" content="/-/media/jci/generic-photography/be/be_1200x800_skylight.jpg"/>
+
+    <meta property="og:site_name" content="Our Brands | Johnson Controls" />
+
+
+    
+<link rel="shortcut icon" type="image/x-icon">
+<link rel="icon" href="/-/media/jci/corp/homepage/images/jci.png" type="image/png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/-/media/jci/corp/homepage/images/jci_76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/-/media/jci/corp/homepage/images/jci_120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/-/media/jci/corp/homepage/images/jci_150x150.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/-/media/jci/corp/homepage/images/jci_180x180.png">
+    
+<link href="/include/jci_com/vendor/css/bootstrap/bootstrap.min.css" rel="stylesheet"/>
+
+<link href="/include/jci_com/vendor/css/ScrollPane/jscrollpane.css" rel="stylesheet"/>
+<link href="/include/jci_com/vendor/css/FontAwesome/font-awesome.css" rel="stylesheet"/>
+
+<link href="/include/jci_com/Local/css/jci.css" rel="stylesheet"/>
+
+
+<script src="/include/jci_com/vendor/scripts/jquery/jquery-1.11.3.min.js"></script>
+
+<script src="/include/jci_com/vendor/scripts/plugins/jquery-scrollto.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jquery.validate.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jquery.validate.unobtrusive.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jQueryUI.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jquery.cookie.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/ellipsis.js"></script>
+<script src="/include/jci_com/vendor/scripts/foolproof/mvcfoolproof.unobtrusive.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/bootstrap/bootstrap.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/knockout/knockout-3.3.0.js"></script>
+<script src="/include/jci_com/vendor/scripts/freewall/freewall.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/jQuery.mousewheel.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/jquery.jscrollpane.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/SelectBoxPlugin.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/iframeResizer.min.js"></script>
+
+<script src="/include/jci_com/local/scripts/jci.jQuery.js"></script>
+<script src="/include/jci_com/local/scripts/jci.constants.js"></script>
+<script src="/include/jci_com/local/scripts/jci.utilities.js"></script>
+<script src="/include/jci_com/local/scripts/jci.resize-event.js"></script>
+<script src="/include/jci_com/local/scripts/jci.navigation.js"></script>
+<script src="/include/jci_com/local/scripts/jci.cookies.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-us-sublayout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.filters-base.js"></script>
+<script src="/include/jci_com/local/scripts/jci.observable-filter.js"></script>
+<script src="/include/jci_com/local/scripts/jci.search-input.js"></script>
+<script src="/include/jci_com/local/scripts/jci.paging.js"></script>
+<script src="/include/jci_com/local/scripts/jci.search-base.js"></script>
+<script src="/include/jci_com/local/scripts/jci.media-resource-search-result-base.js"></script>
+<script src="/include/jci_com/local/scripts/jci.experts-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.experts-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.full-site-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.full-site-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.insights-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.media-news-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.insights-list.js"></script>
+<script src="/include/jci_com/local/scripts/jci.insights-sharing.js"></script>
+<script src="/include/jci_com/local/scripts/jci.image-resource-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.video-resource-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.media-resources-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.social-sharing.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-us-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.product-contact-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.resource-links.js"></script>
+<script src="/include/jci_com/local/scripts/jci.resource-download-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.stock-ticker.js"></script>
+<script src="/include/jci_com/local/scripts/jci.sticky-footer.js"></script>
+<script src="/include/jci_com/local/scripts/jci.video-banner.js"></script>
+<script src="/include/jci_com/local/scripts/jci.tabs.js"></script>
+<script src="/include/jci_com/local/scripts/jci.product-filters.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-us-location-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.country-dropdown.js"></script>
+<script src="/include/jci_com/local/scripts/jci.job-search-callout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.image-and-video-gallery.js"></script>
+<script src="/include/jci_com/local/scripts/jci.leadership.js"></script>
+<script src="/include/jci_com/local/scripts/jci.related-callout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.search-overlay.js"></script>
+<script src="/include/jci_com/local/scripts/jci.tweet-quote.js"></script>
+<script src="/include/jci_com/local/scripts/jci.article-sublayout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.preview-mode.js"></script>
+
+
+    <!--Commenting the next line out.  to reenable add the at symbol before the html-->
+    <!--Html.Partial("~/Views/JCI_com/Renderings/Analytics/WebTrends.cshtml")-->
+    <script src="/Include/JCI_com/Vendor/Scripts/WebTrends/webtrends.load.js"></script>
+  
+    <!--[if IE]>
+        <link href="JCI_com/Local/Css/JCI-IE9.css" rel="stylesheet" />
+    <![endif]-->
+    
+    
+<meta name="VIcurrentDateTime" content="636373997477172638" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+
+</head>
+
+<body class="">
+
+    <div class="page-layout">
+        
+<!--SEARCH-->
+<div class="search-overlay">
+
+    <div class="search-overlay-background"></div>
+
+    <div class="search-overlay-main">
+
+        <div class="search-overlay-input-wrapper">
+
+            <input class="search-text-input" type="text" placeholder="Search" />
+
+            <div class="overlay-search-submit">
+
+                <div class="submit-btn">
+                    <div class="icon-search">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="search-overlay-close search-overlay-btn">X Close</div>
+    </div>
+</div>
+
+<script>
+
+    jci.jQuery(function () {
+        jci.searchOverlay.init(".search-overlay", "/search");
+    });
+</script>
+
+    <div class="cookie-header">
+
+        <div class="text">
+            <div>
+<p>This site uses cookies to offer you a better browsing experience. By clicking Approve, you consent to the use of cookies on your device as described in our <a href="/legal/privacy">privacy notice</a>.</p>
+</div>
+        </div>
+
+        <div class="approve-cookie">
+            Approve
+        </div>
+
+    </div>
+
+<script>
+    jci.cookies.init(
+        "JohnsonControls-United States - AcceptsCookies",
+        "true",
+        "true");
+
+    jci.previewMode.init("true");
+</script>
+
+
+
+
+<!--MENU-->
+<div class="menu-dropdown off-right">
+
+    <div class="menu-lists-container sticker" id="sticker">
+            <div class="panel-group menu-scroll-list" id="accordion" role="tablist" aria-multiselectable="true">
+                    <div class="panel">
+
+                        <div class="panel-heading" role="tab" id="menue951cb26-fca5-46c7-9238-f3c6ac1cd2d5">
+                            <h4 class="panel-title">
+                                    <a class="collapsed"
+                                       data-toggle="collapse"
+                                       data-parent="#accordion"
+                                       href="#buildings"
+                                       aria-expanded="false"
+                                       aria-controls="buildings"
+                                       onclick="">
+                                        <i class="dropdown-icon icon icon-buildings"></i>
+                                        <span class="menu-heading title-buildings">Buildings</span>
+                                    </a>
+                            </h4>
+                        </div>
+
+                            <div id="buildings" 
+                                 class="panel-collapse collapse" 
+                                 role="tabpanel" 
+                                 aria-labelledby="menue951cb26-fca5-46c7-9238-f3c6ac1cd2d5">
+
+                                <div class="panel-body">
+
+                                    <ul class="menu-accordian-items">
+                                            <li class="accordian-item">
+<a href='/buildings/air-systems' onclick='' >Air Systems</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/building-management' onclick='' >Building Management</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/hvac-controls' onclick='' >HVAC Controls</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/hvac-equipment' onclick='' >HVAC Equipment</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/security-and-fire-safety' onclick='' >Security and Fire Safety</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/refrigeration' onclick='' >Refrigeration</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/services-and-support' onclick='' >Services  and Support</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/replacement-parts-and-supplies' onclick='' >Replacement Parts and Supplies</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/solutions-by-industry' onclick='' >Solutions by Industry</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/our-brands' onclick='' >Our Brands</a>                                            </li>
+                                    </ul>
+
+
+
+                                </div>
+                            </div>
+                    </div>
+                    <div class="panel">
+
+                        <div class="panel-heading" role="tab" id="menu0e5b15bf-0582-4ce6-be25-c2d9bb15a73b">
+                            <h4 class="panel-title">
+                                    <a class="collapsed"
+                                       data-toggle="collapse"
+                                       data-parent="#accordion"
+                                       href="#batteries"
+                                       aria-expanded="false"
+                                       aria-controls="batteries"
+                                       onclick="">
+                                        <i class="dropdown-icon icon icon-battery"></i>
+                                        <span class="menu-heading title-battery">Batteries</span>
+                                    </a>
+                            </h4>
+                        </div>
+
+                            <div id="batteries" 
+                                 class="panel-collapse collapse" 
+                                 role="tabpanel" 
+                                 aria-labelledby="menu0e5b15bf-0582-4ce6-be25-c2d9bb15a73b">
+
+                                <div class="panel-body">
+
+                                    <ul class="menu-accordian-items">
+                                            <li class="accordian-item">
+<a href='/batteries/capabilities' onclick='' >Capabilities</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/batteries/applications/passenger-vehicles' onclick='' >Applications</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/batteries/lead-acid-batteries/flood-lead-acid-batteries' onclick='' >Lead-acid Products</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/batteries/lithium-ion-batteries' onclick='' >Lithium-ion Products</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/batteries/battery-recycling' onclick='' >Battery Recycling</a>                                            </li>
+                                    </ul>
+
+
+
+                                </div>
+                            </div>
+                    </div>
+                    <div class="panel">
+
+                        <div class="panel-heading" role="tab" id="menud95a0fbc-ffc5-4ad4-a0b8-457297df174d">
+                            <h4 class="panel-title">
+                                    <a class="collapsed"
+                                       data-toggle="collapse"
+                                       data-parent="#accordion"
+                                       href="#distributed-energy-storage"
+                                       aria-expanded="false"
+                                       aria-controls="distributed-energy-storage"
+                                       onclick="">
+                                        <i class="dropdown-icon icon icon-energystorage"></i>
+                                        <span class="menu-heading title-energystorage">Distributed Energy Storage</span>
+                                    </a>
+                            </h4>
+                        </div>
+
+                            <div id="distributed-energy-storage" 
+                                 class="panel-collapse collapse" 
+                                 role="tabpanel" 
+                                 aria-labelledby="menud95a0fbc-ffc5-4ad4-a0b8-457297df174d">
+
+                                <div class="panel-body">
+
+                                    <ul class="menu-accordian-items">
+                                            <li class="accordian-item">
+<a href='/distributed-energy-storage/capabilities' onclick='' >Capabilities</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/distributed-energy-storage/applications' onclick='' >Applications</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/distributed-energy-storage/energy-storage-solutions' onclick='' >Energy Storage Solutions</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/distributed-energy-storage/news-and-resources' onclick='' >News and Resources</a>                                            </li>
+                                    </ul>
+
+
+
+                                </div>
+                            </div>
+                    </div>
+            </div>
+
+                <div class="menu-divider"></div>
+                <ul class="menu-main-categories">
+                        <li class="menu-category">
+<a href='/about-us/our-company' onclick='' >About Us</a>                        </li>
+                        <li class="menu-category">
+<a href='/careers/why-johnson-controls' onclick='' >Careers</a>                        </li>
+                        <li class="menu-category">
+<a href='/media-center/news' onclick='' >Media</a>                        </li>
+                        <li class="menu-category">
+<a href='/investors' onclick='' >Investors</a>                        </li>
+                        <li class="menu-category">
+<a href='/insights' onclick='' >Insights</a>                        </li>
+                        <li class="menu-category">
+<a href='/corporate-sustainability/environment' onclick='' >Corporate Sustainability </a>                        </li>
+                        <li class="menu-category">
+<a href='/suppliers' onclick='' >Suppliers</a>                        </li>
+                        <li class="menu-category">
+<a href='/contact-us' onclick='' >Contact</a>                        </li>
+                        <li class="menu-category">
+<a href='/login' onclick='' target='_self' >Login</a>                        </li>
+                </ul>
+
+                <div class="menu-divider"></div>
+            <div class="menu-social-container">
+                    <a href="https://www.facebook.com/JohnsonControls" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-facebook"></i>
+                    </a>
+                    <a href="https://twitter.com/johnsoncontrols" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                    <a href="https://www.youtube.com/user/JohnsonControlsInc/JohnsonControls" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-youtube"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/company/johnson-controls" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://www.instagram.com/johnsoncontrols/" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-instagram"></i>
+                    </a>
+            </div>
+    </div>
+</div>
+
+
+
+<div class="menu-shadow-overlay">
+
+</div>
+
+<div class="header initial-load-2 load-animations" >
+    <a href="/">
+        <img src='/-/media/jci/corp/homepage/images/jci-logo-black-and-white.png' class='logo header-logo' alt='jci-logo' />
+    </a>
+
+
+    <div class="header-items">
+
+        <div class="header-search search-overlay-btn">
+            <div class="icon-search"></div>
+        </div>
+
+        <div class="header-text">
+                <a href="/site-selector-page" class="loginicon"><i class="fa fa-globe"></i></a>
+            
+<a href='/site-selector-page' >Select a Country</a>        </div>
+
+    </div>
+
+    <div class="menu-btn">
+        <!--
+        <div class="menu-burger">
+            <div class="icon-menu"></div>
+            <div class="icon icon-menu-closed"></div>
+        </div>
+        -->
+        <div class="nav-icon" id="nav-icon">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+
+        <div class="text">
+            Menu
+        </div>
+    </div>
+</div>    <div class="breadcrumb-control">
+        
+        <ol class="breadcrumb">
+                    <li class="">
+
+Buildings                    </li>
+                    <li class="active">
+
+                            <a href="/buildings/our-brands">
+                                Our Brands
+                                
+                            </a>
+                    </li>
+
+        </ol>
+
+    </div>
+
+
+
+
+
+    <div class="small-hero" style="background: url('/-/media/jci/be/united-states/our-brands/be_masthead_brandsimg.jpg') no-repeat;
+                                      background: -moz-radial-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.75) 100%), url('/-/media/jci/be/united-states/our-brands/be_masthead_brandsimg.jpg') no-repeat;
+                                      background: -webkit-radial-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.75) 100%), url('/-/media/jci/be/united-states/our-brands/be_masthead_brandsimg.jpg') no-repeat;
+                                      background: -ms-radial-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.75) 100%), url('/-/media/jci/be/united-states/our-brands/be_masthead_brandsimg.jpg') no-repeat;
+                                      background: radial-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.75) 100%), url('/-/media/jci/be/united-states/our-brands/be_masthead_brandsimg.jpg') no-repeat;
+                                      background-size:cover;
+                                      background-position:center">
+                             
+
+        <div class="small-hero-overlay">
+        </div>
+
+        <div class="small-hero-title">
+
+        </div>
+
+        <div class="small-hero-subtitle">
+
+        </div>
+    </div>
+
+            <div class="reg-text-header">
+        <h1>Our Brands</h1>
+    </div>
+    <div class="thin-text-header page-sub">
+        <h2>The Buildings Product Portfolio</h2>
+    </div>
+    <div class="container content-text page-sub">
+        <div style="text-align: center;">
+<p><span class="rte-subtitle">Fire and Security Brands</span></p>
+<table style="margin: auto; text-align: center;">
+    <tbody>
+        <tr>
+            <td style="padding: 10px; height: 150px;"><a href="http://www.americandynamics.net/"><img alt="" width="200" height="35" src="/-/media/jci/be/united-states/our-brands/tyco-brands/american-dynamics-no-endorsement.jpg?la=en&amp;hash=688E0668541685F52452AAF1E6953CA0CB08E553"></a><br>
+            </td>
+            <td style="padding: 10px; height: 150px;"><a href="https://www.ansul.com/en/us/pages/default.aspx"><img alt="" width="200" height="63" src="/-/media/jci/be/united-states/our-brands/tyco-brands/ansul-high-res.jpg?la=en&amp;hash=915E76FE7BAB5A3320479F1B5E71DC19D70C6C98"></a><br>
+            </td>
+            <td style="padding: 10px; height: 150px;"><a href="http://www.chemguard.com/"><img alt="" width="151" height="23" src="/-/media/jci/be/united-states/our-brands/tyco-brands/chemguard.png?la=en&amp;hash=B46977EF3D3E07FD39CB71C5C3992F220BB340F0"></a><br>
+            </td>
+            <td style="padding: 10px; height: 150px;"><a href="http://grinnell.com/index.php?section=home"><img alt="" width="200" height="46" src="/-/media/jci/be/united-states/our-brands/tyco-brands/grinnell.jpg?la=en&amp;hash=B5F353017E1E361D2FF201480D6D0F27EF5A7768"></a><br>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; height: 150px;">&nbsp;<a href=" http://www.tyco.com/about/our-business/security-installation-services "><img alt="" width="100" height="99" src="/-/media/jci/be/united-states/our-brands/tyco-brands/adt-stop-sign.jpg?la=en&amp;hash=CFEC2597551C6F8DB1207ECA601F188545F2D199"></a></td>
+            <td style="padding: 10px; height: 150px;">&nbsp;<a href="https://exacq.com/index.php"><img alt="" width="200" height="72" src="/-/media/jci/be/united-states/our-brands/tyco-brands/exacqnoendorsementrgb.jpg?la=en&amp;hash=C0883F46CF671F6E5FF6772D140D56AA5507EE9A"></a></td>
+            <td style="padding: 10px; height: 150px;">&nbsp;<a href="http://www.dsc.com/"><img alt="" width="172" height="48" src="/-/media/jci/be/united-states/our-brands/tyco-brands/dsc-logo.jpg?la=en&amp;hash=EBBA165C6BE8B0BE4164A0FFFDC97CA4FBB6F31F"></a></td>
+            <td style="padding: 10px; height: 150px;">&nbsp;<a href="http://www.kantech.com/"><img alt="" width="200" height="37" src="/-/media/jci/be/united-states/our-brands/tyco-brands/kantech-high-res.jpg?la=en&amp;hash=307806E60F14F749A86A5915AE511FA2FFB65BA1"></a></td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; height: 150px;">&nbsp;<a href="https://www.scottsafety.com/Pages/ScottHome.aspx"><img alt="" width="200" height="41" src="/-/media/jci/be/united-states/our-brands/tyco-brands/scott-safety-high-res.jpg?la=en&amp;hash=B0F8731AED1D526690E9A844AB9B053F5A6A86C2"></a></td>
+            <td style="padding: 10px; height: 150px;">&nbsp;<a href="http://tycoretailsolutions.com/Pages/Home.aspx"><img alt="" width="200" height="36" src="/-/media/jci/be/united-states/our-brands/tyco-brands/sensormatic_logo_rgb-(1).png?la=en&amp;hash=D8390D1C54B742A83550B40D519348C67ECFFBDC"></a></td>
+            <td style="padding: 10px; height: 150px;">&nbsp;<a href="http://www.shoppertrak.com/%20"><img alt="" width="200" height="35" src="/-/media/jci/be/united-states/our-brands/tyco-brands/shoppertrak.png?la=en&amp;hash=946882883A36F233E7129574095FCD1C00D43AA5"></a></td>
+            <td style="padding: 10px; height: 150px;">&nbsp;<a href="https://simplex-fire.com/en/us/Pages/default.aspx"><img alt="" width="200" height="38" src="/-/media/jci/be/united-states/our-brands/tyco-brands/simplex-high-res.jpg?la=en&amp;hash=A618D949704283725668F95AC5ABA779CC8FDDB7"></a></td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; height: 150px;">&nbsp;<a href="http://www.swhouse.com/"><img alt="" width="200" height="27" src="/-/media/jci/be/united-states/our-brands/tyco-brands/software-house.jpg?la=en&amp;hash=8F9937176300B4087F50C397AE46BF8BB85EE125"></a></td>
+            <td style="padding: 10px; height: 150px;">&nbsp;<a href="http://www.tycoretailsolutions.com/Pages/Home.aspx"><img alt="" width="200" height="50" src="/-/media/jci/be/united-states/our-brands/tyco-brands/truevue_rgb.jpg?la=en&amp;hash=6F0FDBE6C816079A0C45DA5C33B205C951E49541"></a></td>
+            <td style="padding: 10px; height: 150px;"><a href="http://www.tyco.com/"><img alt="" width="200" height="46" src="/-/media/jci/be/united-states/our-brands/tyco-brands/tyco-integrated-fire--security-2.png?la=en&amp;hash=F1866E833DF019CCDADE924F611B5E8C3875A0C5"></a>&nbsp;</td>
+            <td style="padding: 10px; height: 150px;">&nbsp;<a href="http://www.tycois.com"><img alt="" width="200" height="46" src="/-/media/jci/be/united-states/our-brands/tyco-brands/tyco-integrated-security.jpg?la=en&amp;hash=E6DE79B1A344FD0CAA92EDCCABD9D4B59A94B6CF"></a></td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; height: 150px;">&nbsp;<a href="https://www.tycosimplexgrinnell.com/"><img alt="" width="200" height="51" src="/-/media/jci/be/united-states/our-brands/tyco-brands/tyco-simplex-grinnell-high-res.png?la=en&amp;hash=BFBC9DC4F3C1C96B4253ADDB5895B0C6C7DF483D"></a></td>
+            <td style="padding: 10px; height: 150px;"><a href="https://www.cemsys.com/products" target="_blank"><img alt="" height="43" width="200" src="/-/media/jci/be/united-states/our-brands/tyco-brands/cemlrgnoendorsementcmykbluelogo.png?la=en&amp;hash=9F038AC8BBB9615D5F51E46627A1DBC7286196AA"></a>&nbsp;</td>
+            <td style="padding: 10px; height: 150px;">&nbsp;</td>
+            <td style="padding: 10px; height: 150px;">&nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+&nbsp;
+<p><span style="text-align: left; line-height: 1.4em; font-size: 28px; color: #2cbcb1;">&nbsp;</span></p>
+<p style="text-align: center;"><span style="text-align: left; line-height: 1.4em; font-size: 28px; color: #2cbcb1;">Cooling and Heating Equipment Brands</span></p>
+<table style="margin: auto; text-align: center;">
+    <tbody>
+        <tr>
+            <td><a href="/buildings/our-brands/york"><img width="164" height="55" alt="york" src="/-/media/jci/be/united-states/our-brands/new/york.jpg?la=en&amp;hash=A4EF49E1B2C566E6DF685F892B3DA900A5E136AB"></a>
+            </td>
+            <td><a href="/buildings/our-brands/quantech"><img width="200" height="133" alt="Quantech" src="/-/media/jci/be/united-states/our-brands/brand-page-logos/becst_logo_quantech.jpg?la=en&amp;hash=ABD8CE7682B27F96C890F8D810F405B08D09BC3B"></a><a href="/buildings/our-brands/tempmaster"><img width="200" height="133" alt="TempMaster" src="/-/media/jci/be/united-states/our-brands/brand-page-logos/becst_logo_tempmaster.jpg?la=en&amp;hash=BAF2D309CE4F2562CA861A8D6769FC590F8BD55F"></a>&nbsp;<br>
+            </td>
+            <td><a href="/buildings/our-brands/smartflex"><img width="200" height="133" alt="SmartFlex" src="/-/media/jci/be/united-states/our-brands/brand-page-logos/becst_logo_smartflex.jpg?la=en&amp;hash=6A3EB9C528425A71B4AEFF028AC634007C2A6B02"></a>&nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+<table style="margin: auto;">
+    <tbody>
+        <tr>
+            <td><a href="/buildings/our-brands/luxaire" style="text-align: center;"><img width="200" height="133" alt="Luxaire" src="/-/media/jci/be/united-states/our-brands/brand-page-logos/becst_logo_luxaire.jpg?la=en&amp;hash=592EC613DD2ADFEE11BD249376EE760828CB22B1"></a><br>
+            </td>
+            <td><a href="/buildings/our-brands/hitachi"><img alt="" width="200" height="133" src="/-/media/jci/be/united-states/our-brands/brand-page-logos/becst_logo_hitachi-no-text.jpg?la=en&amp;hash=C1D16B5591179738A99C43CA21328A49806FC85A"></a><a href="/buildings/our-brands/coleman" style="text-align: center;"><img width="200" height="133" alt="Coleman" src="/-/media/jci/be/united-states/our-brands/brand-page-logos/becst_logo_coleman.jpg?la=en&amp;hash=85FE266CD76E08EB16D5EF62E63D860DAF630439"></a><br>
+            </td>
+            <td>&nbsp;<a href="/buildings/our-brands/guardian"><img width="200" height="133" alt="Guardian" src="/-/media/jci/be/united-states/our-brands/brand-page-logos/becst_logo_guardian.jpg?la=en&amp;hash=7EF8C7505435ADCCE367F012EC20750BDD20F145"></a></td>
+        </tr>
+        <tr>
+            <td>&nbsp;<a href="/buildings/our-brands/champion"><img width="200" height="133" alt="Champion Heating and Cooling" src="/-/media/jci/be/united-states/our-brands/brand-page-logos/becst_logo_champion.jpg?la=en&amp;hash=8314AA5D1F32DC2C44FB85FE94029A05E41BB4BA"></a></td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+<p style="text-align: center;"><span style="text-align: left; line-height: 1.4em; font-size: 28px; color: #2cbcb1;">Building Automation Brands</span></p>
+<table style="margin: auto; text-align: center;">
+    <tbody>
+        <tr>
+            <td colspan="2"><a href="/en_in/buildings/our-brands/metasys"><img width="200" height="133" alt="Metasys" src="/-/media/jci/be/united-states/our-brands/brand-page-logos/becst_logo_metasys.jpg?la=en&amp;hash=13CC1235C9DC44174324A7342BE3E351B4687CB6"></a>&nbsp;<a href="/buildings/our-brands/facility-explorer"><img alt="" width="200" height="133" src="/-/media/jci/be/united-states/our-brands/new/becst_logo_fx_york_ruskins_koch_facility-explorer-no-border.png?la=en&amp;hash=C8BCFB72D5639ABDCFD33F2AFB6F1FE99B864D6D"></a></td>
+        </tr>
+    </tbody>
+</table>
+<p style="text-align: center;"><span class="rte-subtitle" style="text-align: left;"><br>
+</span></p>
+<p style="text-align: center;"><span class="rte-subtitle" style="text-align: left;">Refrigeration Brands
+</span></p>
+<table style="margin: auto;">
+    <tbody>
+        <tr>
+            <td>&nbsp;<a href="http://www.johnsoncontrols.com/buildings/refrigeration/industrial-refrigeration"><img width="200" height="134" alt="Frick " src="/-/media/jci/be/united-states/our-brands/brand-page-logos/becst_logo_frick.jpg?la=en&amp;hash=3FA32547D75A19E4F92C98B699099EEE50A5F12B"></a></td>
+            <td><a href="/buildings/our-brands/sabroe"><img width="200" height="133" alt="Sabroe " src="/-/media/jci/be/united-states/our-brands/brand-page-logos/becst_logo_be_cst_sabroe.jpg?la=en&amp;hash=E4A772EA036474929EAF6F6E4A035F1661134879"></a>&nbsp;</td>
+            <td><a href="/buildings/our-brands/penn"><img width="200" height="134" alt="Penn" src="/-/media/jci/be/united-states/our-brands/brand-page-logos/becst_logo_penn2.jpg?la=en&amp;hash=7022D581FF0C192A919E779E00DC846EB35368DA"></a>&nbsp;</td>
+            <td><a href="http://www.johnsoncontrols.com/buildings/refrigeration/york-process-systems"><img width="200" height="134" alt="York Process Systems" src="/-/media/jci/be/united-states/our-brands/brand-page-logos/becst_logo_yps.jpg?la=en&amp;hash=C82E4B5E87B3A4E2E7744419EE9A45AA4F29DF50"></a>&nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+<p style="text-align: center;"><span class="rte-subtitle" style="text-align: left;"><br>
+</span></p>
+<p style="text-align: center;"><span class="rte-subtitle" style="text-align: left;">Air Distribution Brands</span></p>
+<table style="margin: auto; text-align: center;">
+    <tbody>
+        <tr>
+            <td>&nbsp;<a href="/buildings/our-brands/ruskin"><img alt="" width="200" height="133" src="/-/media/jci/be/united-states/our-brands/new/becst_logo_fx_york_ruskins_koch_ruskin-no-border.png?la=en&amp;hash=635CFB15F9764E812966FBFF93A5D5AAF460EB09"></a></td>
+            <td><a href="/buildings/our-brands/titus"><img width="200" height="133" alt="Titus Air Systems" src="/-/media/jci/be/united-states/our-brands/brand-page-logos/becst_logo_titus.jpg?la=en&amp;hash=41B02C1850604770636FA139C09E776D8F653EA0"></a>&nbsp;</td>
+            <td><a href="/buildings/our-brands/krueger"><img alt="" width="200" height="133" src="/-/media/jci/be/united-states/our-brands/brand-page-logos/becst_logo_krueger.jpg?la=en&amp;hash=A1AF8B88151CA499884752E675B5ED415B11FB2F"></a>&nbsp;</td>
+            <td>&nbsp;<a href="/buildings/our-brands/pennbarry"><img width="200" height="133" alt="PennBarry" src="/-/media/jci/be/united-states/our-brands/brand-page-logos/becst_logo_pennbarry.jpg?la=en&amp;hash=87A333F18193F1BCECC270AEFA7DB0AA93C8B1F0"></a></td>
+        </tr>
+        <tr>
+            <td>&nbsp;<a href="/buildings/our-brands/lau"><img width="200" height="133" alt="Lau Air Systems" src="/-/media/jci/be/united-states/our-brands/brand-page-logos/becst_logo_lau.jpg?la=en&amp;hash=2ED987F204D51996DA58197B5E4F76BB4D4BF1BC"></a></td>
+            <td><a href="/buildings/our-brands/koch-filters"><img alt="" width="200" height="133" src="/-/media/jci/be/united-states/our-brands/new/becst_logo_fx_york_ruskins_koch_koch-filters-no-border.png?la=en&amp;hash=89B4BC9E332A0EDFF7EA50AE6668D526B77FBFCC"></a>&nbsp;</td>
+            <td><a href="/buildings/our-brands/selkirk"><img width="200" height="133" alt="Selkirk" src="/-/media/jci/be/united-states/our-brands/brand-page-logos/becst_logo_selkirk.jpg?la=en&amp;hash=EFC7C9FEB03702784419DD3EDF1019501450D34B"></a>&nbsp;</td>
+            <td><a href="/buildings/our-brands/hart-and-cooley"><img width="200" height="133" alt="Hart & Cooley" src="/-/media/jci/be/united-states/our-brands/no-boarder/becst_logo_hartcooley.jpg?la=en&amp;hash=28A1BA63A55D7496306DA2C040091175C09E4561"></a>&nbsp;</td>
+        </tr>
+        <tr>
+            <td><a href="/buildings/our-brands/enviro-tec"><img width="384" height="256" alt="Enviro-tec" src="/-/media/jci/be/united-states/our-brands/logos_etc_witt_enviro_tec_no-border.png?la=en&amp;hash=3EFBCDDBE4A142E5DA0891AFF04765F21BE3D372"></a>&nbsp;</td>
+            <td>&nbsp;<a href="/buildings/our-brands/trion"><img alt="" width="200" height="133" src="/-/media/jci/be/united-states/our-brands/logos_etc_witt_trion_no-border.png?la=en&amp;hash=CEA7829A4112A64CAF1DC9A640EA80965D5DC0D8"></a></td>
+            <td><a href="/buildings/our-brands/tuttle-and-bailey"><img alt="" width="200" height="133" src="/-/media/jci/be/united-states/our-brands/brand-page-logos/becst_logo_tuttle-with-border.jpg?la=en&amp;hash=9F7983BBAA00A18020F38ECC7AD50ADBF0B1E03D"></a>&nbsp;</td>
+            <td>&nbsp;<a href="/buildings/our-brands/envirco"><img width="200" height="133" alt="Envirco" src="/-/media/jci/be/united-states/our-brands/brand-page-logos/becst_logo_envirco.jpg?la=en&amp;hash=D4647055AC55BA4EDA5C6581AA8AE5E07C516E45"></a></td>
+        </tr>
+        <tr>
+            <td>&nbsp;<a href="/buildings/our-brands/miller-picking"><img alt="" height="51" width="302" src="/-/media/jci/be/united-states/our-brands/millerpicking_logoresize.jpg?la=en&amp;hash=15AA21EC083BD26FEDFC7FD67ED5E64DC639C8E6"></a></td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+<center>
+<br>
+</center><center class="rte-subtitle"><span style="text-align: left; line-height: 1.4em;"><br>
+</span></center><center class="rte-subtitle"><span style="text-align: left; line-height: 1.4em;">Parts Brands</span></center><center class="rte-subtitle">
+</center>
+</div>
+<table style="margin: auto;">
+    <tbody>
+        <tr>
+            <td>&nbsp;<a href="/buildings/our-brands/york"><img alt="" width="200" height="87" src="/-/media/jci/be/united-states/our-brands/new/affiliate_york_processsystems_200x87.jpg?la=en&amp;hash=D23400FE2AA0FF5647873B916D12526C3080EB95"></a></td>
+            <td>&nbsp;<a href="/buildings/our-brands/source-one-parts"><img alt="" width="200" height="133" src="/-/media/jci/be/united-states/our-brands/brand-page-logos/becst_logo_source2.jpg?la=en&amp;hash=3B07EF28D49D0317EA935B937B189A76EB48437A"></a></td>
+            <td>&nbsp;<a href="/buildings/our-brands/frick"><img width="200" height="114" alt="Frick Parts" src="/-/media/jci/be/united-states/our-brands/new/befrick_ir-logo_parts.jpg?la=en&amp;hash=718353FD3E8BF4E8F89B639541CA3CE182955627"></a></td>
+        </tr>
+    </tbody>
+</table>
+    </div>
+
+
+    <div class="button-call-to-action">
+
+View our full range of capabilities
+        <div class="btn-wrapper">
+
+            <div class="Orange Small">
+
+<a href='/-/media/jci/be/united-states/our-brands/files/8038_be_comprehensive_linecard_final_pages__electronitc.pdf' onclick='' target='_blank' >Download PDF</a>            </div>
+        </div>
+    </div>
+
+        
+
+
+<div class="spacer"></div>
+<div class="footer" style="background-image: url('/-/media/jci/header-and-footer/skylinebuildingsnewyorkskyscrapers.jpg')">
+
+    <div class="footer-content container">
+        <a href="/">
+            <img src='/-/media/jci/corp/homepage/images/jci-logo-color.png' class='footer-logo' alt='jci logo color' />
+        </a>
+            <div class="footer-main-box">
+
+                <div class="footer-row row">
+
+                        <div class="footer-left col-md-2 col-sm-6">
+                            <div class="footer-col-title">
+                                Buildings
+                            </div>
+
+                                <ul class="footer-list">
+                                        <li>
+<a href='/buildings/air-systems' onclick='' >Air Systems</a>                                        </li>
+                                        <li>
+<a href='/buildings/building-management' onclick='' >Building Management</a>                                        </li>
+                                        <li>
+<a href='/buildings/hvac-controls' onclick='' >HVAC Controls</a>                                        </li>
+                                        <li>
+<a href='/buildings/hvac-equipment' onclick='' >HVAC Equipment</a>                                        </li>
+                                        <li>
+<a href='/buildings/security-and-fire-safety' onclick='' >Security and Fire Safety</a>                                        </li>
+                                        <li>
+<a href='/buildings/refrigeration' onclick='' >Refrigeration</a>                                        </li>
+                                        <li>
+<a href='/buildings/services-and-support' onclick='' >Services  and Support</a>                                        </li>
+                                        <li>
+<a href='/buildings/replacement-parts-and-supplies' onclick='' >Replacement Parts and Supplies</a>                                        </li>
+                                        <li>
+<a href='/buildings/solutions-by-industry' onclick='' >Solutions by Industry</a>                                        </li>
+                                        <li>
+<a href='/buildings/our-brands' onclick='' >Our Brands</a>                                        </li>
+                                </ul>
+                        </div>
+                        <div class="footer-left col-md-2 col-sm-6">
+                            <div class="footer-col-title">
+                                Batteries
+                            </div>
+
+                                <ul class="footer-list">
+                                        <li>
+<a href='/batteries/capabilities' onclick='' >Capabilities</a>                                        </li>
+                                        <li>
+<a href='/batteries/applications/passenger-vehicles' onclick='' >Applications</a>                                        </li>
+                                        <li>
+<a href='/batteries/lead-acid-batteries/flood-lead-acid-batteries' onclick='' >Lead-acid Products</a>                                        </li>
+                                        <li>
+<a href='/batteries/lithium-ion-batteries' onclick='' >Lithium-ion Products</a>                                        </li>
+                                        <li>
+<a href='/batteries/battery-recycling' onclick='' >Battery Recycling</a>                                        </li>
+                                </ul>
+                        </div>
+                        <div class="footer-left col-md-2 col-sm-6">
+                            <div class="footer-col-title">
+                                Distributed Energy Storage
+                            </div>
+
+                                <ul class="footer-list">
+                                        <li>
+<a href='/distributed-energy-storage/capabilities' onclick='' >Capabilities</a>                                        </li>
+                                        <li>
+<a href='/distributed-energy-storage/applications' onclick='' >Applications</a>                                        </li>
+                                        <li>
+<a href='/distributed-energy-storage/energy-storage-solutions' onclick='' >Energy Storage Solutions</a>                                        </li>
+                                        <li>
+<a href='/distributed-energy-storage/news-and-resources' onclick='' >News and Resources</a>                                        </li>
+                                </ul>
+                        </div>
+
+                    <div class="footer-divider"></div>
+
+                        <div class="footer-right-1 col-md-2 col-sm-6">
+                            <ul class="footer-list">
+                                    <li>
+<a href='/about-us/our-company' onclick='' >About Us</a>                                    </li>
+                                    <li>
+<a href='/careers/why-johnson-controls' onclick='' >Careers</a>                                    </li>
+                                    <li>
+<a href='/media-center/news' onclick='' >Media</a>                                    </li>
+                                    <li>
+<a href='/investors' onclick='' >Investors</a>                                    </li>
+                                    <li>
+<a href='/insights' onclick='' >Insights</a>                                    </li>
+                                    <li>
+<a href='/corporate-sustainability' onclick='' >Corporate Sustainability</a>                                    </li>
+                                    <li>
+<a href='/about-us/ethics-and-compliance' onclick='' target='_self' >Ethics</a>                                    </li>
+                                    <li>
+<a href='/suppliers' onclick='' target='_self' >Suppliers</a>                                    </li>
+                                    <li>
+<a href='/location-finder' onclick='' target='_self' >Locations</a>                                    </li>
+                                    <li>
+<a href='/contact-us' onclick='' >Contact</a>                                    </li>
+                                    <li>
+<a href='/legal/terms' onclick='' >Legal</a>                                    </li>
+                            </ul>
+                        </div>
+
+
+                    <div class="footer-right-2 col-md-4 col-sm-6">
+
+                            <div class="footer-country">
+                                <a href="/site-selector-page" target="">
+                                    <i class="fa fa-globe"></i>
+                                    Select a Country
+                                </a>
+                                
+                            </div>
+
+                        <div class="footer-social-container">
+                                <a href="https://www.facebook.com/JohnsonControls" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-facebook"></i>
+                                </a>
+                                <a href="https://twitter.com/johnsoncontrols" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-twitter"></i>
+                                </a>
+                                <a href="https://www.youtube.com/user/JohnsonControlsInc/JohnsonControls" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-youtube"></i>
+                                </a>
+                                <a href="https://www.linkedin.com/company/johnson-controls" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-linkedin"></i>
+                                </a>
+                                <a href="https://www.instagram.com/johnsoncontrols/" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-instagram"></i>
+                                </a>
+                        </div>
+                    </div>
+
+                    <div class="footer-copy">
+                        <p>© 2017 Johnson Controls. All Rights Reserved | <a href="http://www.miitbeian.gov.cn" target="_blank">沪ICP备16004024号</a></p>
+                    </div>
+                </div>
+            </div>
+</div>
+</div>
+
+    </div>
+    
+    
+
+<script>
+    jci.jQuery(function () {
+        var enableTweetQuote = 1; 
+        jci.tweetQuote.init(enableTweetQuote, window.location.href, "Share On Twitter");
+
+    });
+</script>
+
+    <script type="text/javascript">
+
+    piAId = '55162';
+    piCId = '1020';
+
+    (function () {
+        function async_load() {
+            var s = document.createElement('script'); s.type = 'text/javascript';
+            s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+            var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+        }
+        if (window.attachEvent) { window.attachEvent('onload', async_load); }
+        else { window.addEventListener('load', async_load, false); }
+    })();
+
+</script>
+
+    <script type="text/javascript">
+    (function() {
+        var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+        sz.src = '//siteimproveanalytics.com/js/siteanalyze_33556.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+        })();
+</script>
+
+
+        <!--ServerName: PRODCD1 -->
+
+</body>
+</html>

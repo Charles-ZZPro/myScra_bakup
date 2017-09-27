@@ -1,0 +1,744 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6 zh" lang="en" > <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7 zh" lang="en" > <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8 zh" lang="en" > <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="zh" class="zh">
+<!--<![endif]-->
+
+<head>
+
+    <script>
+        var jci = {};
+        jci.virtualFolder = '/zh_cn/';
+    </script>
+
+    
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+
+<title>江森自控全球能源与可持续发展副总裁聂可为接受采访</title>
+<link rel="canonical" href="http://www.johnsoncontrols.com/zh_cn/media-center/news/press-releases/2017/03/27/clay-interview" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0066/3434.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+<link rel="image_src" href="" />
+<meta property="og:title" content="江森自控全球能源与可持续发展副总裁聂可为接受采访" />
+<meta property="og:description" content="" />
+<meta property="og:url" content="http://www.johnsoncontrols.com/zh_cn/media-center/news/press-releases/2017/03/27/clay-interview" />
+<meta property="og:image" content=""/>
+
+    <meta property="og:site_name" content="江森自控全球能源与可持续发展副总裁聂可为接受采访" />
+
+
+    
+<link rel="shortcut icon" type="image/x-icon">
+<link rel="icon" href="/zh_cn/-/media/jci/corp/homepage/images/jci.png" type="image/png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/zh_cn/-/media/jci/corp/homepage/images/jci_76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/zh_cn/-/media/jci/corp/homepage/images/jci_120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/zh_cn/-/media/jci/corp/homepage/images/jci_150x150.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/zh_cn/-/media/jci/corp/homepage/images/jci_180x180.png">
+    
+<link href="/include/jci_com/vendor/css/bootstrap/bootstrap.min.css" rel="stylesheet"/>
+
+<link href="/include/jci_com/vendor/css/ScrollPane/jscrollpane.css" rel="stylesheet"/>
+<link href="/include/jci_com/vendor/css/FontAwesome/font-awesome.css" rel="stylesheet"/>
+
+<link href="/include/jci_com/Local/css/jci.css" rel="stylesheet"/>
+
+
+<script src="/include/jci_com/vendor/scripts/jquery/jquery-1.11.3.min.js"></script>
+
+<script src="/include/jci_com/vendor/scripts/plugins/jquery-scrollto.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jquery.validate.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jquery.validate.unobtrusive.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jQueryUI.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jquery.cookie.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/ellipsis.js"></script>
+<script src="/include/jci_com/vendor/scripts/foolproof/mvcfoolproof.unobtrusive.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/bootstrap/bootstrap.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/knockout/knockout-3.3.0.js"></script>
+<script src="/include/jci_com/vendor/scripts/freewall/freewall.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/jQuery.mousewheel.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/jquery.jscrollpane.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/SelectBoxPlugin.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/iframeResizer.min.js"></script>
+
+<script src="/include/jci_com/local/scripts/jci.jQuery.js"></script>
+<script src="/include/jci_com/local/scripts/jci.constants.js"></script>
+<script src="/include/jci_com/local/scripts/jci.utilities.js"></script>
+<script src="/include/jci_com/local/scripts/jci.resize-event.js"></script>
+<script src="/include/jci_com/local/scripts/jci.navigation.js"></script>
+<script src="/include/jci_com/local/scripts/jci.cookies.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-us-sublayout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.filters-base.js"></script>
+<script src="/include/jci_com/local/scripts/jci.observable-filter.js"></script>
+<script src="/include/jci_com/local/scripts/jci.search-input.js"></script>
+<script src="/include/jci_com/local/scripts/jci.paging.js"></script>
+<script src="/include/jci_com/local/scripts/jci.search-base.js"></script>
+<script src="/include/jci_com/local/scripts/jci.media-resource-search-result-base.js"></script>
+<script src="/include/jci_com/local/scripts/jci.experts-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.experts-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.full-site-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.full-site-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.insights-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.media-news-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.insights-list.js"></script>
+<script src="/include/jci_com/local/scripts/jci.insights-sharing.js"></script>
+<script src="/include/jci_com/local/scripts/jci.image-resource-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.video-resource-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.media-resources-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.social-sharing.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-us-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.product-contact-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.resource-links.js"></script>
+<script src="/include/jci_com/local/scripts/jci.resource-download-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.stock-ticker.js"></script>
+<script src="/include/jci_com/local/scripts/jci.sticky-footer.js"></script>
+<script src="/include/jci_com/local/scripts/jci.video-banner.js"></script>
+<script src="/include/jci_com/local/scripts/jci.tabs.js"></script>
+<script src="/include/jci_com/local/scripts/jci.product-filters.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-us-location-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.country-dropdown.js"></script>
+<script src="/include/jci_com/local/scripts/jci.job-search-callout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.image-and-video-gallery.js"></script>
+<script src="/include/jci_com/local/scripts/jci.leadership.js"></script>
+<script src="/include/jci_com/local/scripts/jci.related-callout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.search-overlay.js"></script>
+<script src="/include/jci_com/local/scripts/jci.tweet-quote.js"></script>
+<script src="/include/jci_com/local/scripts/jci.article-sublayout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.preview-mode.js"></script>
+
+
+    <!--Commenting the next line out.  to reenable add the at symbol before the html-->
+    <!--Html.Partial("~/Views/JCI_com/Renderings/Analytics/WebTrends.cshtml")-->
+    <script src="/Include/JCI_com/Vendor/Scripts/WebTrends/webtrends.load.js"></script>
+  
+    <!--[if IE]>
+        <link href="JCI_com/Local/Css/JCI-IE9.css" rel="stylesheet" />
+    <![endif]-->
+    
+    
+<meta name="VIcurrentDateTime" content="636374283546940678" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+
+</head>
+
+<body class="">
+
+    <div class="page-layout">
+        
+<!--SEARCH-->
+<div class="search-overlay">
+
+    <div class="search-overlay-background"></div>
+
+    <div class="search-overlay-main">
+
+        <div class="search-overlay-input-wrapper">
+
+            <input class="search-text-input" type="text" placeholder="Search" />
+
+            <div class="overlay-search-submit">
+
+                <div class="submit-btn">
+                    <div class="icon-search">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="search-overlay-close search-overlay-btn">X 关闭 
+</div>
+    </div>
+</div>
+
+<script>
+
+    jci.jQuery(function () {
+        jci.searchOverlay.init(".search-overlay", "/zh_cn/search");
+    });
+</script>
+
+    <div class="cookie-header">
+
+        <div class="text">
+            本网站使用cookies为您提供更好的浏览体验。点击批准，您同意将您的设备上使用cookies在<a href="/legal/privacy">我们的隐私声明</a>描述。
+        </div>
+
+        <div class="approve-cookie">
+            同意
+        </div>
+
+    </div>
+
+<script>
+    jci.cookies.init(
+        "JohnsonControls-Johnson Controls | China - AcceptsCookies",
+        "true",
+        "true");
+
+    jci.previewMode.init("true");
+</script>
+
+
+
+
+<!--MENU-->
+<div class="menu-dropdown off-right">
+
+    <div class="menu-lists-container sticker" id="sticker">
+            <div class="panel-group menu-scroll-list" id="accordion" role="tablist" aria-multiselectable="true">
+                    <div class="panel">
+
+                        <div class="panel-heading" role="tab" id="menuccf37e26-2e6c-468d-89e6-68fdb106b2de">
+                            <h4 class="panel-title">
+                                    <a class="collapsed"
+                                       data-toggle="collapse"
+                                       data-parent="#accordion"
+                                       href="#-"
+                                       aria-expanded="false"
+                                       aria-controls="-"
+                                       onclick="">
+                                        <i class="dropdown-icon icon icon-buildings"></i>
+                                        <span class="menu-heading title-buildings">楼宇建筑 </span>
+                                    </a>
+                            </h4>
+                        </div>
+
+                            <div id="-" 
+                                 class="panel-collapse collapse" 
+                                 role="tabpanel" 
+                                 aria-labelledby="menuccf37e26-2e6c-468d-89e6-68fdb106b2de">
+
+                                <div class="panel-body">
+
+                                    <ul class="menu-accordian-items">
+                                            <li class="accordian-item">
+<a href='/zh_cn/buildings/capabilities' onclick='' >业务布局</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/zh_cn/buildings/building-control-systems' onclick='' >楼宇自控系统  </a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/zh_cn/buildings/hvac-systems' onclick='' >暖通空调系统</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/zh_cn/buildings/central-heating' onclick='' >集中供暖</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/zh_cn/buildings/industrial-refrigeration' onclick='' >工业冷冻</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/zh_cn/buildings/york-residential-air-conditioning' onclick='' >约克家用中央空调</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/zh_cn/buildings/services' onclick='' >服务 </a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/zh_cn/buildings/solutions' onclick='' >解决方案</a>                                            </li>
+                                    </ul>
+
+
+
+                                </div>
+                            </div>
+                    </div>
+                    <div class="panel">
+
+                        <div class="panel-heading" role="tab" id="menu7c0be235-7e49-4dbc-9835-1f15137ccfb3">
+                            <h4 class="panel-title">
+                                    <a class="collapsed"
+                                       data-toggle="collapse"
+                                       data-parent="#accordion"
+                                       href="#--"
+                                       aria-expanded="false"
+                                       aria-controls="--"
+                                       onclick="">
+                                        <i class="dropdown-icon icon icon-battery"></i>
+                                        <span class="menu-heading title-battery">储能电池  </span>
+                                    </a>
+                            </h4>
+                        </div>
+
+                            <div id="--" 
+                                 class="panel-collapse collapse" 
+                                 role="tabpanel" 
+                                 aria-labelledby="menu7c0be235-7e49-4dbc-9835-1f15137ccfb3">
+
+                                <div class="panel-body">
+
+                                    <ul class="menu-accordian-items">
+                                            <li class="accordian-item">
+<a href='/zh_cn/batteries/applications/passenger-vehicles' onclick='' >产品应用</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/zh_cn/batteries/capabilities' onclick='' >业务布局</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/zh_cn/batteries/lead-acid-batteries/flood-lead-acid-batteries' onclick='' >铅酸蓄电池</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/zh_cn/batteries/lithium-ion-batteries' onclick='' >锂离子电池</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/zh_cn/batteries/battery-recycling' onclick='' >电池回收</a>                                            </li>
+                                    </ul>
+
+
+
+                                </div>
+                            </div>
+                    </div>
+            </div>
+
+                <div class="menu-divider"></div>
+                <ul class="menu-main-categories">
+                        <li class="menu-category">
+<a href='/zh_cn/about-us/our-company' onclick='' >关于我们</a>                        </li>
+                        <li class="menu-category">
+<a href='/zh_cn/careers/why-johnson-controls' onclick='' >职业发展</a>                        </li>
+                        <li class="menu-category">
+<a href='/zh_cn/media-center/news' onclick='' >媒体中心</a>                        </li>
+                        <li class="menu-category">
+<a href='/zh_cn/insights' onclick='' >深度报道</a>                        </li>
+                        <li class="menu-category">
+<a href='/zh_cn/corporate-sustainability/environment' onclick='' >企业可持续发展</a>                        </li>
+                        <li class="menu-category">
+<a href='/investors' onclick='' >投资者 (U.S. Site)</a>                        </li>
+                        <li class="menu-category">
+<a href='/zh_cn/contact-us' onclick='' target='_self' >联系我们</a>                        </li>
+                </ul>
+
+                <div class="menu-divider"></div>
+            <div class="menu-social-container">
+                    <a href="https://www.linkedin.com/company/johnson-controls" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="http://i.youku.com/johnsoncontrolsapac" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-play-circle-o"></i>
+                    </a>
+                    <a href="http://weibo.com/u/6039444274/home?topnav=1&amp;wvr=6" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-weibo"></i>
+                    </a>
+                    <a href="http://www.johnsoncontrols.com/zh_cn/WeChat-QR" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-weixin"></i>
+                    </a>
+            </div>
+    </div>
+</div>
+
+
+
+<div class="menu-shadow-overlay">
+
+</div>
+
+<div class="header initial-load-2 load-animations" >
+    <a href="/zh_cn">
+        <img src='/zh_cn/-/media/jci/corp/homepage/images/jci-logo-black-and-white.png' class='logo header-logo' alt='jci-logo' />
+    </a>
+
+
+    <div class="header-items">
+
+        <div class="header-search search-overlay-btn">
+            <div class="icon-search"></div>
+        </div>
+
+        <div class="header-text">
+            
+        </div>
+
+    </div>
+
+    <div class="menu-btn">
+        <!--
+        <div class="menu-burger">
+            <div class="icon-menu"></div>
+            <div class="icon icon-menu-closed"></div>
+        </div>
+        -->
+        <div class="nav-icon" id="nav-icon">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+
+        <div class="text">
+            菜单
+        </div>
+    </div>
+</div>    <div class="breadcrumb-control">
+        
+        <ol class="breadcrumb">
+                    <li class="">
+
+                            <a href="/zh_cn/media-center">
+                                媒体中心 | 江森自控
+                                
+                            </a>
+                    </li>
+                    <li class="">
+
+                            <a href="/zh_cn/media-center/news">
+                                媒体中心
+                                
+                            </a>
+                    </li>
+                    <li class="active">
+
+                            <a href="/zh_cn/media-center/news/press-releases/2017/03/27/clay-interview">
+                                江森自控全球能源与可持续发展副总裁聂可为接受采访
+                                
+                            </a>
+                    </li>
+
+        </ol>
+
+    </div>
+
+        
+<div class="container main-content">
+
+    <div class="article-rendering">
+
+        <div class="article-outer-container">
+                <div class="article-title">
+        <h1>江森自控全球能源与可持续发展副总裁聂可为接受采访</h1>
+    </div>
+
+        <div class="container image-video-gallery-container">
+
+            <div class="article-top-image">
+                <img src="" class="big-image"/>
+
+                <div class="article-overlay">
+                    <iframe width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+
+            <div class="revised-callout-content">
+                <div class="content-text image-gallery-description">
+                        <div class="article-top-image-description  thumbnail0 selected">
+                        </div>
+                </div>
+
+            </div>
+
+            <div class="article-thumbnail-wrapper collapse">
+
+                        <div class="article-thumbnail selected">
+                            <img src='/zh_cn/-/media/jci/corp/media/news/images/2017/ent_news_bea_clay.jpg?data-description=thumbnail0&amp;data-media-type=image' data-media-type='image' data-description='thumbnail0' />
+                        </div>
+            </div>
+        </div>
+        <script>
+            jci.jQuery(function () {
+                jci.ImageAndVideoGallery.init("article-top-image", "article-thumbnail", "image-gallery-description");
+
+            });
+        </script>
+
+        </div>
+
+        <div class="article-inner-container">
+            
+<div class="article-share">
+
+    <div class="article-share-popout">
+
+        <div class="article-share-right-triangle">
+        </div>
+
+        <div class="article-share-left-triangle">
+        </div>
+
+        <div>
+            分享
+
+        </div>
+
+        <ul>
+                    <li data-link="https://www.linkedin.com/shareArticle?url={url}" 
+                        data-site-name="LinkedIn"
+                        data-article-title="江森自控全球能源与可持续发展副总裁聂可为接受采访" 
+                        class="social-sharing-link">
+                        <i class="fa fa-linkedin"></i>LinkedIn
+                    </li>
+            
+            <li>
+                <a href="mailto:?subject=有人与您分享这个页面。
+:江森自控全球能源与可持续发展副总裁聂可为接受采访&body=http://www.johnsoncontrols.com/zh_cn/media-center/news/press-releases/2017/03/27/clay-interview">
+                    <i class="fa fa-envelope-o"></i>电子邮件 
+
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div class="article-share-ui">
+        <div class="article-share-icon">
+            <span class="icon icon-share"></span>
+        </div>
+
+        <div class="text">
+            分享
+
+        </div>
+    </div>
+</div>
+
+<script>
+    jci.socialSharingLinks.init(window.location.href, "li.social-sharing-link");
+</script>    <div class="article-main-content">
+        <div class="article-subtitle">
+            <h3></h3>
+        </div>
+
+        <p>近日，第十三届国际绿色建筑与建筑节能大会在北京国家会议中心举行，大会以&ldquo;提升绿色建筑质量，促进节能减排低碳发展&rdquo;为主题。江森自控全球能源与可持续发展副总裁聂可为受邀出席会议，在参会过程中分享行业视点与经验，并接受媒体采访。聂可为主要负责江森自控能源和可持续发展政策、项目和战略，同时也是公司全球可持续发展委员会的一员。</p>
+<p>
+在采访中，关于政府与社会资本合作模式（Public-Private Partnership，下文简称PPP）在中国的发展，聂可为表示：PPP一方面可以看做一种采购方法，由企业为政府开展项目进行基础设施的建设，另一方面也是企业与政府在具体合作项目上的伙伴关系。江森自控正致力于后者，即企业与政府开展良好的合作伙伴关系。而江森自控所参与的中美清洁能源研究中心项目作为标杆性的PPP项目，在两国政府牵头下，集合来自中美超过50家企业、高校和研究机构，共同开展研发，寻找提高提高建筑能效的技术路径。
+谈及江森自控位于上海即将启用的全新亚太总部，聂可为表示经过认真考量的选址既体现江森自控对中国乃至亚洲市场的重视，也来自于中国政府在&ldquo;十三五&rdquo;规划中对能效的重视。同时它也可作为能源效率的范本供借鉴学习，聂可为还以大楼的智慧建筑大脑 &mdash;&mdash;&nbsp;Metasys&reg;楼宇自控系统为例，详细介绍了该系统在实际中的应用及良好的能源、成本节约的效果。 </p>
+<p>江森自控过去十年在全球范围的市场调研揭示中国在能效增长方面的巨大潜力。为此，在大会上江森自控宣布与宜可城、世界资源研究所、住建部中国科学城市研究会联合正式启动在中国的建筑能效加速器（Building Efficiency Accelerator，下文简称BEA）项目，这也是BEA第一次落地中国。这一全球平台的建筑能效项目于三年前在联合国&ldquo;人人享有可持续能源&rdquo;倡议下推出，希望帮助那些已经在这方面开展相关工作的城市加快它们取得进展的速度。 项目城市包括南京高科技新区、上海长宁区、苏州太湖新城、武汉以及无锡高新区。通过与其它项目城市共享经验，并借由各方的参与，来制定建筑标准、加速执行进展、帮助资金筹措等。
+</p>
+<p>最后，聂可为还表示：每年一届的国际绿色建筑与建筑节能大会已举办了十三届，十几年来经过大力推动，绿色建筑这一话题从刚刚兴起到接受广泛关注与重视，中国政府给予了充分的政策扶植。&ldquo;十三五&rdquo;规划中提出了一个非常雄心勃勃的目标，未来新建的建筑物中有50%都将会是绿色建筑。因而在国际绿色建筑与建筑节能大会上，各国专家和行业领袖的齐聚一堂就变得更为重要，在这里的经验分享与交流也将帮助实现50%绿色建筑的目标。</p>
+
+        <div class="block-quote">
+            
+        </div>
+
+        
+    </div>
+
+<div class="article-share">
+
+    <div class="article-share-popout">
+
+        <div class="article-share-right-triangle">
+        </div>
+
+        <div class="article-share-left-triangle">
+        </div>
+
+        <div>
+            分享
+
+        </div>
+
+        <ul>
+                    <li data-link="https://www.linkedin.com/shareArticle?url={url}" 
+                        data-site-name="LinkedIn"
+                        data-article-title="江森自控全球能源与可持续发展副总裁聂可为接受采访" 
+                        class="social-sharing-link">
+                        <i class="fa fa-linkedin"></i>LinkedIn
+                    </li>
+            
+            <li>
+                <a href="mailto:?subject=有人与您分享这个页面。
+:江森自控全球能源与可持续发展副总裁聂可为接受采访&body=http://www.johnsoncontrols.com/zh_cn/media-center/news/press-releases/2017/03/27/clay-interview">
+                    <i class="fa fa-envelope-o"></i>电子邮件 
+
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div class="article-share-ui">
+        <div class="article-share-icon">
+            <span class="icon icon-share"></span>
+        </div>
+
+        <div class="text">
+            分享
+
+        </div>
+    </div>
+</div>
+
+<script>
+    jci.socialSharingLinks.init(window.location.href, "li.social-sharing-link");
+</script>
+
+
+        </div>
+    </div>
+</div>
+
+<script>
+    jci.ArticleSublayout.init();
+</script>
+    <div class="container page-sub">
+            <div class="thin-text-header">
+关于江森自控            </div>
+
+            <div class="content-text">
+                <p><span>江森自控是全球多元化技术和工业领域的领导者，致力于为</span><span>150多个国家的广大客户提供服务。公司旗下120,000名员工通过创造性地营建智能楼宇、高效能源解决方案、集成基础设施和新一代交通系统，并使之相互精准配合，实践公司建设智能城市和社区的承诺。我们对可持续发展的关注，可追溯到1885年公司成立之初发明的全球首款室内电动恒温器。我们承诺帮助客户取得成功，通过战略性地专注于发展建筑和能源两大增长平台，为各方利益相关者创造更大的价值。</span></p>
+<p>更多信息，请访问公司网站：<a href="http://www.johnsoncontrols.cn/">http://www.johnsoncontrols.cn/</a></p>
+            </div>
+    </div>
+
+        
+
+
+<div class="spacer"></div>
+<div class="footer" style="background-image: url('/zh_cn/-/media/jci/header-and-footer/skylinebuildingsnewyorkskyscrapers.jpg')">
+
+    <div class="footer-content container">
+        <a href="/zh_cn">
+            <img src='/zh_cn/-/media/jci/corp/homepage/images/jci-logo-color.png' class='footer-logo' alt='jci logo color' />
+        </a>
+            <div class="footer-main-box">
+
+                <div class="footer-row row">
+
+                        <div class="footer-left col-md-2 col-sm-6">
+                            <div class="footer-col-title">
+                                楼宇建筑
+                            </div>
+
+                                <ul class="footer-list">
+                                        <li>
+<a href='/zh_cn/buildings/capabilities' onclick='' >业务布局</a>                                        </li>
+                                        <li>
+<a href='/zh_cn/buildings/building-control-systems' onclick='' >楼宇自控系统</a>                                        </li>
+                                        <li>
+<a href='/zh_cn/buildings/hvac-systems' onclick='' >暖通空调系统</a>                                        </li>
+                                        <li>
+<a href='/zh_cn/buildings/central-heating' onclick='' >集中供暖</a>                                        </li>
+                                        <li>
+<a href='/zh_cn/buildings/industrial-refrigeration' onclick='' >工业冷冻</a>                                        </li>
+                                        <li>
+<a href='/zh_cn/buildings/york-residential-air-conditioning' onclick='' >约克家用中央空调</a>                                        </li>
+                                        <li>
+<a href='/zh_cn/buildings/services' onclick='' >服务 </a>                                        </li>
+                                        <li>
+<a href='/zh_cn/buildings/solutions' onclick='' >解决方案</a>                                        </li>
+                                </ul>
+                        </div>
+                        <div class="footer-left col-md-2 col-sm-6">
+                            <div class="footer-col-title">
+                                储能电池
+                            </div>
+
+                                <ul class="footer-list">
+                                        <li>
+<a href='/zh_cn/batteries/capabilities' onclick='' >业务布局</a>                                        </li>
+                                        <li>
+<a href='/zh_cn/batteries/applications/passenger-vehicles' onclick='' >产品应用</a>                                        </li>
+                                        <li>
+<a href='/zh_cn/batteries/lead-acid-batteries/flood-lead-acid-batteries' onclick='' >铅酸蓄电池</a>                                        </li>
+                                        <li>
+<a href='/zh_cn/batteries/lithium-ion-batteries' onclick='' >锂离子电池</a>                                        </li>
+                                        <li>
+<a href='/zh_cn/batteries/battery-recycling' onclick='' >电池回收</a>                                        </li>
+                                </ul>
+                        </div>
+
+                    <div class="footer-divider"></div>
+
+                        <div class="footer-right-1 col-md-2 col-sm-6">
+                            <ul class="footer-list">
+                                    <li>
+<a href='/zh_cn/about-us/our-company' onclick='' >关于我们</a>                                    </li>
+                                    <li>
+<a href='/zh_cn/careers/why-johnson-controls' onclick='' >职业发展</a>                                    </li>
+                                    <li>
+<a href='/zh_cn/media-center/news' onclick='' >媒体中心</a>                                    </li>
+                                    <li>
+<a href='/zh_cn/insights' onclick='' >深度报道</a>                                    </li>
+                                    <li>
+<a href='/zh_cn/corporate-sustainability/environment' onclick='' >企业可持续发展</a>                                    </li>
+                                    <li>
+<a href='/investors' onclick='' >投资者 (U.S. site)</a>                                    </li>
+                                    <li>
+<a href='/legal/privacy' onclick='' target='_self' >隐私声明 (U.S. Site)</a>                                    </li>
+                                    <li>
+<a href='/zh_cn/contact-us' onclick='' target='_self' >联系我们</a>                                    </li>
+                            </ul>
+                        </div>
+
+
+                    <div class="footer-right-2 col-md-6 col-sm-6">
+
+                            <div class="footer-country">
+                                <a href="/site-selector-page" target="">
+                                    <i class="fa fa-globe"></i>
+                                    选择国家/地区
+
+                                </a>
+                                
+                            </div>
+
+                        <div class="footer-social-container">
+                                <a href="https://www.linkedin.com/company/johnson-controls" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-linkedin"></i>
+                                </a>
+                                <a href="http://i.youku.com/johnsoncontrolsapac" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-play-circle-o"></i>
+                                </a>
+                                <a href="http://weibo.com/u/6039444274/home?topnav=1&amp;wvr=6" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-weibo"></i>
+                                </a>
+                                <a href="http://www.johnsoncontrols.com/zh_cn/WeChat-QR" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-weixin"></i>
+                                </a>
+                        </div>
+                    </div>
+
+                    <div class="footer-copy">
+                        <p>© 2016 Johnson Controls. All Rights Reserved | <a href="http://www.miitbeian.gov.cn" target="_blank">沪ICP备16004024号</a></p>
+                    </div>
+                </div>
+            </div>
+</div>
+</div>
+
+    </div>
+    
+    
+
+<script>
+    jci.jQuery(function () {
+        var enableTweetQuote = 0; 
+        jci.tweetQuote.init(enableTweetQuote, window.location.href, "在 Twitter 上分享
+");
+
+    });
+</script>
+
+    <script type="text/javascript">
+
+    piAId = '55162';
+    piCId = '1020';
+
+    (function () {
+        function async_load() {
+            var s = document.createElement('script'); s.type = 'text/javascript';
+            s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+            var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+        }
+        if (window.attachEvent) { window.attachEvent('onload', async_load); }
+        else { window.addEventListener('load', async_load, false); }
+    })();
+
+</script>
+
+    <script type="text/javascript">
+    (function() {
+        var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+        sz.src = '//siteimproveanalytics.com/js/siteanalyze_33556.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+        })();
+</script>
+
+
+        <!--ServerName: PRODCD1 -->
+
+</body>
+</html>

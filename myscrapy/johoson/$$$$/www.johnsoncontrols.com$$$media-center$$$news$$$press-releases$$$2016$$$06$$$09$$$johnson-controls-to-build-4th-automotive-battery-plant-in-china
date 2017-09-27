@@ -1,0 +1,910 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6 en" lang="en" > <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7 en" lang="en" > <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8 en" lang="en" > <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="en" class="en">
+<!--<![endif]-->
+
+<head>
+
+    <script>
+        var jci = {};
+        jci.virtualFolder = '/';
+    </script>
+
+    
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+
+<title>Johnson Controls to build 4th automotive battery plant in China</title>
+<link rel="canonical" href="http://www.johnsoncontrols.com/media-center/news/press-releases/2016/06/09/johnson-controls-to-build-4th-automotive-battery-plant-in-china" />
+<meta name="description" content="Johnson Controls is forming a joint venture with Binzhou Bohai Piston Co., Ltd., an auto parts affiliate of Beijing Automotive Industry Group Co., Ltd. (BAIC Group), to build its fourth Chinese..." />
+<meta name="keywords" content="" />
+
+
+<script type="text/javascript">
+/*{literal}<![CDATA[*/window.lightningjs||function(c){function g(b,d){d&&(d+=(/\?/.test(d)?"&":"?")+"lv=1");c[b]||function(){var i=window,h=document,j=b,g=h.location.protocol,l="load",k=0;(function(){function b(){a.P(l);a.w=1;c[j]("_load")}c[j]=function(){function m(){m.id=e;return c[j].apply(m,arguments)}var b,e=++k;b=this&&this!=i?this.id||0:0;(a.s=a.s||[]).push([e,b,arguments]);m.then=function(b,c,h){var d=a.fh[e]=a.fh[e]||[],j=a.eh[e]=a.eh[e]||[],f=a.ph[e]=a.ph[e]||[];b&&d.push(b);c&&j.push(c);h&&f.push(h);return m};return m};var a=c[j]._={};a.fh={};a.eh={};a.ph={};a.l=d?d.replace(/^\/\//,(g=="https:"?g:"http:")+"//"):d;a.p={0:+new Date};a.P=function(b){a.p[b]=new Date-a.p[0]};a.w&&b();i.addEventListener?i.addEventListener(l,b,!1):i.attachEvent("on"+l,b);var q=function(){function b(){return["<head></head><",c,' onload="var d=',n,";d.getElementsByTagName('head')[0].",d,"(d.",g,"('script')).",i,"='",a.l,"'\"></",c,">"].join("")}var c="body",e=h[c];if(!e)return setTimeout(q,100);a.P(1);var d="appendChild",g="createElement",i="src",k=h[g]("div"),l=k[d](h[g]("div")),f=h[g]("iframe"),n="document",p;k.style.display="none";e.insertBefore(k,e.firstChild).id=o+"-"+j;f.frameBorder="0";f.id=o+"-frame-"+j;/MSIE[ ]+6/.test(navigator.userAgent)&&(f[i]="javascript:false");f.allowTransparency="true";l[d](f);try{f.contentWindow[n].open()}catch(s){a.domain=h.domain,p="javascript:var d="+n+".open();d.domain='"+h.domain+"';",f[i]=p+"void(0);"}try{var r=f.contentWindow[n];r.write(b());r.close()}catch(t){f[i]=p+'d.write("'+b().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};a.l&&setTimeout(q,0)})()}();c[b].lv="1";return c[b]}var o="lightningjs",k=window[o]=g(o);k.require=g;k.modules=c}({});
+if(!navigator.userAgent.match(/Android|BlackBerry|BB10|iPhone|iPad|iPod|Opera Mini|IEMobile/i)) {window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/ca95063754e0.js"); } else {window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/fc973043953c.js"); }/*]]>{/literal}*/</script><script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0066/3434.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+<link rel="image_src" href="" />
+<meta property="og:title" content="Johnson Controls to build 4th automotive battery plant in China" />
+<meta property="og:description" content="Johnson Controls is forming a joint venture with Binzhou Bohai Piston Co., Ltd., an auto parts affiliate of Beijing Automotive Industry Group Co., Ltd. (BAIC Group), to build its fourth Chinese..." />
+<meta property="og:url" content="http://www.johnsoncontrols.com/media-center/news/press-releases/2016/06/09/johnson-controls-to-build-4th-automotive-battery-plant-in-china" />
+<meta property="og:image" content=""/>
+
+    <meta property="og:site_name" content="Johnson Controls to build 4th automotive battery plant in China" />
+
+
+    
+<link rel="shortcut icon" type="image/x-icon">
+<link rel="icon" href="/-/media/jci/corp/homepage/images/jci.png" type="image/png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/-/media/jci/corp/homepage/images/jci_76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/-/media/jci/corp/homepage/images/jci_120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/-/media/jci/corp/homepage/images/jci_150x150.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/-/media/jci/corp/homepage/images/jci_180x180.png">
+    
+<link href="/include/jci_com/vendor/css/bootstrap/bootstrap.min.css" rel="stylesheet"/>
+
+<link href="/include/jci_com/vendor/css/ScrollPane/jscrollpane.css" rel="stylesheet"/>
+<link href="/include/jci_com/vendor/css/FontAwesome/font-awesome.css" rel="stylesheet"/>
+
+<link href="/include/jci_com/Local/css/jci.css" rel="stylesheet"/>
+
+
+<script src="/include/jci_com/vendor/scripts/jquery/jquery-1.11.3.min.js"></script>
+
+<script src="/include/jci_com/vendor/scripts/plugins/jquery-scrollto.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jquery.validate.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jquery.validate.unobtrusive.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jQueryUI.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jquery.cookie.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/ellipsis.js"></script>
+<script src="/include/jci_com/vendor/scripts/foolproof/mvcfoolproof.unobtrusive.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/bootstrap/bootstrap.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/knockout/knockout-3.3.0.js"></script>
+<script src="/include/jci_com/vendor/scripts/freewall/freewall.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/jQuery.mousewheel.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/jquery.jscrollpane.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/SelectBoxPlugin.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/iframeResizer.min.js"></script>
+
+<script src="/include/jci_com/local/scripts/jci.jQuery.js"></script>
+<script src="/include/jci_com/local/scripts/jci.constants.js"></script>
+<script src="/include/jci_com/local/scripts/jci.utilities.js"></script>
+<script src="/include/jci_com/local/scripts/jci.resize-event.js"></script>
+<script src="/include/jci_com/local/scripts/jci.navigation.js"></script>
+<script src="/include/jci_com/local/scripts/jci.cookies.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-us-sublayout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.filters-base.js"></script>
+<script src="/include/jci_com/local/scripts/jci.observable-filter.js"></script>
+<script src="/include/jci_com/local/scripts/jci.search-input.js"></script>
+<script src="/include/jci_com/local/scripts/jci.paging.js"></script>
+<script src="/include/jci_com/local/scripts/jci.search-base.js"></script>
+<script src="/include/jci_com/local/scripts/jci.media-resource-search-result-base.js"></script>
+<script src="/include/jci_com/local/scripts/jci.experts-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.experts-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.full-site-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.full-site-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.insights-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.media-news-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.insights-list.js"></script>
+<script src="/include/jci_com/local/scripts/jci.insights-sharing.js"></script>
+<script src="/include/jci_com/local/scripts/jci.image-resource-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.video-resource-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.media-resources-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.social-sharing.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-us-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.product-contact-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.resource-links.js"></script>
+<script src="/include/jci_com/local/scripts/jci.resource-download-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.stock-ticker.js"></script>
+<script src="/include/jci_com/local/scripts/jci.sticky-footer.js"></script>
+<script src="/include/jci_com/local/scripts/jci.video-banner.js"></script>
+<script src="/include/jci_com/local/scripts/jci.tabs.js"></script>
+<script src="/include/jci_com/local/scripts/jci.product-filters.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-us-location-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.country-dropdown.js"></script>
+<script src="/include/jci_com/local/scripts/jci.job-search-callout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.image-and-video-gallery.js"></script>
+<script src="/include/jci_com/local/scripts/jci.leadership.js"></script>
+<script src="/include/jci_com/local/scripts/jci.related-callout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.search-overlay.js"></script>
+<script src="/include/jci_com/local/scripts/jci.tweet-quote.js"></script>
+<script src="/include/jci_com/local/scripts/jci.article-sublayout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.preview-mode.js"></script>
+
+
+    <!--Commenting the next line out.  to reenable add the at symbol before the html-->
+    <!--Html.Partial("~/Views/JCI_com/Renderings/Analytics/WebTrends.cshtml")-->
+    <script src="/Include/JCI_com/Vendor/Scripts/WebTrends/webtrends.load.js"></script>
+  
+    <!--[if IE]>
+        <link href="JCI_com/Local/Css/JCI-IE9.css" rel="stylesheet" />
+    <![endif]-->
+    
+    
+<meta name="VIcurrentDateTime" content="636374283599462206" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+
+</head>
+
+<body class="">
+
+    <div class="page-layout">
+        
+<!--SEARCH-->
+<div class="search-overlay">
+
+    <div class="search-overlay-background"></div>
+
+    <div class="search-overlay-main">
+
+        <div class="search-overlay-input-wrapper">
+
+            <input class="search-text-input" type="text" placeholder="Search" />
+
+            <div class="overlay-search-submit">
+
+                <div class="submit-btn">
+                    <div class="icon-search">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="search-overlay-close search-overlay-btn">X Close</div>
+    </div>
+</div>
+
+<script>
+
+    jci.jQuery(function () {
+        jci.searchOverlay.init(".search-overlay", "/search");
+    });
+</script>
+
+    <div class="cookie-header">
+
+        <div class="text">
+            <div>
+<p>This site uses cookies to offer you a better browsing experience. By clicking Approve, you consent to the use of cookies on your device as described in our <a href="/legal/privacy">privacy notice</a>.</p>
+</div>
+        </div>
+
+        <div class="approve-cookie">
+            Approve
+        </div>
+
+    </div>
+
+<script>
+    jci.cookies.init(
+        "JohnsonControls-United States - AcceptsCookies",
+        "true",
+        "true");
+
+    jci.previewMode.init("true");
+</script>
+
+
+
+
+<!--MENU-->
+<div class="menu-dropdown off-right">
+
+    <div class="menu-lists-container sticker" id="sticker">
+            <div class="panel-group menu-scroll-list" id="accordion" role="tablist" aria-multiselectable="true">
+                    <div class="panel">
+
+                        <div class="panel-heading" role="tab" id="menue951cb26-fca5-46c7-9238-f3c6ac1cd2d5">
+                            <h4 class="panel-title">
+                                    <a class="collapsed"
+                                       data-toggle="collapse"
+                                       data-parent="#accordion"
+                                       href="#buildings"
+                                       aria-expanded="false"
+                                       aria-controls="buildings"
+                                       onclick="">
+                                        <i class="dropdown-icon icon icon-buildings"></i>
+                                        <span class="menu-heading title-buildings">Buildings</span>
+                                    </a>
+                            </h4>
+                        </div>
+
+                            <div id="buildings" 
+                                 class="panel-collapse collapse" 
+                                 role="tabpanel" 
+                                 aria-labelledby="menue951cb26-fca5-46c7-9238-f3c6ac1cd2d5">
+
+                                <div class="panel-body">
+
+                                    <ul class="menu-accordian-items">
+                                            <li class="accordian-item">
+<a href='/buildings/air-systems' onclick='' >Air Systems</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/building-management' onclick='' >Building Management</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/hvac-controls' onclick='' >HVAC Controls</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/hvac-equipment' onclick='' >HVAC Equipment</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/security-and-fire-safety' onclick='' >Security and Fire Safety</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/refrigeration' onclick='' >Refrigeration</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/services-and-support' onclick='' >Services  and Support</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/replacement-parts-and-supplies' onclick='' >Replacement Parts and Supplies</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/solutions-by-industry' onclick='' >Solutions by Industry</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/our-brands' onclick='' >Our Brands</a>                                            </li>
+                                    </ul>
+
+
+
+                                </div>
+                            </div>
+                    </div>
+                    <div class="panel">
+
+                        <div class="panel-heading" role="tab" id="menu0e5b15bf-0582-4ce6-be25-c2d9bb15a73b">
+                            <h4 class="panel-title">
+                                    <a class="collapsed"
+                                       data-toggle="collapse"
+                                       data-parent="#accordion"
+                                       href="#batteries"
+                                       aria-expanded="false"
+                                       aria-controls="batteries"
+                                       onclick="">
+                                        <i class="dropdown-icon icon icon-battery"></i>
+                                        <span class="menu-heading title-battery">Batteries</span>
+                                    </a>
+                            </h4>
+                        </div>
+
+                            <div id="batteries" 
+                                 class="panel-collapse collapse" 
+                                 role="tabpanel" 
+                                 aria-labelledby="menu0e5b15bf-0582-4ce6-be25-c2d9bb15a73b">
+
+                                <div class="panel-body">
+
+                                    <ul class="menu-accordian-items">
+                                            <li class="accordian-item">
+<a href='/batteries/capabilities' onclick='' >Capabilities</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/batteries/applications/passenger-vehicles' onclick='' >Applications</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/batteries/lead-acid-batteries/flood-lead-acid-batteries' onclick='' >Lead-acid Products</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/batteries/lithium-ion-batteries' onclick='' >Lithium-ion Products</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/batteries/battery-recycling' onclick='' >Battery Recycling</a>                                            </li>
+                                    </ul>
+
+
+
+                                </div>
+                            </div>
+                    </div>
+                    <div class="panel">
+
+                        <div class="panel-heading" role="tab" id="menud95a0fbc-ffc5-4ad4-a0b8-457297df174d">
+                            <h4 class="panel-title">
+                                    <a class="collapsed"
+                                       data-toggle="collapse"
+                                       data-parent="#accordion"
+                                       href="#distributed-energy-storage"
+                                       aria-expanded="false"
+                                       aria-controls="distributed-energy-storage"
+                                       onclick="">
+                                        <i class="dropdown-icon icon icon-energystorage"></i>
+                                        <span class="menu-heading title-energystorage">Distributed Energy Storage</span>
+                                    </a>
+                            </h4>
+                        </div>
+
+                            <div id="distributed-energy-storage" 
+                                 class="panel-collapse collapse" 
+                                 role="tabpanel" 
+                                 aria-labelledby="menud95a0fbc-ffc5-4ad4-a0b8-457297df174d">
+
+                                <div class="panel-body">
+
+                                    <ul class="menu-accordian-items">
+                                            <li class="accordian-item">
+<a href='/distributed-energy-storage/capabilities' onclick='' >Capabilities</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/distributed-energy-storage/applications' onclick='' >Applications</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/distributed-energy-storage/energy-storage-solutions' onclick='' >Energy Storage Solutions</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/distributed-energy-storage/news-and-resources' onclick='' >News and Resources</a>                                            </li>
+                                    </ul>
+
+
+
+                                </div>
+                            </div>
+                    </div>
+            </div>
+
+                <div class="menu-divider"></div>
+                <ul class="menu-main-categories">
+                        <li class="menu-category">
+<a href='/about-us/our-company' onclick='' >About Us</a>                        </li>
+                        <li class="menu-category">
+<a href='/careers/why-johnson-controls' onclick='' >Careers</a>                        </li>
+                        <li class="menu-category">
+<a href='/media-center/news' onclick='' >Media</a>                        </li>
+                        <li class="menu-category">
+<a href='/investors' onclick='' >Investors</a>                        </li>
+                        <li class="menu-category">
+<a href='/insights' onclick='' >Insights</a>                        </li>
+                        <li class="menu-category">
+<a href='/corporate-sustainability/environment' onclick='' >Corporate Sustainability </a>                        </li>
+                        <li class="menu-category">
+<a href='/suppliers' onclick='' >Suppliers</a>                        </li>
+                        <li class="menu-category">
+<a href='/contact-us' onclick='' >Contact</a>                        </li>
+                        <li class="menu-category">
+<a href='/login' onclick='' target='_self' >Login</a>                        </li>
+                </ul>
+
+                <div class="menu-divider"></div>
+            <div class="menu-social-container">
+                    <a href="https://www.facebook.com/JohnsonControls" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-facebook"></i>
+                    </a>
+                    <a href="https://twitter.com/johnsoncontrols" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                    <a href="https://www.youtube.com/user/JohnsonControlsInc/JohnsonControls" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-youtube"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/company/johnson-controls" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://www.instagram.com/johnsoncontrols/" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-instagram"></i>
+                    </a>
+            </div>
+    </div>
+</div>
+
+
+
+<div class="menu-shadow-overlay">
+
+</div>
+
+<div class="header initial-load-2 load-animations" >
+    <a href="/">
+        <img src='/-/media/jci/corp/homepage/images/jci-logo-black-and-white.png' class='logo header-logo' alt='jci-logo' />
+    </a>
+
+
+    <div class="header-items">
+
+        <div class="header-search search-overlay-btn">
+            <div class="icon-search"></div>
+        </div>
+
+        <div class="header-text">
+                <a href="/site-selector-page" class="loginicon"><i class="fa fa-globe"></i></a>
+            
+<a href='/site-selector-page' >Select a Country</a>        </div>
+
+    </div>
+
+    <div class="menu-btn">
+        <!--
+        <div class="menu-burger">
+            <div class="icon-menu"></div>
+            <div class="icon icon-menu-closed"></div>
+        </div>
+        -->
+        <div class="nav-icon" id="nav-icon">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+
+        <div class="text">
+            Menu
+        </div>
+    </div>
+</div>    <div class="breadcrumb-control">
+        
+        <ol class="breadcrumb">
+                    <li class="">
+
+Media Center                    </li>
+                    <li class="">
+
+                            <a href="/media-center/news">
+                                News
+                                
+                            </a>
+                    </li>
+                    <li class="active">
+
+                            <a href="/media-center/news/press-releases/2016/06/09/johnson-controls-to-build-4th-automotive-battery-plant-in-china">
+                                Johnson Controls to build 4th automotive battery plant in China
+                                
+                            </a>
+                    </li>
+
+        </ol>
+
+    </div>
+
+        
+<div class="container main-content">
+
+    <div class="article-rendering">
+
+        <div class="article-outer-container">
+                <div class="article-title">
+        <h1>Johnson Controls to build 4th automotive battery plant in China</h1>
+    </div>
+
+
+        </div>
+
+        <div class="article-inner-container">
+            
+<div class="article-share">
+
+    <div class="article-share-popout">
+
+        <div class="article-share-right-triangle">
+        </div>
+
+        <div class="article-share-left-triangle">
+        </div>
+
+        <div>
+            Share On
+        </div>
+
+        <ul>
+                    <li data-link="https://www.facebook.com/sharer/sharer.php?u={url}" 
+                        data-site-name="Facebook"
+                        data-article-title="Johnson Controls to build 4th automotive battery plant in China" 
+                        class="social-sharing-link">
+                        <i class="fa fa-facebook"></i>Facebook
+                    </li>
+                    <li data-link="https://plus.google.com/share?url={url}" 
+                        data-site-name="Google +"
+                        data-article-title="Johnson Controls to build 4th automotive battery plant in China" 
+                        class="social-sharing-link">
+                        <i class="fa fa-google-plus"></i>Google +
+                    </li>
+                    <li data-link="https://www.linkedin.com/shareArticle?url={url}" 
+                        data-site-name="LinkedIn"
+                        data-article-title="Johnson Controls to build 4th automotive battery plant in China" 
+                        class="social-sharing-link">
+                        <i class="fa fa-linkedin"></i>LinkedIn
+                    </li>
+                    <li data-link="https://twitter.com/intent/tweet?url={url}&amp;text={title}" 
+                        data-site-name="Twitter"
+                        data-article-title="Johnson Controls to build 4th automotive battery plant in China" 
+                        class="social-sharing-link">
+                        <i class="fa fa-twitter"></i>Twitter
+                    </li>
+            
+            <li>
+                <a href="mailto:?subject=I would like to share this page with you:Johnson Controls to build 4th automotive battery plant in China&body=http://www.johnsoncontrols.com/media-center/news/press-releases/2016/06/09/johnson-controls-to-build-4th-automotive-battery-plant-in-china">
+                    <i class="fa fa-envelope-o"></i>Contact Us
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div class="article-share-ui">
+        <div class="article-share-icon">
+            <span class="icon icon-share"></span>
+        </div>
+
+        <div class="text">
+            Share
+        </div>
+    </div>
+</div>
+
+<script>
+    jci.socialSharingLinks.init(window.location.href, "li.social-sharing-link");
+</script>    <div class="article-main-content">
+        <div class="article-subtitle">
+            <h3>Company forms joint venture with Binzhou Bohai Piston Co., adding capacity to meet growing demand for fuel efficient technology</h3>
+        </div>
+
+        <style type="text/css">
+
+
+/* Style Definitions */
+span.prnews_span
+{
+font-size:8pt;
+font-family:"Arial";
+color:black;
+}
+a.prnews_a
+{
+color:blue;
+}
+li.prnews_li
+{
+font-size:8pt;
+font-family:"Arial";
+color:black;
+}
+p.prnews_p
+{
+font-size:0.62em;
+font-family:"Arial";
+color:black;
+margin:0in;
+}
+.prngen2{
+BORDER-TOP:1pt; BORDER-RIGHT:1pt; VERTICAL-ALIGN: BOTTOM; BORDER-BOTTOM:1pt; PADDING-LEFT:0.50em; BORDER-LEFT:1pt; PADDING-RIGHT:0.50em
+}
+.prngen3{
+BORDER-TOP:1pt; BORDER-RIGHT:1pt; VERTICAL-ALIGN: BOTTOM; BORDER-BOTTOM:1pt; TEXT-ALIGN: RIGHT; PADDING-LEFT:0.50em; BORDER-LEFT:1pt; PADDING-RIGHT:0.50em
+}
+.prntblns{
+BORDER-TOP: 1pt; BORDER-RIGHT: 1pt; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: 1pt; BORDER-LEFT: 1pt
+}
+
+</style>
+
+<p><span class="xn-location">MILWAUKEE</span>, <span class="xn-chron">June 9, 2016</span> /PRNewswire/ -- Johnson Controls is forming a joint venture with Binzhou Bohai Piston Co., Ltd., an auto parts affiliate of Beijing Automotive Industry Group Co., Ltd. (BAIC Group), to build its fourth Chinese automotive battery manufacturing plant. Aimed at serving both automakers and aftermarket customers, the facility will be located in Binzhou, <span class="xn-location">Shandong Province</span>. </p>
+
+<div id="prni_dvprnejpgf44bleftMSAsset709665" style="TEXT-ALIGN: left; WIDTH: 100%" assettitle="Johnson Controls - Binzhou JV Signing Ceremony_download_hires" hostedurl="https://photos.prnewswire.com/prnvar/20160608/377256"><img id="prnejpgf44bleftMSAsset709665" title="Johnson Controls forms joint venture with Binzhou Bohai Piston Co., to add capacity to meet growing demand for fuel efficient technology in China. By 2020, 50 percent, or about 15 million new vehicles will be equipped with start-stop functionality in China, saving an estimated 1.2 billion liters of gasoline per year. At full capacity, the more than $200 million USD plant will employ 650 people who will manufacture both conventional flooded and absorbent glass mat (AGM) battery technologies." border="0" alt="Johnson Controls forms joint venture with Binzhou Bohai Piston Co., to add capacity to meet growing demand for fuel efficient technology in China. By 2020, 50 percent, or about 15 million new vehicles will be equipped with start-stop functionality in China, saving an estimated 1.2 billion liters of gasoline per year. At full capacity, the more than $200 million USD plant will employ 650 people who will manufacture both conventional flooded and absorbent glass mat (AGM) battery technologies." align="middle" src="https://photos.prnewswire.com/prnvar/20160608/377256" imagelabel="General"/></div>
+<p>&quot;We understand <span class="xn-location">China</span> market dynamics, consumer demands and both short and long-term energy storage technology needs,&quot; said <span class="xn-person">Joe Walicki</span>, president, Johnson Controls Power Solutions. &quot;This joint venture is a strategic move to position Johnson Controls and Bohai Piston to take advantage of what will be the world's largest automotive battery market by 2020.&quot;</p>
+
+<p>At full capacity, the more than <span class="xn-money">$200 million USD</span> plant will employ 650 people who will manufacture both conventional flooded and absorbent glass mat (AGM) battery technologies. AGM powers start-stop systems, which increase vehicle fuel efficiency up to 5 percent, helping automakers meet increasingly strict environmental regulations.</p>
+
+<p>&quot;In the <span class="xn-location">China</span> market there is strong demand for auto part technologies that can improve fuel efficiency and there will be rapid growth for AGM batteries in start-stop vehicles,&quot; said Han Yonggui, BAIC Group director and chairman of Beijing Hainachuan Automotive Parts Co., Ltd. (BHAP). &quot;The new joint venture will position both companies to take advantage of this market opportunity and we believe our cooperation with Johnson Controls, the global automotive battery leader, will help promote leading products and technologies in <span class="xn-location">China</span>.&quot;</p>
+
+<p>By 2020, 50 percent, or about 15 million new vehicles will be equipped with start-stop functionality in <span class="xn-location">China</span>, saving an estimated 1.2 billion liters of gasoline per year. It also reduces greenhouse gas emissions by 2.8 million metric tons per year.</p>
+
+<p>&quot;With the combination of Johnson Controls leading technologies, large market demand from BAIC Group members and from the aftermarket, as well as favorable investment conditions in Binzhou, we believe the joint venture will be a great success,&quot; said Lin Fenghua, chairman of Binzhou Bohai Piston Co., Ltd.</p>
+
+<p>&quot;Our technology and battery capabilities, combined with the Bohai Piston growth platform and favorable Binzhou location, is a real winning combination,&quot; said <span class="xn-person">Kenneth Yeng</span>, vice president and general manager, Johnson Controls Power Solutions China. </p>
+
+<p>Construction of the state-of-the-art facility is expected to begin in 2017, with production starting two years later. Once up and running, the plant will be able to produce 7.5 million batteries per year. </p>
+
+<p>&quot;Johnson Controls remains committed to serving our customers wherever they are in the world with investments such as this manufacturing plant and joint venture, which brings our leading technologies and global best practices to <span class="xn-location">China</span>,&quot; said <span class="xn-person">Trent Nevill</span>, president, Johnson Controls Asia Pacific.</p>
+
+<p>Approximately 23.5 million new vehicles were produced in <span class="xn-location">China</span> in 2015, making it the world's largest automotive market. In 2015, Johnson Controls announced it signed an agreement to build a <a href="http://www.johnsoncontrols.com/media-center/news/press-releases/2015/08/13/johnson-controls-to-build-a-new-automotive-battery-plant-in-northeast-china" target="_blank" rel="nofollow">new battery manufacturing facility in Shenyang, China</a>. It is expected to start operations in 2018. The company also has battery plants in <span class="xn-location">Chongqing</span> and Changxing, and an energy storage research and development center in <span class="xn-location">Shanghai</span>.</p>
+
+<p>For images of the signing ceremony, as well as AGM battery technology, please <a href="http://www.johnsoncontrols.com/media-center/images-and-video" target="_blank" rel="nofollow">click here</a>. </p>
+
+<p><b>About Johnson Controls:<br/></b>Johnson Controls is a global diversified technology and industrial leader serving customers in more than 150 countries. Our 150,000 employees create quality products, services and solutions to optimize energy and operational efficiencies of buildings; lead-acid automotive batteries and advanced batteries for hybrid and electric vehicles; and seating components and systems for automobiles. Our commitment to sustainability dates back to our roots in 1885, with the invention of the first electric room thermostat. Through our growth strategies and by increasing market share we are committed to delivering value to shareholders and making our customers successful. In 2016, Corporate Responsibility Magazine recognized Johnson Controls as the #17company in its annual &quot;100 Best Corporate Citizens&quot; list. For additional information, please visit <a href="http://www.johnsoncontrols.com/" target="_blank" rel="nofollow">http://www.johnsoncontrols.com</a> or follow us <a href="https://twitter.com/johnsoncontrols" target="_blank" rel="nofollow">@johnsoncontrols</a> on Twitter</p>
+
+<p><b>About Johnson Controls Power Solutions<br/></b>Johnson Controls Power Solutions is the world's largest manufacturer of automotive batteries, supplying approximately 146 million every year to automakers and aftermarket retailers. Our full range of lead-acid and lithium-ion battery technology powers nearly every type of vehicle for our customers- including traditional, start-stop, micro-hybrid, hybrid and electric. Johnson Controls' recycling system has helped make automotive batteries the most recycled consumer product in the world. Globally, 15,000 employees develop, manufacture, distribute and recycle batteries at more than 50 locations. </p>
+
+<p><b>About BAIC<br/></b>Founded in 1958, BAIC Group covers a wide range of businesses from vehicle manufacturing, research and development, auto parts manufacturing, automobile service and trade, to general aviation investment and financing. It has automotive manufacturing joint ventures with Hyundai, <span class="xn-person">Mercedes Benz</span>, and a number of self-owned brands like <span class="xn-location">BEIJING</span>, Senova, Changhe Auto and Foton.</p>
+
+<p><b>About Bohai Piston<br/></b>Shandong Binzhou Bohai Piston Co., Ltd. (Bohai Piston hereinafter) located in Binzhou, <span class="xn-location">Shandong</span> province, is the biggest Piston Manufacturer in <span class="xn-location">China</span> and among the top 4 piston suppliers worldwide. In June of 2015, state-owned shares were transferred to BAIC Group and in 2016, Bohai Piston became a shareholder of BJEV.</p>
+
+<p> </p>
+
+<div>
+<table id="convertedTable759a" cellspacing="0" cellpadding="0" border="1" class="prntblns"><tr>
+<td class="prngen2">
+<p class="prnews_p"><span class="prnews_span">CONTACT:</span></p>
+</td>
+<td class="prngen2">
+<p class="prnews_p"><span class="prnews_span">Gretchen Miller</span></p>
+</td></tr>
+<tr>
+<td class="prngen3"><br/></td>
+<td class="prngen2">
+<p class="prnews_p"><span class="prnews_span">1-414-630-6723</span></p>
+</td></tr>
+<tr>
+<td class="prngen3"><br/></td>
+<td class="prngen2">
+<p class="prnews_p"><span class="prnews_span"><a class="prnews_a" href="mailto:gretchen.a.miller@jci.com" target="_blank" rel="nofollow">gretchen.a.miller@jci.com</a> </span></p>
+</td></tr></table></div>
+<p> </p>
+
+<div id="prni_dvprnejpg23a4leftMSAsset709664" style="TEXT-ALIGN: left; WIDTH: 100%" assettitle="Johnson Controls - Varta_battery_install_China_download_hires" hostedurl="https://photos.prnewswire.com/prnvar/20160608/377255"><img id="prnejpg23a4leftMSAsset709664" title="Johnson Controls forms joint venture with Binzhou Bohai Piston Co., to add capacity to meet growing demand for fuel efficient technology in China. The more than $200 million USD plant will manufacture both conventional flooded and absorbent glass mat (AGM) battery technologies." border="0" alt="Johnson Controls forms joint venture with Binzhou Bohai Piston Co., to add capacity to meet growing demand for fuel efficient technology in China. The more than $200 million USD plant will manufacture both conventional flooded and absorbent glass mat (AGM) battery technologies." align="middle" src="https://photos.prnewswire.com/prnvar/20160608/377255" imagelabel="General"/></div>
+<p> </p>
+
+<div id="prni_dvprnejpga226left" style="TEXT-ALIGN: left; WIDTH: 100%"><img id="prnejpga226left" title="Johnson Controls Logo." border="0" alt="Johnson Controls Logo." align="middle" src="http://photos.prnewswire.com/prnvar/20151023/280189LOGO"/></div>
+<p> </p>
+
+<p>Photo - <a href="http://photos.prnewswire.com/prnh/20160608/377256" target="_blank" rel="nofollow">http://photos.prnewswire.com/prnh/20160608/377256</a> </p>
+
+<p>Photo - <a href="http://photos.prnewswire.com/prnh/20160608/377255" target="_blank" rel="nofollow">http://photos.prnewswire.com/prnh/20160608/377255</a></p>
+
+<p>Logo - <a href="http://photos.prnewswire.com/prnh/20151023/280189LOGO" target="_blank" rel="nofollow">http://photos.prnewswire.com/prnh/20151023/280189LOGO</a> </p>
+
+<p> </p>
+
+
+<p>SOURCE  Johnson Controls</p>
+
+        <div class="block-quote">
+            
+        </div>
+
+        
+    </div>
+
+<div class="article-share">
+
+    <div class="article-share-popout">
+
+        <div class="article-share-right-triangle">
+        </div>
+
+        <div class="article-share-left-triangle">
+        </div>
+
+        <div>
+            Share On
+        </div>
+
+        <ul>
+                    <li data-link="https://www.facebook.com/sharer/sharer.php?u={url}" 
+                        data-site-name="Facebook"
+                        data-article-title="Johnson Controls to build 4th automotive battery plant in China" 
+                        class="social-sharing-link">
+                        <i class="fa fa-facebook"></i>Facebook
+                    </li>
+                    <li data-link="https://plus.google.com/share?url={url}" 
+                        data-site-name="Google +"
+                        data-article-title="Johnson Controls to build 4th automotive battery plant in China" 
+                        class="social-sharing-link">
+                        <i class="fa fa-google-plus"></i>Google +
+                    </li>
+                    <li data-link="https://www.linkedin.com/shareArticle?url={url}" 
+                        data-site-name="LinkedIn"
+                        data-article-title="Johnson Controls to build 4th automotive battery plant in China" 
+                        class="social-sharing-link">
+                        <i class="fa fa-linkedin"></i>LinkedIn
+                    </li>
+                    <li data-link="https://twitter.com/intent/tweet?url={url}&amp;text={title}" 
+                        data-site-name="Twitter"
+                        data-article-title="Johnson Controls to build 4th automotive battery plant in China" 
+                        class="social-sharing-link">
+                        <i class="fa fa-twitter"></i>Twitter
+                    </li>
+            
+            <li>
+                <a href="mailto:?subject=I would like to share this page with you:Johnson Controls to build 4th automotive battery plant in China&body=http://www.johnsoncontrols.com/media-center/news/press-releases/2016/06/09/johnson-controls-to-build-4th-automotive-battery-plant-in-china">
+                    <i class="fa fa-envelope-o"></i>Contact Us
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div class="article-share-ui">
+        <div class="article-share-icon">
+            <span class="icon icon-share"></span>
+        </div>
+
+        <div class="text">
+            Share
+        </div>
+    </div>
+</div>
+
+<script>
+    jci.socialSharingLinks.init(window.location.href, "li.social-sharing-link");
+</script>
+
+
+        </div>
+    </div>
+</div>
+
+<script>
+    jci.ArticleSublayout.init();
+</script>
+        
+
+
+<div class="spacer"></div>
+<div class="footer" style="background-image: url('/-/media/jci/header-and-footer/skylinebuildingsnewyorkskyscrapers.jpg')">
+
+    <div class="footer-content container">
+        <a href="/">
+            <img src='/-/media/jci/corp/homepage/images/jci-logo-color.png' class='footer-logo' alt='jci logo color' />
+        </a>
+            <div class="footer-main-box">
+
+                <div class="footer-row row">
+
+                        <div class="footer-left col-md-2 col-sm-6">
+                            <div class="footer-col-title">
+                                Buildings
+                            </div>
+
+                                <ul class="footer-list">
+                                        <li>
+<a href='/buildings/air-systems' onclick='' >Air Systems</a>                                        </li>
+                                        <li>
+<a href='/buildings/building-management' onclick='' >Building Management</a>                                        </li>
+                                        <li>
+<a href='/buildings/hvac-controls' onclick='' >HVAC Controls</a>                                        </li>
+                                        <li>
+<a href='/buildings/hvac-equipment' onclick='' >HVAC Equipment</a>                                        </li>
+                                        <li>
+<a href='/buildings/security-and-fire-safety' onclick='' >Security and Fire Safety</a>                                        </li>
+                                        <li>
+<a href='/buildings/refrigeration' onclick='' >Refrigeration</a>                                        </li>
+                                        <li>
+<a href='/buildings/services-and-support' onclick='' >Services  and Support</a>                                        </li>
+                                        <li>
+<a href='/buildings/replacement-parts-and-supplies' onclick='' >Replacement Parts and Supplies</a>                                        </li>
+                                        <li>
+<a href='/buildings/solutions-by-industry' onclick='' >Solutions by Industry</a>                                        </li>
+                                        <li>
+<a href='/buildings/our-brands' onclick='' >Our Brands</a>                                        </li>
+                                </ul>
+                        </div>
+                        <div class="footer-left col-md-2 col-sm-6">
+                            <div class="footer-col-title">
+                                Batteries
+                            </div>
+
+                                <ul class="footer-list">
+                                        <li>
+<a href='/batteries/capabilities' onclick='' >Capabilities</a>                                        </li>
+                                        <li>
+<a href='/batteries/applications/passenger-vehicles' onclick='' >Applications</a>                                        </li>
+                                        <li>
+<a href='/batteries/lead-acid-batteries/flood-lead-acid-batteries' onclick='' >Lead-acid Products</a>                                        </li>
+                                        <li>
+<a href='/batteries/lithium-ion-batteries' onclick='' >Lithium-ion Products</a>                                        </li>
+                                        <li>
+<a href='/batteries/battery-recycling' onclick='' >Battery Recycling</a>                                        </li>
+                                </ul>
+                        </div>
+                        <div class="footer-left col-md-2 col-sm-6">
+                            <div class="footer-col-title">
+                                Distributed Energy Storage
+                            </div>
+
+                                <ul class="footer-list">
+                                        <li>
+<a href='/distributed-energy-storage/capabilities' onclick='' >Capabilities</a>                                        </li>
+                                        <li>
+<a href='/distributed-energy-storage/applications' onclick='' >Applications</a>                                        </li>
+                                        <li>
+<a href='/distributed-energy-storage/energy-storage-solutions' onclick='' >Energy Storage Solutions</a>                                        </li>
+                                        <li>
+<a href='/distributed-energy-storage/news-and-resources' onclick='' >News and Resources</a>                                        </li>
+                                </ul>
+                        </div>
+
+                    <div class="footer-divider"></div>
+
+                        <div class="footer-right-1 col-md-2 col-sm-6">
+                            <ul class="footer-list">
+                                    <li>
+<a href='/about-us/our-company' onclick='' >About Us</a>                                    </li>
+                                    <li>
+<a href='/careers/why-johnson-controls' onclick='' >Careers</a>                                    </li>
+                                    <li>
+<a href='/media-center/news' onclick='' >Media</a>                                    </li>
+                                    <li>
+<a href='/investors' onclick='' >Investors</a>                                    </li>
+                                    <li>
+<a href='/insights' onclick='' >Insights</a>                                    </li>
+                                    <li>
+<a href='/corporate-sustainability' onclick='' >Corporate Sustainability</a>                                    </li>
+                                    <li>
+<a href='/about-us/ethics-and-compliance' onclick='' target='_self' >Ethics</a>                                    </li>
+                                    <li>
+<a href='/suppliers' onclick='' target='_self' >Suppliers</a>                                    </li>
+                                    <li>
+<a href='/location-finder' onclick='' target='_self' >Locations</a>                                    </li>
+                                    <li>
+<a href='/contact-us' onclick='' >Contact</a>                                    </li>
+                                    <li>
+<a href='/legal/terms' onclick='' >Legal</a>                                    </li>
+                            </ul>
+                        </div>
+
+
+                    <div class="footer-right-2 col-md-4 col-sm-6">
+
+                            <div class="footer-country">
+                                <a href="/site-selector-page" target="">
+                                    <i class="fa fa-globe"></i>
+                                    Select a Country
+                                </a>
+                                
+                            </div>
+
+                        <div class="footer-social-container">
+                                <a href="https://www.facebook.com/JohnsonControls" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-facebook"></i>
+                                </a>
+                                <a href="https://twitter.com/johnsoncontrols" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-twitter"></i>
+                                </a>
+                                <a href="https://www.youtube.com/user/JohnsonControlsInc/JohnsonControls" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-youtube"></i>
+                                </a>
+                                <a href="https://www.linkedin.com/company/johnson-controls" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-linkedin"></i>
+                                </a>
+                                <a href="https://www.instagram.com/johnsoncontrols/" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-instagram"></i>
+                                </a>
+                        </div>
+                    </div>
+
+                    <div class="footer-copy">
+                        <p>© 2017 Johnson Controls. All Rights Reserved | <a href="http://www.miitbeian.gov.cn" target="_blank">沪ICP备16004024号</a></p>
+                    </div>
+                </div>
+            </div>
+</div>
+</div>
+
+    </div>
+    
+    
+
+<script>
+    jci.jQuery(function () {
+        var enableTweetQuote = 1; 
+        jci.tweetQuote.init(enableTweetQuote, window.location.href, "Share On Twitter");
+
+    });
+</script>
+
+    <script type="text/javascript">
+
+    piAId = '55162';
+    piCId = '1020';
+
+    (function () {
+        function async_load() {
+            var s = document.createElement('script'); s.type = 'text/javascript';
+            s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+            var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+        }
+        if (window.attachEvent) { window.attachEvent('onload', async_load); }
+        else { window.addEventListener('load', async_load, false); }
+    })();
+
+</script>
+
+    <script type="text/javascript">
+    (function() {
+        var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+        sz.src = '//siteimproveanalytics.com/js/siteanalyze_33556.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+        })();
+</script>
+
+
+        <!--ServerName: PRODCD1 -->
+
+</body>
+</html>

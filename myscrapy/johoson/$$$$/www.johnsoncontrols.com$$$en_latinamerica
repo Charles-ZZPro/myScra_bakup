@@ -1,0 +1,1482 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6 en" lang="en" > <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7 en" lang="en" > <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8 en" lang="en" > <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="en" class="en">
+<!--<![endif]-->
+
+<head>
+
+    <script>
+        var jci = {};
+        jci.virtualFolder = '/en_latinamerica/';
+    </script>
+
+    
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+
+<title>Johnson Controls | Latin America</title>
+<link rel="canonical" href="http://www.johnsoncontrols.com/en_latinamerica" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0066/3434.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+<link rel="image_src" href="/en_latinamerica/-/media/default-images/page600x400.jpg" />
+<meta property="og:title" content="Home" />
+<meta property="og:description" content="" />
+<meta property="og:url" content="http://www.johnsoncontrols.com/en_latinamerica" />
+<meta property="og:image" content="/en_latinamerica/-/media/default-images/page600x400.jpg"/>
+
+    <meta property="og:site_name" content="Johnson Controls | Latin America" />
+
+
+    
+<link rel="shortcut icon" type="image/x-icon">
+<link rel="icon" href="/en_latinamerica/-/media/jci/corp/homepage/images/jci.png" type="image/png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/en_latinamerica/-/media/jci/corp/homepage/images/jci_76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/en_latinamerica/-/media/jci/corp/homepage/images/jci_120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/en_latinamerica/-/media/jci/corp/homepage/images/jci_150x150.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/en_latinamerica/-/media/jci/corp/homepage/images/jci_180x180.png">
+    
+<link href="/include/jci_com/vendor/css/bootstrap/bootstrap.min.css" rel="stylesheet"/>
+
+<link href="/include/jci_com/vendor/css/ScrollPane/jscrollpane.css" rel="stylesheet"/>
+<link href="/include/jci_com/vendor/css/FontAwesome/font-awesome.css" rel="stylesheet"/>
+
+<link href="/include/jci_com/Local/css/jci.css" rel="stylesheet"/>
+
+
+<script src="/include/jci_com/vendor/scripts/jquery/jquery-1.11.3.min.js"></script>
+
+<script src="/include/jci_com/vendor/scripts/plugins/jquery-scrollto.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jquery.validate.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jquery.validate.unobtrusive.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jQueryUI.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jquery.cookie.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/ellipsis.js"></script>
+<script src="/include/jci_com/vendor/scripts/foolproof/mvcfoolproof.unobtrusive.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/bootstrap/bootstrap.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/knockout/knockout-3.3.0.js"></script>
+<script src="/include/jci_com/vendor/scripts/freewall/freewall.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/jQuery.mousewheel.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/jquery.jscrollpane.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/SelectBoxPlugin.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/iframeResizer.min.js"></script>
+
+<script src="/include/jci_com/local/scripts/jci.jQuery.js"></script>
+<script src="/include/jci_com/local/scripts/jci.constants.js"></script>
+<script src="/include/jci_com/local/scripts/jci.utilities.js"></script>
+<script src="/include/jci_com/local/scripts/jci.resize-event.js"></script>
+<script src="/include/jci_com/local/scripts/jci.navigation.js"></script>
+<script src="/include/jci_com/local/scripts/jci.cookies.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-us-sublayout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.filters-base.js"></script>
+<script src="/include/jci_com/local/scripts/jci.observable-filter.js"></script>
+<script src="/include/jci_com/local/scripts/jci.search-input.js"></script>
+<script src="/include/jci_com/local/scripts/jci.paging.js"></script>
+<script src="/include/jci_com/local/scripts/jci.search-base.js"></script>
+<script src="/include/jci_com/local/scripts/jci.media-resource-search-result-base.js"></script>
+<script src="/include/jci_com/local/scripts/jci.experts-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.experts-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.full-site-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.full-site-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.insights-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.media-news-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.insights-list.js"></script>
+<script src="/include/jci_com/local/scripts/jci.insights-sharing.js"></script>
+<script src="/include/jci_com/local/scripts/jci.image-resource-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.video-resource-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.media-resources-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.social-sharing.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-us-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.product-contact-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.resource-links.js"></script>
+<script src="/include/jci_com/local/scripts/jci.resource-download-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.stock-ticker.js"></script>
+<script src="/include/jci_com/local/scripts/jci.sticky-footer.js"></script>
+<script src="/include/jci_com/local/scripts/jci.video-banner.js"></script>
+<script src="/include/jci_com/local/scripts/jci.tabs.js"></script>
+<script src="/include/jci_com/local/scripts/jci.product-filters.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-us-location-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.country-dropdown.js"></script>
+<script src="/include/jci_com/local/scripts/jci.job-search-callout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.image-and-video-gallery.js"></script>
+<script src="/include/jci_com/local/scripts/jci.leadership.js"></script>
+<script src="/include/jci_com/local/scripts/jci.related-callout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.search-overlay.js"></script>
+<script src="/include/jci_com/local/scripts/jci.tweet-quote.js"></script>
+<script src="/include/jci_com/local/scripts/jci.article-sublayout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.preview-mode.js"></script>
+
+
+    <!--Commenting the next line out.  to reenable add the at symbol before the html-->
+    <!--Html.Partial("~/Views/JCI_com/Renderings/Analytics/WebTrends.cshtml")-->
+    <script src="/Include/JCI_com/Vendor/Scripts/WebTrends/webtrends.load.js"></script>
+  
+    <!--[if IE]>
+        <link href="JCI_com/Local/Css/JCI-IE9.css" rel="stylesheet" />
+    <![endif]-->
+    
+    
+<meta name="VIcurrentDateTime" content="636368811112615913" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+
+</head>
+
+<body class="">
+
+    <div class="page-layout">
+        
+<!--SEARCH-->
+<div class="search-overlay">
+
+    <div class="search-overlay-background"></div>
+
+    <div class="search-overlay-main">
+
+        <div class="search-overlay-input-wrapper">
+
+            <input class="search-text-input" type="text" placeholder="Search" />
+
+            <div class="overlay-search-submit">
+
+                <div class="submit-btn">
+                    <div class="icon-search">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="search-overlay-close search-overlay-btn">X Close</div>
+    </div>
+</div>
+
+<script>
+
+    jci.jQuery(function () {
+        jci.searchOverlay.init(".search-overlay", "/en_latinamerica/search");
+    });
+</script>
+
+    <div class="cookie-header">
+
+        <div class="text">
+            <div>
+<p>This site uses cookies to offer you a better browsing experience. By clicking Approve, you consent to the use of cookies on your device as described in our <a href="/legal/privacy">privacy notice</a>.</p>
+</div>
+        </div>
+
+        <div class="approve-cookie">
+            Approve
+        </div>
+
+    </div>
+
+<script>
+    jci.cookies.init(
+        "JohnsonControls-Johnson Controls | Latin America - AcceptsCookies",
+        "true",
+        "true");
+
+    jci.previewMode.init("true");
+</script>
+
+
+
+
+<!--MENU-->
+<div class="menu-dropdown off-right">
+
+    <div class="menu-lists-container sticker" id="sticker">
+            <div class="panel-group menu-scroll-list" id="accordion" role="tablist" aria-multiselectable="true">
+                    <div class="panel">
+
+                        <div class="panel-heading" role="tab" id="menu943aa174-c9ce-4c2a-8359-3e7c6ac3011f">
+                            <h4 class="panel-title">
+                                    <a class="collapsed"
+                                       data-toggle="collapse"
+                                       data-parent="#accordion"
+                                       href="#building-efficiency"
+                                       aria-expanded="false"
+                                       aria-controls="building-efficiency"
+                                       onclick="">
+                                        <i class="dropdown-icon icon icon-buildings"></i>
+                                        <span class="menu-heading title-buildings">Building Efficiency</span>
+                                    </a>
+                            </h4>
+                        </div>
+
+                            <div id="building-efficiency" 
+                                 class="panel-collapse collapse" 
+                                 role="tabpanel" 
+                                 aria-labelledby="menu943aa174-c9ce-4c2a-8359-3e7c6ac3011f">
+
+                                <div class="panel-body">
+
+                                    <ul class="menu-accordian-items">
+                                            <li class="accordian-item">
+<a href='/en_latinamerica/buildings/hvac-equipment' onclick='' >HVAC Equipment</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/en_latinamerica/buildings/hvac-controls' onclick='' >HVAC Controls</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/en_latinamerica/buildings/building-management' onclick='' >Building Management</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/en_latinamerica/buildings/security-and-fire-safety' onclick='' >Security and Fire Safety</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/en_latinamerica/buildings/refrigeration' onclick='' >Refrigeration</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/en_latinamerica/buildings/services-and-support' onclick='' >Services and Support</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/en_latinamerica/buildings/solutions-by-industry' onclick='' >Solutions by Industry</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/en_latinamerica/buildings/our-brands' onclick='' >Our Brands</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/en_latinamerica/buildings/contact-us' onclick='' >Contact Us</a>                                            </li>
+                                    </ul>
+
+
+
+                                </div>
+                            </div>
+                    </div>
+                    <div class="panel">
+
+                        <div class="panel-heading" role="tab" id="menu4d40ed1a-5841-4d59-b306-16dee9aa71be">
+                            <h4 class="panel-title">
+                                    <a class ="collapsed" href="/en_latinamerica/batteries" onclick="var ">
+                                        <i class="dropdown-icon icon icon-battery"></i>
+                                        <span class="menu-heading title-battery">Batteries</span>
+                                    </a>
+                            </h4>
+                        </div>
+
+                    </div>
+            </div>
+
+                <div class="menu-divider"></div>
+                <ul class="menu-main-categories">
+                        <li class="menu-category">
+<a href='/en_latinamerica/our-company' onclick='' >About Us</a>                        </li>
+                        <li class="menu-category">
+<a href='/en_latinamerica/careers/why-johnson-controls' onclick='' target='_self' >Careers</a>                        </li>
+                        <li class="menu-category">
+<a href='/media-center/news' onclick='' >Media (U.S. site)</a>                        </li>
+                        <li class="menu-category">
+<a href='/investors' onclick='' >Investors (U.S. Site)</a>                        </li>
+                        <li class="menu-category">
+<a href='/en_latinamerica/insights' onclick='' >Insights</a>                        </li>
+                        <li class="menu-category">
+<a href='/en_latinamerica/contact-us' onclick='' target='_self' >Contact</a>                        </li>
+                </ul>
+
+                <div class="menu-divider"></div>
+            <div class="menu-social-container">
+                    <a href="https://www.facebook.com/JohnsonControls" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-facebook"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/company/johnson-controls" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://twitter.com/johnsoncontrols" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                    <a href="https://www.youtube.com/user/JohnsonControlsInc/JohnsonControls" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-youtube"></i>
+                    </a>
+            </div>
+    </div>
+</div>
+
+
+
+<div class="menu-shadow-overlay">
+
+</div>
+
+<div class="header initial-load-2 load-animations" >
+    <a href="/en_latinamerica">
+        <img src='/en_latinamerica/-/media/jci/corp/homepage/images/jci-logo-black-and-white.png' class='logo header-logo' alt='jci-logo' />
+    </a>
+
+
+    <div class="header-items">
+
+        <div class="header-search search-overlay-btn">
+            <div class="icon-search"></div>
+        </div>
+
+        <div class="header-text">
+            
+        </div>
+
+    </div>
+
+    <div class="menu-btn">
+        <!--
+        <div class="menu-burger">
+            <div class="icon-menu"></div>
+            <div class="icon icon-menu-closed"></div>
+        </div>
+        -->
+        <div class="nav-icon" id="nav-icon">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+
+        <div class="text">
+            Menu
+        </div>
+    </div>
+</div>
+        
+    <div class="home-video-container initial-load-1 initial-load-3 load-animations"
+         style="background-image: url('/en_latinamerica/-/media/jci/corp/homepage/images/merger-banners/technology_no_text.jpg'); background-attachment: scroll; background-position:center;">
+
+        <video id="home-background-video" style="display:none" autoplay class="home-video-vid" loop>
+                <source src="/en_latinamerica/-/media/jci/corp/homepage/files/cityscapes-2015/brazil_final.mp4" type='video/mp4' />
+                                </video>
+
+        <div class="vid-track"></div>
+        <div class="vid-load-spinner"></div>
+        <div class="vid-play-btn "><i class="icon icon-play"></i></div>
+        <div class="vid-controls"></div>
+
+            <div class="home-video-caption">
+                <div class="title">
+                    <h1>
+                        Welcome To A World
+                    </h1>
+                </div>
+                <div class="sub-title">
+                    <h2>
+                        where everything is safe, comfortable & sustainable
+                    </h2>
+                </div>
+            </div>
+    </div>
+    <div class="full-video-container">
+        <video preload="auto" class="full-video">
+                <source src="/en_latinamerica/-/media/jci/corp/homepage/files/home-page-videos/ent_video_home_multiindustrial_04.mp4" type='video/mp4' />
+                                </video>
+
+        <div class="full-video-close-button"></div>
+        <div class="full-video-controls">
+            <div class="full-video-action">
+                <svg xml:space="preserve" enable-background="new 0 0 54 54" viewBox="0 0 54 54" y="0px" x="0px" height="54px" width="54px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" class="play-button play-button-small">
+                    <path d="M27.1,4c12.7,0,23,10.3,23,23s-10.3,23-23,23s-23-10.3-23-23S14.4,4,27.1,4 M27.1,2c-13.8,0-25,11.2-25,25 s11.2,25,25,25s25-11.2,25-25S40.9,2,27.1,2L27.1,2z" fill="#E2E2E2" />
+                    <polygon points="20.1,18 20.1,36 38.1,27 " stroke-miterlimit="10" stroke-linejoin="round" stroke-width="2" stroke="#E2E2E2" fill="none" />
+                </svg>
+                <svg xml:space="preserve" enable-background="new 0 0 54 54" viewBox="0 0 54 54" y="0px" x="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" id="Layer_1" version="1.1" class="loading">
+                    <path d="M27.1,3
+            c-13.3,0-24,10.7-24,24s10.7,24,24,24s24-10.7,24-24c0-10.5-6.7-19.4-16.1-22.7"
+                        stroke-miterlimit="10" stroke-linecap="round" stroke-width="2" stroke="#E2E2E2" fill="none" />
+                </svg>
+                <svg xml:space="preserve" enable-background="new 0 0 54 54" viewBox="0 0 54 54" y="0px" x="0px" height="54px" width="54px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" id="Svg1" version="1.1" class="pause-button">
+                    <path d="M27,4c12.7,0,23,10.3,23,23S39.7,50,27,50S4,39.7,4,27S14.3,4,27,4 M27,2C13.2,2,2,13.2,2,27s11.2,25,25,25 s25-11.2,25-25S40.8,2,27,2L27,2z" fill="#E2E2E2" />
+                    <line y2="36" x2="22" y1="18" x1="22" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#E2E2E2" fill="none" />
+                    <line y2="36" x2="32" y1="18" x1="32" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#E2E2E2" fill="none" />
+                </svg>
+            </div>
+            <div class="full-video-seeker">
+                <div class="full-video-track">
+                    <div class="full-video-track-current"></div>
+                    <div class="full-video-track-pointer"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        var autoplay = false;
+
+        function DetectAutoplay() {
+            var backgroundVideo = document.getElementById("home-background-video");
+            backgroundVideo.addEventListener('play', function () {
+                backgroundVideo.style.display = "block";
+                autoplay = true;
+            }, false);
+        }
+        DetectAutoplay();
+
+        jci.jQuery(document).ready(function () {
+            var videoControls = new jci.VideoBanner('.home-video-container', '.full-video-container');
+            videoControls.init();
+        });
+
+    </script>
+
+
+
+
+
+
+    <div class="row content-rotator-left">
+    <a href="#">
+    <div class="col-md-7 right-image"
+         style="background-image:url('/en_latinamerica/-/media/jci/corp/homepage/images/2016-rotator/ent_mast_homepage_corp.jpg')">
+
+        <div class="overlay-gradient">
+
+            <div class="overlay-section">
+
+                <div class="overlay-white-bar"></div>
+
+                <h3>
+Johnson Controls                </h3>
+            </div>
+        </div>
+    </div>
+    </a>
+        <div class="col-md-5 left-rotator">
+
+            <div id="carousel-left-8e93bd51-3c2f-4d29-a5e1-ea3dcf80a26d"
+                 class="carousel slide vertical carousel-left"
+                 data-ride="carousel"
+                 data-interval="false">
+
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner" role="listbox">
+
+                            <div class="item active">
+                                <div class="news-story-info">
+
+                                    <div class="news-type">
+                                        News release
+                                    </div>
+                                </div>
+
+                                <div class="news-title">
+
+                                    <h3>
+<a href='/insights/2017/enterprise/features/johnson-controls-named-official-smart-building-partner-for-new-downtown-milwaukee-arena' onclick='' > Johnson Controls named "smart building" partner for new arena</a>                                    </h3>
+                                </div>
+
+                                <div class="news-text">
+                                    The Milwaukee Bucks announced a new partnership with Johnson Controls, a global multi-industrial leader, to become the official &ldquo;smart building&rdquo; partner for the new Wisconsin Entertainment &amp; Sports Center in downtown Milwaukee.
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="news-story-info">
+
+                                    <div class="news-type">
+                                        
+                                    </div>
+                                </div>
+
+                                <div class="news-title">
+
+                                    <h3>
+<a href='/corporate-sustainability/reporting-and-policies/2016-business-and-sustainability-report' onclick='' >2016 Business and Sustainability Report</a>                                    </h3>
+                                </div>
+
+                                <div class="news-text">
+                                    The headline story of fiscal 2016 is the introduction of a new Johnson Controls. The merger with Tyco strengthens our global leadership in building and energy technologies and solutions, uniquely positioning us to create smarter, safer, more efficient buildings and cities, powered by intelligent, sustainable energy solutions. Read the 2016 BSR to learn more.
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="news-story-info">
+
+                                    <div class="news-type">
+                                        News release
+                                    </div>
+                                </div>
+
+                                <div class="news-title">
+
+                                    <h3>
+<a href='/media-center/news/press-releases/2017/03/16/johnson-controls-to-sell-scott-safety-business-to-3m-for-$2-billion' onclick='' >Johnson Controls to sell Scott Safety</a>                                    </h3>
+                                </div>
+
+                                <div class="news-text">
+                                    Johnson Controls announced that it has signed a definitive agreement to sell its Scott Safety business to 3M in a cash transaction valued at approximately $2.0 billion.
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="news-story-info">
+
+                                    <div class="news-type">
+                                        Featured story
+                                    </div>
+                                </div>
+
+                                <div class="news-title">
+
+                                    <h3>
+<a href='/insights/2017/enterprise/features/2016-top-100-global-innovators' onclick='' >Top 100 Global Innovators</a>                                    </h3>
+                                </div>
+
+                                <div class="news-text">
+                                    Johnson Controls ranks among the most innovative companies in the world, according to the Clarivate Analytics Top 100 Global Innovators list for 2016.
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="news-story-info">
+
+                                    <div class="news-type">
+                                        News release
+                                    </div>
+                                </div>
+
+                                <div class="news-title">
+
+                                    <h3>
+<a href='/media-center/news/press-releases/2017/02/01/johnson-controls-reports-first-quarter-2017-gaap-earnings-from-continuing-operations-of-039-per-share-strong-adjusted-earnings-of-053-per-share-and-reaffirms-2017-adjusted-eps-guidance' onclick='' >First Quarter 2017 Earnings</a>                                    </h3>
+                                </div>
+
+                                <div class="news-text">
+                                    Johnson Controls reported first quarter 2017 GAAP earnings per share from continuing operations of $0.39.  Adjusted EPS from continuing operations were $0.53, up 10 percent versus the prior year period.
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="news-story-info">
+
+                                    <div class="news-type">
+                                        News release
+                                    </div>
+                                </div>
+
+                                <div class="news-title">
+
+                                    <h3>
+<a href='/media-center/news/press-releases/2017/01/25/johnson-controls-to-help-women-reenter-workforce' onclick='' >Next Chapter</a>                                    </h3>
+                                </div>
+
+                                <div class="news-text">
+                                    Through its Next Chapter program, Johnson Controls is looking for women who have been out of the workforce for two or more years and want to be employed using their analytic and engineering skills.
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="news-story-info">
+
+                                    <div class="news-type">
+                                        Featured story
+                                    </div>
+                                </div>
+
+                                <div class="news-title">
+
+                                    <h3>
+<a href='/insights/2017/enterprise/features/johnson-controls-attends-2017-world-economic-forum-annual-meeting' onclick='' >Davos 2017</a>                                    </h3>
+                                </div>
+
+                                <div class="news-text">
+                                    Led by Chairman and CEO Alex Molinaroli, Johnson Controls will participate in the World Economic Forum&rsquo;s 47th Annual Meeting in Davos, Switzerland.
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="news-story-info">
+
+                                    <div class="news-type">
+                                        Video
+                                    </div>
+                                </div>
+
+                                <div class="news-title">
+
+                                    <h3>
+<a href='/insights/2017/enterprise/in-the-news/johnson-controls-on-mad-money-2017' onclick='' >Mad Money</a>                                    </h3>
+                                </div>
+
+                                <div class="news-text">
+                                    Jim Cramer of CNBC's "Mad Money" spoke with Johnson Controls CEO Alex Molinaroli to find out what could be ahead in 2017 for the company.
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="news-story-info">
+
+                                    <div class="news-type">
+                                        Video
+                                    </div>
+                                </div>
+
+                                <div class="news-title">
+
+                                    <h3>
+<a href='https://www.youtube.com/watch?v=54w_rQV__Jo' onclick='' >Circular economy</a>                                    </h3>
+                                </div>
+
+                                <div class="news-text">
+                                    Johnson Controls is shaping tomorrow by creating a smarter, more sustainable global economy today.
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="news-story-info">
+
+                                    <div class="news-type">
+                                        News release
+                                    </div>
+                                </div>
+
+                                <div class="news-title">
+
+                                    <h3>
+<a href='/media-center/news/press-releases/2016/12/05/johnson-controls-announces-fiscal-2017-guidance-and-introduces-midterm-outlook' onclick='' >Johnson Controls announces fiscal 2017 guidance and introduces mid-term outlook </a>                                    </h3>
+                                </div>
+
+                                <div class="news-text">
+                                    Johnson Controls International, plc announces fiscal 2017 EPS before special items guidance of $2.60 to $2.75 per share, a 13 percent to 19 percent year-over-year increase.
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="news-story-info">
+
+                                    <div class="news-type">
+                                        Feature 
+                                    </div>
+                                </div>
+
+                                <div class="news-title">
+
+                                    <h3>
+<a href='/insights/2016/enterprise/features/football-hall-of-fame-naming-rights' onclick='' >Johnson Controls enters partnership with Hall of Fame</a>                                    </h3>
+                                </div>
+
+                                <div class="news-text">
+                                    <span>Johnson Controls<strong> </strong>and Hall of Fame Village LLC (a partnership between the Pro Football Hall of Fame and Industrial Realty Group) have entered into a historic 18-year agreement to create the first sports and entertainment &ldquo;smart city&rdquo; that will carry the name Johnson Controls Hall of Fame Village.</span>
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="news-story-info">
+
+                                    <div class="news-type">
+                                        News Release
+                                    </div>
+                                </div>
+
+                                <div class="news-title">
+
+                                    <h3>
+<a href='/media-center/news/press-releases/2016/11/08/johnson-controls-reports-2016-fiscal-fourth-quarter-and-full-year-earnings' onclick='' >Johnson Controls reports 2016 fiscal fourth quarter and full year earnings </a>                                    </h3>
+                                </div>
+
+                                <div class="news-text">
+                                    "We delivered another strong quarter and an exceptional 2016, continuing the strong performance we have seen throughout the year,&rdquo; said Alex Molinaroli, Johnson Controls chairman &amp; CEO.
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="news-story-info">
+
+                                    <div class="news-type">
+                                        News release
+                                    </div>
+                                </div>
+
+                                <div class="news-title">
+
+                                    <h3>
+<a href='/media-center/news/press-releases/2016/10/31/johnson-controls-completes-separation-of-adient' onclick='' >Johnson Controls completes separation of Adient</a>                                    </h3>
+                                </div>
+
+                                <div class="news-text">
+                                    Johnson Controls announced its automotive seating business is now Adient, an independent, publicly traded company with 75,000 employees globally focused on strengthening its market leading position.
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="news-story-info">
+
+                                    <div class="news-type">
+                                        
+                                    </div>
+                                </div>
+
+                                <div class="news-title">
+
+                                    <h3>
+<a href='/insights/2016/enterprise/features/climate-a-list-by-cdp' onclick='' >A world leader for corporate action on climate change</a>                                    </h3>
+                                </div>
+
+                                <div class="news-text">
+                                    Johnson Controls has been identified as a global leader for its actions and strategies in response to climate change and has been awarded a position on the CDP Climate A List.
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="news-story-info">
+
+                                    <div class="news-type">
+                                        News release
+                                    </div>
+                                </div>
+
+                                <div class="news-title">
+
+                                    <h3>
+<a href='http://www.johnsoncontrols.com/media-center/news/press-releases/2016/09/06/johnson-controls-and-tyco-complete-merger' onclick='' >Johnson Controls and Tyco complete merger</a>                                    </h3>
+                                </div>
+
+                                <div class="news-text">
+                                    With a vision to create a safe, comfortable and sustainable world, a newly formed Johnson Controls&nbsp;began operations Sept. 6 following the successful completion of its merger with Tyco, marking a&nbsp;historic turning point for both companies.
+                                </div>
+                            </div>
+                            <div class="item ">
+                                <div class="news-story-info">
+
+                                    <div class="news-type">
+                                        
+                                    </div>
+                                </div>
+
+                                <div class="news-title">
+
+                                    <h3>
+<a href='/merger' onclick='' >About the Johnson Controls-Tyco merger</a>                                    </h3>
+                                </div>
+
+                                <div class="news-text">
+                                    The latest information about the Johnson Controls-Tyco merger can be found online, including the latest news releases, investor deck, fact sheet and leadership bios.
+                                </div>
+                            </div>
+
+                    <div class="carousel-fade"></div>
+                </div>
+
+                <!-- Controls -->
+                    <div class="control-wrapper">
+
+
+                        <a class="left carousel-control hover-shadow"
+                           href="#carousel-left-8e93bd51-3c2f-4d29-a5e1-ea3dcf80a26d"
+                           role="button"
+                           data-slide="prev">
+                            <div class="icon icon-arrow-down" aria-hidden="true"></div>
+                            <span class="sr-only">
+                                Previous
+                            </span>
+                        </a>
+
+                        <a class="right carousel-control hover-shadow"
+                           href="#carousel-left-8e93bd51-3c2f-4d29-a5e1-ea3dcf80a26d"
+                           role="button"
+                           data-slide="next">
+                            <div class="icon icon-arrow-up" aria-hidden="true"></div>
+                            <span class="sr-only">
+                                Next
+                            </span>
+                        </a>
+                    </div>
+
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row content-rotator-right" >
+<a href="/buildings/solutions-by-industry">
+    <div class="col-md-7 left-image"
+         style="background-image:url('/en_latinamerica/-/media/jci/generic-photography/ent/full-page/ent_fullpage_officewindows.jpg')">
+
+        <div class="overlay-gradient">
+
+            <div class="overlay-section">
+
+                <div class="overlay-white-bar"></div>
+
+                <h3>
+Buildings                </h3>
+            </div>
+        </div>
+    </div>
+    </a>
+    
+            <div class="col-md-5 right-rotator">
+
+                <div id="carousel-right-c906e731-75ec-40ea-a694-01067cc2da3b"
+                     class="carousel slide vertical carousel-right"
+                     data-ride="carousel"
+                     data-interval="false">
+
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner" role="listbox">
+
+                                <div class="item active">
+
+                                        <div class="news-story-info">
+
+                                            <div class="news-type">
+                                                News release
+                                            </div>
+                                        </div>
+
+                                    <div class="news-title">
+
+                                        <h3>
+<a href='/media-center/news/press-releases/2017/03/21/york-to-award-one-lucky-homeowner-with-home-comfort-system-valued-at-up-to-10000' onclick='' >YORK Affinity™ contest</a>                                        </h3>
+                                    </div>
+
+                                    <div class="news-text">
+                                        The YORK&reg; brand of Johnson Controls announced a contest that will award one lucky homeowner with a new whole-house heating and cooling system.
+                                    </div>
+                                </div>
+                                <div class="item ">
+
+                                        <div class="news-story-info">
+
+                                            <div class="news-type">
+                                                Feature
+                                            </div>
+                                        </div>
+
+                                    <div class="news-title">
+
+                                        <h3>
+<a href='/insights/2017/buildings/features/open-bas' onclick='' >Open Building Automation Systems</a>                                        </h3>
+                                    </div>
+
+                                    <div class="news-text">
+                                        Building owners and facility managers are constantly looking for ways to obtain greater control and create greater efficiency in their buildings. An open BAS is one way to achieve those goals.
+                                    </div>
+                                </div>
+                                <div class="item ">
+
+                                        <div class="news-story-info">
+
+                                            <div class="news-type">
+                                                White paper
+                                            </div>
+                                        </div>
+
+                                    <div class="news-title">
+
+                                        <h3>
+<a href='/insights/2017/buildings/features/cybersmart-buildings' onclick='' >Cybersmart buildings</a>                                        </h3>
+                                    </div>
+
+                                    <div class="news-text">
+                                        As data becomes more and more prevalent throughout the buildings where we live and work, so does the need to protect that data. &ldquo;It is no longer enough for a building to be smart &ndash; it must now be cybersmart,&rdquo; according to a new whitepaper published jointly by Johnson Controls and Booz Allen Hamilton, a management and technology consulting and engineering firm.
+                                    </div>
+                                </div>
+                                <div class="item ">
+
+                                        <div class="news-story-info">
+
+                                            <div class="news-type">
+                                                News release
+                                            </div>
+                                        </div>
+
+                                    <div class="news-title">
+
+                                        <h3>
+<a href='/media-center/news/press-releases/2017/02/02/homes-for-heroes' onclick='' >Building Homes for Heroes</a>                                        </h3>
+                                    </div>
+
+                                    <div class="news-text">
+                                        The YORK&reg; brand of Johnson Controls will continue its sponsorship of Building Homes for Heroes&reg; through 2017 and provide veterans with home heating, ventilation and air-conditioning (HVAC) systems.
+                                    </div>
+                                </div>
+                                <div class="item ">
+
+                                        <div class="news-story-info">
+
+                                            <div class="news-type">
+                                                News release
+                                            </div>
+                                        </div>
+
+                                    <div class="news-title">
+
+                                        <h3>
+<a href='/media-center/news/press-releases/2017/01/23/smart-gateway' onclick='' >VRF Smart Gateway</a>                                        </h3>
+                                    </div>
+
+                                    <div class="news-text">
+                                        The new Variable Refrigerant Flow (VRF) Smart Gateway from Johnson Controls provides unprecedented control for network management centers.
+                                    </div>
+                                </div>
+                                <div class="item ">
+
+                                        <div class="news-story-info">
+
+                                            <div class="news-type">
+                                                News
+                                            </div>
+                                        </div>
+
+                                    <div class="news-title">
+
+                                        <h3>
+<a href='/media-center/news/press-releases/2017/01/05/johnson-controls-introduces-verasys-controls-system-first-plugandplay-solution-that-integrates-hvacr-equipment-and-controls' onclick='' >Plug-and-play controls system</a>                                        </h3>
+                                    </div>
+
+                                    <div class="news-text">
+                                        Johnson Controls introduces Verasys&trade;, the first plug-and-play controls system that integrates heating, ventilation, air-conditioning and refrigeration (HVACR) equipment and controls.
+                                    </div>
+                                </div>
+                                <div class="item ">
+
+                                        <div class="news-story-info">
+
+                                            <div class="news-type">
+                                                Video
+                                            </div>
+                                        </div>
+
+                                    <div class="news-title">
+
+                                        <h3>
+<a href='https://www.youtube.com/watch?v=30zz7tK4C7E' onclick='' >Denver International Airport</a>                                        </h3>
+                                    </div>
+
+                                    <div class="news-text">
+                                        Johnson Controls is shaping tomorrow by helping create one of the world's smartest airports today. Learn more by viewing our video.
+                                    </div>
+                                </div>
+                                <div class="item ">
+
+                                        <div class="news-story-info">
+
+                                            <div class="news-type">
+                                                News release
+                                            </div>
+                                        </div>
+
+                                    <div class="news-title">
+
+                                        <h3>
+<a href='/media-center/news/press-releases/2016/12/08/20-years-of-engineering-and-manufacturing-excellence-in-wuxi' onclick='' >China facility celebrates 20-year milestone</a>                                        </h3>
+                                    </div>
+
+                                    <div class="news-text">
+                                        The engineering and manufacturing operations of Johnson Controls&rsquo; Building Technologies &amp; Solutions in Wuxi is celebrating 20 years of providing its customers with the right products and solutions for more comfortable and sustainable buildings.
+                                    </div>
+                                </div>
+                                <div class="item ">
+
+                                        <div class="news-story-info">
+
+                                            <div class="news-type">
+                                                News release
+                                            </div>
+                                        </div>
+
+                                    <div class="news-title">
+
+                                        <h3>
+<a href='/media-center/news/press-releases/2016/11/17/york-modulating-gas-furnace-receives-consumers-digest-best-buy-designation' onclick='' >YORK® gas furnace receives Consumers Digest Best Buy</a>                                        </h3>
+                                    </div>
+
+                                    <div class="news-text">
+                                        Consumers Digest magazine recently named the YORK&reg; Affinity&trade; YP9C modulating gas furnace from Johnson Controls a 2016 Best Buy.
+                                    </div>
+                                </div>
+                                <div class="item ">
+
+                                        <div class="news-story-info">
+
+                                            <div class="news-type">
+                                                News Release
+                                            </div>
+                                        </div>
+
+                                    <div class="news-title">
+
+                                        <h3>
+<a href='/media-center/news/press-releases/2016/10/18/cooperative-research-and-development-agreement-on-cybersecurity' onclick='' >Johnson Controls signs cybersecurity agreement with Department of Homeland Security</a>                                        </h3>
+                                    </div>
+
+                                    <div class="news-text">
+                                        The agreement will help secure our nation&rsquo;s critical infrastructure from those with malicious intent.
+                                    </div>
+                                </div>
+                                <div class="item ">
+
+                                        <div class="news-story-info">
+
+                                            <div class="news-type">
+                                                Feature
+                                            </div>
+                                        </div>
+
+                                    <div class="news-title">
+
+                                        <h3>
+<a href='/insights/2016/buildings/features/using-the-internet-of-things-to-advance-chiller-service' onclick='' target='_self' >Internet of Things</a>                                        </h3>
+                                    </div>
+
+                                    <div class="news-text">
+                                        Smart Connected Chillers are reshaping how chiller service is delivered and improving results for connected customers. With more than 3,000 chillers now connected, more than 54 million data samples are generated daily.
+                                    </div>
+                                </div>
+
+                        <div class="carousel-fade"></div>
+                    </div>
+
+                    <!-- Controls -->
+                        <div class="control-wrapper">
+
+                            <a class="left carousel-control hover-shadow"
+                               href="#carousel-right-c906e731-75ec-40ea-a694-01067cc2da3b"
+                               role="button"
+                               data-slide="prev">
+                                <div class="icon icon-arrow-down" aria-hidden="true"></div>
+                                <span class="sr-only">Previous</span>
+                            </a>
+
+                            <a class="right carousel-control hover-shadow"
+                               href="#carousel-right-c906e731-75ec-40ea-a694-01067cc2da3b"
+                               role="button"
+                               data-slide="next">
+                                <div class="icon icon-arrow-up" aria-hidden="true"></div>
+                                <span class="sr-only">
+                                    Next
+                                </span>
+                            </a>
+
+                        </div>
+                </div>
+            </div>
+</div>
+
+    <div id="carousel-wide-3e85f1e8-d2ee-48de-be0a-af19ad525471"
+         class="carousel slide vertical carousel-wide"
+         data-ride="carousel"
+         data-interval="false"
+         style="background-image:url('/en_latinamerica/-/media/jci/corp/homepage/images/2016-rotator/ps_mast_monterrey_batteries.jpg')">
+
+        <div class="carousel-overlay container">
+
+            <div class="overlay-white-bar"></div>
+
+            <h3>
+Batteries            </h3>
+        </div>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+                    <div class="item active">
+
+                        <div class="social">
+
+                            <div class="social-title">
+<a href='/insights/2017/power/features/circular-economy-walicki' onclick='' >5 things leaders can do to create a truly circular economy</a>
+                            </div>
+                        </div>
+
+                        <div class="overlay-text">
+                            As the world continues to grow, so does our environmental footprint. The circular economy can dramatically alter that trend and create a more sustainable and profitable future.
+                        </div>
+                    </div>
+                    <div class="item ">
+
+                        <div class="social">
+
+                            <div class="social-title">
+<a href='/media-center/news/press-releases/2017/02/09/johnson-controls-and-aqua-metals-sign-breakthrough-battery-recycling-technology-partnership' onclick='' >Break-through battery recycling technology partnership</a>
+                            </div>
+                        </div>
+
+                        <div class="overlay-text">
+                            Johnson Controls finalized an agreement covering North America, China and Europe for a cutting-edge electrochemical battery recycling technology. Under terms of a multi-faceted deal, the company is investing in Aqua Metals.
+                        </div>
+                    </div>
+                    <div class="item ">
+
+                        <div class="social">
+
+                            <div class="social-title">
+<a href='/media-center/news/press-releases/2017/02/02/johnson-controls-us-battery-production' onclick='' >U.S. battery production</a>
+                            </div>
+                        </div>
+
+                        <div class="overlay-text">
+                            The world&rsquo;s largest automotive battery supplier and recycler, Johnson Controls, is announcing investments to grow manufacturing capability in the United States.
+                        </div>
+                    </div>
+                    <div class="item ">
+
+                        <div class="social">
+
+                            <div class="social-title">
+<a href='https://youtu.be/gQyxa1eVmMs' onclick='' >Batteries for Start-Stop Vehicles</a>
+                            </div>
+                        </div>
+
+                        <div class="overlay-text">
+                            Every day of the week, Johnson Controls will help save 1.8 million gallons of fuel by building the most advanced car batteries in the world. View our video to learn more.
+                        </div>
+                    </div>
+                    <div class="item ">
+
+                        <div class="social">
+
+                            <div class="social-title">
+<a href='/insights/2016/enterprise/features/circulars-2017' onclick='' >Johnson Controls finalist for prestigious award</a>
+                            </div>
+                        </div>
+
+                        <div class="overlay-text">
+                            Company's vehicle battery recycling program is cited as successful example of circular economy.
+                        </div>
+                    </div>
+                    <div class="item ">
+
+                        <div class="social">
+
+                            <div class="social-title">
+<a href='/media-center/news/press-releases/2016/10/31/johnson-controls-expands-start-stop-battery-production-in-china' onclick='' >Johnson Controls expands start-stop battery production in China</a>
+                            </div>
+                        </div>
+
+                        <div class="overlay-text">
+                            Johnson Controls is expanding its production capacity of Absorbent Glass Mat (AGM) batteries for start-stop vehicles in China to support the rising market demand.
+                        </div>
+                    </div>
+                    <div class="item ">
+
+                        <div class="social">
+
+                            <div class="social-title">
+<a href='/media-center/news/press-releases/2016/10/05/johnson-controls-plant-in-red-oak-produces-15-billionth-powerframe-grid' onclick='' >Johnson Controls plant produces 15 billionth PowerFrame® grid</a>
+                            </div>
+                        </div>
+
+                        <div class="overlay-text">
+                            The Johnson Controls plant in Red Oak, Iowa, has produced enough grids to build more than 330 million automobile batteries, more than enough for every passenger vehicle in the United States.&nbsp;
+                        </div>
+                    </div>
+                    <div class="item ">
+
+                        <div class="social">
+
+                            <div class="social-title">
+<a href='/media-center/news/press-releases/2016/10/05/korean-standards-association-names-johnson-controls-best-automotive-battery-maker' onclick='' >Best automotive battery maker in Korea</a>
+                            </div>
+                        </div>
+
+                        <div class="overlay-text">
+                            Johnson Controls, the world's largest automotive battery manufacturer, earned the top award for quality from the Korean Standards Association (KSA).
+                        </div>
+                    </div>
+                    <div class="item ">
+
+                        <div class="social">
+
+                            <div class="social-title">
+<a href='/media-center/news/press-releases/2016/09/28/johnson-controls-agm-battery-wins-china-automobile-and-parts-award' onclick='' >AGM battery wins Chinese innovation award</a>
+                            </div>
+                        </div>
+
+                        <div class="overlay-text">
+                            Automobile &amp; Parts, a major automotive magazine in China, selected Johnson Controls&rsquo; battery technology for its Energy Saving &amp; High Efficiency Technical Award.
+                        </div>
+                    </div>
+                    <div class="item ">
+
+                        <div class="social">
+
+                            <div class="social-title">
+<a href='/media-center/news/press-releases/2016/09/23/johnson-controls-earns-star-of-energy-efficiency-chairmans-award' onclick='' >Johnson Controls earns Star of Energy Efficiency Chairman's Award</a>
+                            </div>
+                        </div>
+
+                        <div class="overlay-text">
+                            Johnson Controls has been selected by the Alliance to Save Energy to receive the Star of Energy Efficiency Chairman's Award in recognition of its innovative start-stop battery technology.
+                        </div>
+                    </div>
+                    <div class="item ">
+
+                        <div class="social">
+
+                            <div class="social-title">
+<a href='/media-center/news/press-releases/2016/09/15/varta-wins-award-for-best-battery-brand-for-trucks' onclick='' >VARTA® wins award for best battery brand for trucks</a>
+                            </div>
+                        </div>
+
+                        <div class="overlay-text">
+                            Leading battery brand VARTA has defended its title as &ldquo;Best PROFI Workshop Brand&rdquo; in Germany. Automotive trade magazine PROFI Werkstatt along with Automechanika awarded VARTA the top prize based on a magazine survey of 7,500 contacts from truck workshops, fleet managers and truck drivers.
+                        </div>
+                    </div>
+                    <div class="item ">
+
+                        <div class="social">
+
+                            <div class="social-title">
+<a href='/insights/2016/ps/features/johnson-controls-manufacturing-system-helps-mexico-battery-plants' onclick='' >Empowering employees to achieve manufacturing excellence</a>
+                            </div>
+                        </div>
+
+                        <div class="overlay-text">
+                            Two Johnson Controls battery plants in Mexico have transformed the way they operate as part of a newly implemented manufacturing system that is leading to lower costs, increased productivity, higher customer satisfaction and employee engagement.
+                        </div>
+                    </div>
+                    <div class="item ">
+
+                        <div class="social">
+
+                            <div class="social-title">
+<a href='/media-center/news/press-releases/2016/08/03/fuel-efficiency-continues-to-be-top-criterion-for-us-car-buyers' onclick='' target='_self' >Fuel efficiency top criterion for car buyers</a>
+                            </div>
+                        </div>
+
+                        <div class="overlay-text">
+                            American consumers are strongly influenced by both the price of gas and fuel efficiency when purchasing a vehicle, according to a new survey conducted by the Opinion Research Corporation on behalf of Johnson Controls.
+                        </div>
+                    </div>
+                    <div class="item ">
+
+                        <div class="social">
+
+                            <div class="social-title">
+<a href='/media-center/news/press-releases/2016/06/13/johnson-controls-investing-$245-million-in-agm-battery-production-in-north-america' onclick='' target='_self' >AGM battery production to increase</a>
+                            </div>
+                        </div>
+
+                        <div class="overlay-text">
+                            Johnson Controls, the world's largest manufacturer of AGM batteries, announced it is investing $245 million between 2016 and 2020 to double AGM production capacity in North America.
+                        </div>
+                    </div>
+                    <div class="item ">
+
+                        <div class="social">
+
+                            <div class="social-title">
+<a href='/media-center/news/press-releases/2016/06/09/johnson-controls-to-build-4th-automotive-battery-plant-in-china' onclick='' target='_self' >Johnson Controls to build 4th battery plant in China</a>
+                            </div>
+                        </div>
+
+                        <div class="overlay-text">
+                            Johnson Controls is forming a joint venture with Binzhou Bohai Piston Co., Ltd., to build its fourth Chinese automotive battery manufacturing plant. Aimed at serving both automakers and aftermarket customers, the facility will be located in Binzhou, Shandong Province.
+                        </div>
+                    </div>
+                    <div class="item ">
+
+                        <div class="social">
+
+                            <div class="social-title">
+<a href='/media-center/news/press-releases/2016/05/26/johnson-controls-announces-research-partnership-at-the-university-of-wisconsinmadison' onclick='' target='_self' >Next-gen battery-electric vehicles</a>
+                            </div>
+                        </div>
+
+                        <div class="overlay-text">
+                            Johnson Controls has announced two multi-year research projects at the University of Wisconsin&ndash;Madison aimed at enhancing the fuel efficiency of start-stop and next-generation battery-electric vehicles.
+                        </div>
+                    </div>
+                    <div class="item ">
+
+                        <div class="social">
+
+                            <div class="social-title">
+<a href='/insights/2016/ps/features/40-years-of-battery-manufacturing-celebrated-at-guardamar' onclick='' target='_self' >40 years of battery production</a>
+                            </div>
+                        </div>
+
+                        <div class="overlay-text">
+                            The Johnson Controls plant in Guardamar, which specializes in the production of VARTA&reg; car batteries, celebrated its 40 years anniversary with employees and politicians on May 4.
+                        </div>
+                    </div>
+                    <div class="item ">
+
+                        <div class="social">
+
+                            <div class="social-title">
+<a href='/media-center/news/press-releases/2016/04/19/make-an-impact-this-earth-day-and-recycle-your-vehicles-old-battery' onclick='' >Recycle your battery</a>
+                            </div>
+                        </div>
+
+                        <div class="overlay-text">
+                            To help consumers find a nearby facility to recycle used vehicle, boat, motorcycle or lawn/garden batteries, Johnson Controls, the world&rsquo;s largest manufacturer and recycler of vehicle batteries, is encouraging consumers to visit its website www.recyclingmybattery.com.
+                        </div>
+                    </div>
+                    <div class="item ">
+
+                        <div class="social">
+
+                            <div class="social-title">
+<a href='/en_latinamerica/insights/2016/ps/features/varta-wins-awards' onclick='' >Top awards for VARTA® batteries</a>
+                            </div>
+                        </div>
+
+                        <div class="overlay-text">
+                            Johnson Controls automotive battery brand VARTA&reg; was honored in China for its advanced technology and environmental performance.
+                        </div>
+                    </div>
+        </div>
+
+        <!-- Controls -->
+            <div class="control-wrapper">
+
+                <a class="left carousel-control hover-shadow" 
+                   href="#carousel-wide-3e85f1e8-d2ee-48de-be0a-af19ad525471" 
+                   role="button" 
+                   data-slide="prev">
+                    <div class="icon icon-arrow-down" aria-hidden="true"></div>
+                    <span class="sr-only">Previous</span>
+                </a>
+
+                <a class="right carousel-control hover-shadow" 
+                   href="#carousel-wide-3e85f1e8-d2ee-48de-be0a-af19ad525471" 
+                   role="button" 
+                   data-slide="next">
+                    <span class="icon icon-arrow-up" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+    </div>
+
+        
+
+
+<div class="spacer"></div>
+<div class="footer" style="background-image: url('/en_latinamerica/-/media/jci/header-and-footer/skylinebuildingsnewyorkskyscrapers.jpg')">
+
+    <div class="footer-content container">
+        <a href="/en_latinamerica">
+            <img src='/en_latinamerica/-/media/jci/corp/homepage/images/jci-logo-color.png' class='footer-logo' alt='jci logo color' />
+        </a>
+            <div class="footer-main-box">
+
+                <div class="footer-row row">
+
+                        <div class="footer-left col-md-2 col-sm-6">
+                            <div class="footer-col-title">
+                                Batteries
+                            </div>
+
+                                <ul class="footer-list">
+                                        <li>
+<a href='/en_latinamerica/batteries' onclick='' target='_self' >About Batteries</a>                                        </li>
+                                </ul>
+                        </div>
+                        <div class="footer-left col-md-2 col-sm-6">
+                            <div class="footer-col-title">
+                                Building Efficiency
+                            </div>
+
+                                <ul class="footer-list">
+                                        <li>
+<a href='/en_latinamerica/buildings/hvac-equipment' onclick='' >HVAC Equipment</a>                                        </li>
+                                        <li>
+<a href='/en_latinamerica/buildings/hvac-controls' onclick='' >HVAC Controls</a>                                        </li>
+                                        <li>
+<a href='/en_latinamerica/buildings/building-management' onclick='' >Building Management</a>                                        </li>
+                                        <li>
+<a href='/en_latinamerica/buildings/security-and-fire-safety' onclick='' >Security and Fire Safety</a>                                        </li>
+                                        <li>
+<a href='/en_latinamerica/buildings/air-systems' onclick='' >Air Systems</a>                                        </li>
+                                        <li>
+<a href='/en_latinamerica/buildings/refrigeration' onclick='' >Refrigeration</a>                                        </li>
+                                        <li>
+<a href='/en_latinamerica/buildings/services-and-support' onclick='' >Services and Support</a>                                        </li>
+                                        <li>
+<a href='/en_latinamerica/buildings/solutions-by-industry' onclick='' >Solutions by Industry</a>                                        </li>
+                                        <li>
+<a href='/en_latinamerica/buildings/our-brands' onclick='' >Our Brands</a>                                        </li>
+                                </ul>
+                        </div>
+
+                    <div class="footer-divider"></div>
+
+                        <div class="footer-right-1 col-md-2 col-sm-6">
+                            <ul class="footer-list">
+                                    <li>
+<a href='/en_latinamerica/our-company' onclick='' >About Us</a>                                    </li>
+                                    <li>
+<a href='/en_latinamerica/careers/why-johnson-controls' onclick='' target='_self' >Careers</a>                                    </li>
+                                    <li>
+<a href='/media-center/news' onclick='' >Media (U.S. site)</a>                                    </li>
+                                    <li>
+<a href='/investors' onclick='' >Investors (U.S. Site)</a>                                    </li>
+                                    <li>
+<a href='/en_latinamerica/insights' onclick='' >Insights</a>                                    </li>
+                                    <li>
+<a href='/en_latinamerica/contact-us' onclick='' target='_self' >Contact</a>                                    </li>
+                                    <li>
+<a href='/en_latinamerica/legal/privacy' onclick='' target='_self' >Legal (U.S. Site)</a>                                    </li>
+                            </ul>
+                        </div>
+
+
+                    <div class="footer-right-2 col-md-6 col-sm-6">
+
+                            <div class="footer-country">
+                                <a href="/site-selector-page" target="Active Browser">
+                                    <i class="fa fa-globe"></i>
+                                    Select a Country
+                                </a>
+                                
+                            </div>
+
+                        <div class="footer-social-container">
+                                <a href="https://www.facebook.com/JohnsonControls" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-facebook"></i>
+                                </a>
+                                <a href="https://www.linkedin.com/company/johnson-controls" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-linkedin"></i>
+                                </a>
+                                <a href="https://twitter.com/johnsoncontrols" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-twitter"></i>
+                                </a>
+                                <a href="https://www.youtube.com/user/JohnsonControlsInc/JohnsonControls" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-youtube"></i>
+                                </a>
+                        </div>
+                    </div>
+
+                    <div class="footer-copy">
+                        <p>© 2016 Johnson Controls. All Rights Reserved</p>
+                    </div>
+                </div>
+            </div>
+</div>
+</div>
+
+    </div>
+    
+    
+
+<script>
+    jci.jQuery(function () {
+        var enableTweetQuote = 1; 
+        jci.tweetQuote.init(enableTweetQuote, window.location.href, "Share On Twitter");
+
+    });
+</script>
+
+    <script type="text/javascript">
+
+    piAId = '55162';
+    piCId = '1020';
+
+    (function () {
+        function async_load() {
+            var s = document.createElement('script'); s.type = 'text/javascript';
+            s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+            var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+        }
+        if (window.attachEvent) { window.attachEvent('onload', async_load); }
+        else { window.addEventListener('load', async_load, false); }
+    })();
+
+</script>
+
+    <script type="text/javascript">
+    (function() {
+        var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+        sz.src = '//siteimproveanalytics.com/js/siteanalyze_33556.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+        })();
+</script>
+
+
+        <!--ServerName: PRODCD1 -->
+
+</body>
+</html>

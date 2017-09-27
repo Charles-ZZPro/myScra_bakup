@@ -1,0 +1,794 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6 en" lang="en" > <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7 en" lang="en" > <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8 en" lang="en" > <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="en" class="en">
+<!--<![endif]-->
+
+<head>
+
+    <script>
+        var jci = {};
+        jci.virtualFolder = '/';
+    </script>
+
+    
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+
+<title>Terms | Johnson Controls</title>
+<link rel="canonical" href="http://www.johnsoncontrols.com/legal/terms" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+
+
+<script type="text/javascript">
+/*{literal}<![CDATA[*/window.lightningjs||function(c){function g(b,d){d&&(d+=(/\?/.test(d)?"&":"?")+"lv=1");c[b]||function(){var i=window,h=document,j=b,g=h.location.protocol,l="load",k=0;(function(){function b(){a.P(l);a.w=1;c[j]("_load")}c[j]=function(){function m(){m.id=e;return c[j].apply(m,arguments)}var b,e=++k;b=this&&this!=i?this.id||0:0;(a.s=a.s||[]).push([e,b,arguments]);m.then=function(b,c,h){var d=a.fh[e]=a.fh[e]||[],j=a.eh[e]=a.eh[e]||[],f=a.ph[e]=a.ph[e]||[];b&&d.push(b);c&&j.push(c);h&&f.push(h);return m};return m};var a=c[j]._={};a.fh={};a.eh={};a.ph={};a.l=d?d.replace(/^\/\//,(g=="https:"?g:"http:")+"//"):d;a.p={0:+new Date};a.P=function(b){a.p[b]=new Date-a.p[0]};a.w&&b();i.addEventListener?i.addEventListener(l,b,!1):i.attachEvent("on"+l,b);var q=function(){function b(){return["<head></head><",c,' onload="var d=',n,";d.getElementsByTagName('head')[0].",d,"(d.",g,"('script')).",i,"='",a.l,"'\"></",c,">"].join("")}var c="body",e=h[c];if(!e)return setTimeout(q,100);a.P(1);var d="appendChild",g="createElement",i="src",k=h[g]("div"),l=k[d](h[g]("div")),f=h[g]("iframe"),n="document",p;k.style.display="none";e.insertBefore(k,e.firstChild).id=o+"-"+j;f.frameBorder="0";f.id=o+"-frame-"+j;/MSIE[ ]+6/.test(navigator.userAgent)&&(f[i]="javascript:false");f.allowTransparency="true";l[d](f);try{f.contentWindow[n].open()}catch(s){a.domain=h.domain,p="javascript:var d="+n+".open();d.domain='"+h.domain+"';",f[i]=p+"void(0);"}try{var r=f.contentWindow[n];r.write(b());r.close()}catch(t){f[i]=p+'d.write("'+b().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};a.l&&setTimeout(q,0)})()}();c[b].lv="1";return c[b]}var o="lightningjs",k=window[o]=g(o);k.require=g;k.modules=c}({});
+if(!navigator.userAgent.match(/Android|BlackBerry|BB10|iPhone|iPad|iPod|Opera Mini|IEMobile/i)) {window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/ca95063754e0.js"); } else {window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/fc973043953c.js"); }/*]]>{/literal}*/</script><script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0066/3434.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+<link rel="image_src" href="/-/media/default-images/page600x400.jpg" />
+<meta property="og:title" content="Terms" />
+<meta property="og:description" content="" />
+<meta property="og:url" content="http://www.johnsoncontrols.com/legal/terms" />
+<meta property="og:image" content="/-/media/default-images/page600x400.jpg"/>
+
+    <meta property="og:site_name" content="Terms | Johnson Controls" />
+
+
+    
+<link rel="shortcut icon" type="image/x-icon">
+<link rel="icon" href="/-/media/jci/corp/homepage/images/jci.png" type="image/png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/-/media/jci/corp/homepage/images/jci_76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/-/media/jci/corp/homepage/images/jci_120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/-/media/jci/corp/homepage/images/jci_150x150.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/-/media/jci/corp/homepage/images/jci_180x180.png">
+    
+<link href="/include/jci_com/vendor/css/bootstrap/bootstrap.min.css" rel="stylesheet"/>
+
+<link href="/include/jci_com/vendor/css/ScrollPane/jscrollpane.css" rel="stylesheet"/>
+<link href="/include/jci_com/vendor/css/FontAwesome/font-awesome.css" rel="stylesheet"/>
+
+<link href="/include/jci_com/Local/css/jci.css" rel="stylesheet"/>
+
+
+<script src="/include/jci_com/vendor/scripts/jquery/jquery-1.11.3.min.js"></script>
+
+<script src="/include/jci_com/vendor/scripts/plugins/jquery-scrollto.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jquery.validate.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jquery.validate.unobtrusive.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jQueryUI.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jquery.cookie.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/ellipsis.js"></script>
+<script src="/include/jci_com/vendor/scripts/foolproof/mvcfoolproof.unobtrusive.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/bootstrap/bootstrap.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/knockout/knockout-3.3.0.js"></script>
+<script src="/include/jci_com/vendor/scripts/freewall/freewall.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/jQuery.mousewheel.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/jquery.jscrollpane.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/SelectBoxPlugin.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/iframeResizer.min.js"></script>
+
+<script src="/include/jci_com/local/scripts/jci.jQuery.js"></script>
+<script src="/include/jci_com/local/scripts/jci.constants.js"></script>
+<script src="/include/jci_com/local/scripts/jci.utilities.js"></script>
+<script src="/include/jci_com/local/scripts/jci.resize-event.js"></script>
+<script src="/include/jci_com/local/scripts/jci.navigation.js"></script>
+<script src="/include/jci_com/local/scripts/jci.cookies.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-us-sublayout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.filters-base.js"></script>
+<script src="/include/jci_com/local/scripts/jci.observable-filter.js"></script>
+<script src="/include/jci_com/local/scripts/jci.search-input.js"></script>
+<script src="/include/jci_com/local/scripts/jci.paging.js"></script>
+<script src="/include/jci_com/local/scripts/jci.search-base.js"></script>
+<script src="/include/jci_com/local/scripts/jci.media-resource-search-result-base.js"></script>
+<script src="/include/jci_com/local/scripts/jci.experts-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.experts-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.full-site-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.full-site-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.insights-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.media-news-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.insights-list.js"></script>
+<script src="/include/jci_com/local/scripts/jci.insights-sharing.js"></script>
+<script src="/include/jci_com/local/scripts/jci.image-resource-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.video-resource-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.media-resources-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.social-sharing.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-us-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.product-contact-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.resource-links.js"></script>
+<script src="/include/jci_com/local/scripts/jci.resource-download-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.stock-ticker.js"></script>
+<script src="/include/jci_com/local/scripts/jci.sticky-footer.js"></script>
+<script src="/include/jci_com/local/scripts/jci.video-banner.js"></script>
+<script src="/include/jci_com/local/scripts/jci.tabs.js"></script>
+<script src="/include/jci_com/local/scripts/jci.product-filters.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-us-location-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.country-dropdown.js"></script>
+<script src="/include/jci_com/local/scripts/jci.job-search-callout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.image-and-video-gallery.js"></script>
+<script src="/include/jci_com/local/scripts/jci.leadership.js"></script>
+<script src="/include/jci_com/local/scripts/jci.related-callout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.search-overlay.js"></script>
+<script src="/include/jci_com/local/scripts/jci.tweet-quote.js"></script>
+<script src="/include/jci_com/local/scripts/jci.article-sublayout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.preview-mode.js"></script>
+
+
+    <!--Commenting the next line out.  to reenable add the at symbol before the html-->
+    <!--Html.Partial("~/Views/JCI_com/Renderings/Analytics/WebTrends.cshtml")-->
+    <script src="/Include/JCI_com/Vendor/Scripts/WebTrends/webtrends.load.js"></script>
+  
+    <!--[if IE]>
+        <link href="JCI_com/Local/Css/JCI-IE9.css" rel="stylesheet" />
+    <![endif]-->
+    
+    
+<meta name="VIcurrentDateTime" content="636368354919510142" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+
+
+                    <script>var w=window;if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document;AKSB=w.AKSB||{},AKSB.q=AKSB.q||[],AKSB.mark=AKSB.mark||function(e,_){AKSB.q.push(["mark",e,_||(new Date).getTime()])},AKSB.measure=AKSB.measure||function(e,_,t){AKSB.q.push(["measure",e,_,t||(new Date).getTime()])},AKSB.done=AKSB.done||function(e){AKSB.q.push(["done",e])},AKSB.mark("firstbyte",(new Date).getTime()),AKSB.prof={custid:"100641",ustr:"",originlat:"0",clientrtt:"239",ghostip:"117.103.188.211",ipv6:false,pct:"10",clientip:"101.81.236.79",requestid:"77af936",region:"21592",protocol:"",blver:13,akM:"b",akN:"ae",akTT:"O",akTX:"1",akTI:"77af936",ai:"285535",ra:"false",pmgn:"",pmgi:"",pmp:"",qc:""},function(e){var _=d.createElement("script");_.async="async",_.src=e;var t=d.getElementsByTagName("script"),t=t[t.length-1];t.parentNode.insertBefore(_,t)}(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}</script>
+                    </head>
+
+<body class="">
+
+    <div class="page-layout">
+        
+<!--SEARCH-->
+<div class="search-overlay">
+
+    <div class="search-overlay-background"></div>
+
+    <div class="search-overlay-main">
+
+        <div class="search-overlay-input-wrapper">
+
+            <input class="search-text-input" type="text" placeholder="Search" />
+
+            <div class="overlay-search-submit">
+
+                <div class="submit-btn">
+                    <div class="icon-search">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="search-overlay-close search-overlay-btn">X Close</div>
+    </div>
+</div>
+
+<script>
+
+    jci.jQuery(function () {
+        jci.searchOverlay.init(".search-overlay", "/search");
+    });
+</script>
+
+    <div class="cookie-header">
+
+        <div class="text">
+            <div>
+<p>This site uses cookies to offer you a better browsing experience. By clicking Approve, you consent to the use of cookies on your device as described in our <a href="/legal/privacy">privacy notice</a>.</p>
+</div>
+        </div>
+
+        <div class="approve-cookie">
+            Approve
+        </div>
+
+    </div>
+
+<script>
+    jci.cookies.init(
+        "JohnsonControls-United States - AcceptsCookies",
+        "true",
+        "true");
+
+    jci.previewMode.init("true");
+</script>
+
+
+
+
+<!--MENU-->
+<div class="menu-dropdown off-right">
+
+    <div class="menu-lists-container sticker" id="sticker">
+            <div class="panel-group menu-scroll-list" id="accordion" role="tablist" aria-multiselectable="true">
+                    <div class="panel">
+
+                        <div class="panel-heading" role="tab" id="menue951cb26-fca5-46c7-9238-f3c6ac1cd2d5">
+                            <h4 class="panel-title">
+                                    <a class="collapsed"
+                                       data-toggle="collapse"
+                                       data-parent="#accordion"
+                                       href="#buildings"
+                                       aria-expanded="false"
+                                       aria-controls="buildings"
+                                       onclick="">
+                                        <i class="dropdown-icon icon icon-buildings"></i>
+                                        <span class="menu-heading title-buildings">Buildings</span>
+                                    </a>
+                            </h4>
+                        </div>
+
+                            <div id="buildings" 
+                                 class="panel-collapse collapse" 
+                                 role="tabpanel" 
+                                 aria-labelledby="menue951cb26-fca5-46c7-9238-f3c6ac1cd2d5">
+
+                                <div class="panel-body">
+
+                                    <ul class="menu-accordian-items">
+                                            <li class="accordian-item">
+<a href='/buildings/air-systems' onclick='' >Air Systems</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/building-management' onclick='' >Building Management</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/hvac-controls' onclick='' >HVAC Controls</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/hvac-equipment' onclick='' >HVAC Equipment</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/security-and-fire-safety' onclick='' >Security and Fire Safety</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/refrigeration' onclick='' >Refrigeration</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/services-and-support' onclick='' >Services  and Support</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/replacement-parts-and-supplies' onclick='' >Replacement Parts and Supplies</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/solutions-by-industry' onclick='' >Solutions by Industry</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/our-brands' onclick='' >Our Brands</a>                                            </li>
+                                    </ul>
+
+
+
+                                </div>
+                            </div>
+                    </div>
+                    <div class="panel">
+
+                        <div class="panel-heading" role="tab" id="menu0e5b15bf-0582-4ce6-be25-c2d9bb15a73b">
+                            <h4 class="panel-title">
+                                    <a class="collapsed"
+                                       data-toggle="collapse"
+                                       data-parent="#accordion"
+                                       href="#batteries"
+                                       aria-expanded="false"
+                                       aria-controls="batteries"
+                                       onclick="">
+                                        <i class="dropdown-icon icon icon-battery"></i>
+                                        <span class="menu-heading title-battery">Batteries</span>
+                                    </a>
+                            </h4>
+                        </div>
+
+                            <div id="batteries" 
+                                 class="panel-collapse collapse" 
+                                 role="tabpanel" 
+                                 aria-labelledby="menu0e5b15bf-0582-4ce6-be25-c2d9bb15a73b">
+
+                                <div class="panel-body">
+
+                                    <ul class="menu-accordian-items">
+                                            <li class="accordian-item">
+<a href='/batteries/capabilities' onclick='' >Capabilities</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/batteries/applications/passenger-vehicles' onclick='' >Applications</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/batteries/lead-acid-batteries/flood-lead-acid-batteries' onclick='' >Lead-acid Products</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/batteries/lithium-ion-batteries' onclick='' >Lithium-ion Products</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/batteries/battery-recycling' onclick='' >Battery Recycling</a>                                            </li>
+                                    </ul>
+
+
+
+                                </div>
+                            </div>
+                    </div>
+                    <div class="panel">
+
+                        <div class="panel-heading" role="tab" id="menud95a0fbc-ffc5-4ad4-a0b8-457297df174d">
+                            <h4 class="panel-title">
+                                    <a class="collapsed"
+                                       data-toggle="collapse"
+                                       data-parent="#accordion"
+                                       href="#distributed-energy-storage"
+                                       aria-expanded="false"
+                                       aria-controls="distributed-energy-storage"
+                                       onclick="">
+                                        <i class="dropdown-icon icon icon-energystorage"></i>
+                                        <span class="menu-heading title-energystorage">Distributed Energy Storage</span>
+                                    </a>
+                            </h4>
+                        </div>
+
+                            <div id="distributed-energy-storage" 
+                                 class="panel-collapse collapse" 
+                                 role="tabpanel" 
+                                 aria-labelledby="menud95a0fbc-ffc5-4ad4-a0b8-457297df174d">
+
+                                <div class="panel-body">
+
+                                    <ul class="menu-accordian-items">
+                                            <li class="accordian-item">
+<a href='/distributed-energy-storage/why-johnson-controls' onclick='' >Why Johnson Controls</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/distributed-energy-storage/products' onclick='' >Products</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/distributed-energy-storage/for-facilities' onclick='' >For Facilities</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/distributed-energy-storage/for-utilities' onclick='' >For Utilities</a>                                            </li>
+                                    </ul>
+
+
+
+                                </div>
+                            </div>
+                    </div>
+            </div>
+
+                <div class="menu-divider"></div>
+                <ul class="menu-main-categories">
+                        <li class="menu-category">
+<a href='/about-us/our-company' onclick='' >About Us</a>                        </li>
+                        <li class="menu-category">
+<a href='/careers/why-johnson-controls' onclick='' >Careers</a>                        </li>
+                        <li class="menu-category">
+<a href='/media-center/news' onclick='' >Media</a>                        </li>
+                        <li class="menu-category">
+<a href='/investors' onclick='' >Investors</a>                        </li>
+                        <li class="menu-category">
+<a href='/insights' onclick='' >Insights</a>                        </li>
+                        <li class="menu-category">
+<a href='/corporate-sustainability/environment' onclick='' >Corporate Sustainability </a>                        </li>
+                        <li class="menu-category">
+<a href='/suppliers' onclick='' >Suppliers</a>                        </li>
+                        <li class="menu-category">
+<a href='/contact-us' onclick='' >Contact</a>                        </li>
+                        <li class="menu-category">
+<a href='/login' onclick='' target='_self' >Login</a>                        </li>
+                </ul>
+
+                <div class="menu-divider"></div>
+            <div class="menu-social-container">
+                    <a href="https://www.facebook.com/JohnsonControls" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-facebook"></i>
+                    </a>
+                    <a href="https://twitter.com/johnsoncontrols" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                    <a href="https://www.youtube.com/user/JohnsonControlsInc/JohnsonControls" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-youtube"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/company/johnson-controls" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://www.instagram.com/johnsoncontrols/" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-instagram"></i>
+                    </a>
+            </div>
+    </div>
+</div>
+
+
+
+<div class="menu-shadow-overlay">
+
+</div>
+
+<div class="header initial-load-2 load-animations" >
+    <a href="/">
+        <img src='/-/media/jci/corp/homepage/images/jci-logo-black-and-white.png' class='logo header-logo' alt='jci-logo' />
+    </a>
+
+
+    <div class="header-items">
+
+        <div class="header-search search-overlay-btn">
+            <div class="icon-search"></div>
+        </div>
+
+        <div class="header-text">
+                <a href="/site-selector-page" class="loginicon"><i class="fa fa-globe"></i></a>
+            
+<a href='/site-selector-page' >Select a Country</a>        </div>
+
+    </div>
+
+    <div class="menu-btn">
+        <!--
+        <div class="menu-burger">
+            <div class="icon-menu"></div>
+            <div class="icon icon-menu-closed"></div>
+        </div>
+        -->
+        <div class="nav-icon" id="nav-icon">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+
+        <div class="text">
+            Menu
+        </div>
+    </div>
+</div>    <div class="breadcrumb-control">
+        
+        <ol class="breadcrumb">
+                    <li class="">
+
+Legal                    </li>
+                    <li class="active">
+
+                            <a href="/legal/terms">
+                                Terms
+                                
+                            </a>
+                    </li>
+
+        </ol>
+
+    </div>
+
+
+
+
+
+    <div class="small-hero" style="background: url('') no-repeat;
+                                      background: -moz-radial-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.75) 100%), url('') no-repeat;
+                                      background: -webkit-radial-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.75) 100%), url('') no-repeat;
+                                      background: -ms-radial-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.75) 100%), url('') no-repeat;
+                                      background: radial-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.75) 100%), url('') no-repeat;
+                                      background-size:cover;
+                                      background-position:center">
+                             
+
+        <div class="small-hero-overlay">
+        </div>
+
+        <div class="small-hero-title">
+
+Legal        </div>
+
+        <div class="small-hero-subtitle">
+
+        </div>
+    </div>
+
+    <div class="subnav-menu">
+
+        <ul class="subnav-list">
+          
+
+                    <li class="active">
+                    
+                        <span class="text">
+                            <a href="/legal/terms">
+                                Terms
+                            </a>
+                        </span>
+
+                        <div class="mobile-subnav-arrow">
+                            <div class="icon icon-arrow-down"></div>
+                            <div class="icon icon-arrow-up"></div>
+                        </div>
+                    </li>
+                    <li class="">
+                    
+                        <span class="text">
+                            <a href="/legal/privacy">
+                                Privacy
+                            </a>
+                        </span>
+
+                        <div class="mobile-subnav-arrow">
+                            <div class="icon icon-arrow-down"></div>
+                            <div class="icon icon-arrow-up"></div>
+                        </div>
+                    </li>
+                    <li class="">
+                    
+                        <span class="text">
+                            <a href="/legal/patents">
+                                Patents
+                            </a>
+                        </span>
+
+                        <div class="mobile-subnav-arrow">
+                            <div class="icon icon-arrow-down"></div>
+                            <div class="icon icon-arrow-up"></div>
+                        </div>
+                    </li>
+
+        </ul>
+
+
+    </div>
+
+            <div class="reg-text-header">
+        <h1>Terms</h1>
+    </div>
+
+    <div class="container page-sub">
+            <div class="thin-text-header">
+Terms of Use            </div>
+
+            <div class="content-text">
+                <span class="paragraph-head"><strong></strong></span>
+<p style="margin-bottom: 0.2in;"><strong><span class="paragraph-head">PLEASE READ THESE TERMS OF USE ("TERMS") CAREFULLY BEFORE USING THIS SITE.</span></strong></p>
+<p style="margin-bottom: 0.2in;"><strong><span>This website (the "Site") is provided by Johnson Controls International plc and its affiliated companies (&ldquo;Johnson Controls&rdquo;). </span></strong></p>
+<p style="margin-bottom: 0.2in;"><strong><span>BY USING THE SITE OR DOWNLOADING MATERIALS FROM THE SITE, YOU AGREE TO ABIDE BY THESE TERMS AND THE ASSOCIATED PRIVACY AND COOKIE POLICIES, BOTH OF WHICH MAY BE DOWNLOADED BY CLICKING <a href="/legal/privacy">HERE.</a></span></strong><span></span></p>
+<p style="margin-bottom: 0.2in;"><strong><span>IF THERE IS A CONFLICT BETWEEN THESE TERMS AND THE TERMS OF THE PRIVACY AND/OR COOKIE POLICY, THE TERMS OF THE PRIVACY AND COOKIE POLICIES WILL GOVERN AND CONTROL. </span></strong></p>
+<p style="margin-bottom: 0.2in;"><strong><span>IF YOU DO NOT AGREE TO ABIDE BY THESE TERMS, PLEASE DO NOT USE OR VIEW THE SITE OR DOWNLOAD ANY SITE CONTENT.</span></strong></p>
+<p style="margin-bottom: 0.2in;"><strong><span>CHANGES</span></strong></p>
+<p style="margin-bottom: 0.2in;"><span>Johnson Controls reserves the right, in its sole discretion, to change, modify, add or remove any portion of these Terms, the Site, and/or Contents in whole or in part, at any time, without notice. Changes will be effective when such change is posted. Your continued use of the Site after any changes to the Terms are posted will be acceptance of those changes.</span></p>
+<p style="margin-bottom: 0.2in;"><strong><span>INTERNATIONAL USERS AND CHOICE OF LAW</span></strong></p>
+<p style="margin-bottom: 0.2in;"><strong><span>THIS SITE IS OPERATED AND ADMINISTERED FROM WITHIN THE UNITED STATES OF AMERICA (&ldquo;USA&rdquo;). IF YOU ACCESS THIS SITE FROM A LOCATION OUTSIDE OF THE USA, YOU ARE RESPONSIBLE FOR COMPLIANCE WITH ALL LOCAL LAWS. THESE TERMS SHALL BE GOVERNED BY THE LAWS OF THE STATE OF WISCONSIN, WITHOUT GIVING EFFECT TO ITS CONFLICT OF LAW PROVISIONS. YOU AGREE TO SUBMIT TO THE JURISDICTION OF THE COURTS LOCATED IN THE STATE OF WISCONSIN, FOR THE RESOLUTION OF ALL DISPUTES ARISING FROM OR RELATED TO THESE TERMS AND/OR YOUR USE OF THE SITE.</span></strong></p>
+<p style="margin-bottom: 7.5pt;"><span style="letter-spacing: -0.1pt;">Upon</span><span style="letter-spacing: 0.15pt;"> Johnson Control&rsquo;s </span><span style="letter-spacing: -0.25pt;">belief</span><span style="letter-spacing: 0.25pt;"> </span><span style="letter-spacing: -0.2pt;">that</span><span style="letter-spacing: 0.3pt;"> </span><span style="letter-spacing: -0.05pt;">your</span><span style="letter-spacing: 0.45pt;"> </span><span style="letter-spacing: -0.1pt;">conduct</span><span style="letter-spacing: 0.25pt;"> </span><span style="letter-spacing: -0.2pt;">fails</span><span style="letter-spacing: 0.9pt;"> </span><span style="letter-spacing: -0.1pt;">to</span><span style="letter-spacing: 0.15pt;"> </span><span style="letter-spacing: -0.1pt;">conform</span><span> to<span style="letter-spacing: 0.15pt;"> </span><span style="letter-spacing: -0.1pt;">these</span><span style="letter-spacing: 0.2pt;"> </span><span style="letter-spacing: -0.1pt;">Terms,</span><span style="letter-spacing: 0.25pt;"> Johnson Controls </span><span style="letter-spacing: -0.15pt;">in</span><span style="letter-spacing: 0.2pt;"> </span><span style="letter-spacing: -0.15pt;">its</span><span style="letter-spacing: 0.85pt;"> </span><span style="letter-spacing: -0.05pt;">sole</span><span style="letter-spacing: 0.15pt;"> </span><span style="letter-spacing: -0.1pt;">discretion</span><span style="letter-spacing: 0.15pt;"> </span><span style="letter-spacing: -0.2pt;">and</span><span style="letter-spacing: 0.15pt;"> </span><span style="letter-spacing: -0.15pt;">without</span><span style="letter-spacing: 3.85pt;"> </span><span style="letter-spacing: -0.15pt;">notice,</span><span style="letter-spacing: 0.25pt;"> may </span><span style="letter-spacing: -0.1pt;">block</span><span style="letter-spacing: 0.85pt;"> </span><span style="letter-spacing: -0.05pt;">your</span><span style="letter-spacing: 0.4pt;"> </span>access<span style="letter-spacing: 0.9pt;"> </span><span style="letter-spacing: -0.1pt;">to</span><span style="letter-spacing: 0.1pt;"> </span><span style="letter-spacing: -0.2pt;">this</span><span style="letter-spacing: 0.85pt;"> </span><span style="letter-spacing: -0.1pt;">Site,</span><span style="letter-spacing: 0.3pt;"> </span><span style="letter-spacing: -0.2pt;">terminate</span><span style="letter-spacing: 0.15pt;"> your </span><span style="letter-spacing: -0.25pt;">limited</span><span style="letter-spacing: 0.15pt;"> </span><span style="letter-spacing: -0.1pt;">license,</span><span style="letter-spacing: 0.25pt;"> </span><span style="letter-spacing: -0.15pt;">investigate</span><span style="letter-spacing: 0.15pt;"> </span><span style="letter-spacing: -0.2pt;">and</span><span style="letter-spacing: 0.15pt;"> </span><span style="letter-spacing: -0.1pt;">involve</span><span style="letter-spacing: 0.2pt;"> </span><span style="letter-spacing: -0.2pt;">and</span><span style="letter-spacing: 0.25pt;"> </span><span style="letter-spacing: -0.15pt;">cooperate</span><span style="letter-spacing: 0.25pt;"> </span><span style="letter-spacing: -0.1pt;">with</span><span style="letter-spacing: 0.25pt;"> </span><span style="letter-spacing: -0.2pt;">law</span><span style="letter-spacing: 0.65pt;"> </span><span style="letter-spacing: -0.2pt;">enforcement</span><span style="letter-spacing: 0.35pt;"> </span><span style="letter-spacing: -0.15pt;">authorities,</span><span style="letter-spacing: 0.4pt;"> </span><span style="letter-spacing: -0.2pt;">and</span><span style="letter-spacing: 0.2pt;"> </span><span style="letter-spacing: -0.1pt;">pursue</span><span style="letter-spacing: 0.25pt;"> </span>a<span style="letter-spacing: 0.25pt;"> </span>civil<span style="letter-spacing: 0.25pt;"> </span><span style="letter-spacing: -0.1pt;">action</span><span style="letter-spacing: 0.2pt;"> </span><span style="letter-spacing: -0.15pt;">or</span><span style="letter-spacing: 0.55pt;"> </span><span style="letter-spacing: -0.15pt;">criminal</span><span style="letter-spacing: 0.25pt;"> </span><span style="letter-spacing: -0.1pt;">prosecution</span><span style="letter-spacing: 0.25pt;"> </span><span style="letter-spacing: -0.15pt;">for</span><span style="letter-spacing: 4.25pt;"> </span><span style="letter-spacing: -0.2pt;">any</span><span style="letter-spacing: 0.8pt;"> </span><span style="letter-spacing: -0.25pt;">alleged</span><span style="letter-spacing: 0.1pt;"> </span><span style="letter-spacing: -0.15pt;">or</span><span style="letter-spacing: 0.45pt;"> </span><span style="letter-spacing: -0.1pt;">actual</span><span style="letter-spacing: 0.1pt;"> </span><span style="letter-spacing: -0.25pt;">illegal</span><span style="letter-spacing: 0.15pt;"> </span><span style="letter-spacing: -0.1pt;">activities</span><span style="letter-spacing: 0.8pt;"> </span><span style="letter-spacing: -0.1pt;">involving</span><span style="letter-spacing: 0.1pt;"> </span><span style="letter-spacing: -0.2pt;">this</span><span style="letter-spacing: 0.85pt;"> </span><span style="letter-spacing: -0.1pt;">Site.</span></span></p>
+<p style="margin-bottom: 7.5pt;"><strong><span style="color: #333333;">Site Content</span></strong></p>
+<p style="margin-bottom: 7.5pt;"><span style="color: #333333;">The Site contains trademarks, service marks, copyrighted materials and other content owned, licensed, or used with permission by Johnson Controls (&ldquo;Content&rdquo;). As between you and Johnson Controls, Johnson Controls is the sole owner of all rights and title to the Content, including all copyrights, trademarks and other intellectual property rights. You may not download, copy or save any Content or any portion of it, for any purpose, except as set forth in these Terms or as otherwise approved for use by Johnson Controls.&nbsp; You may download and/or print a copy of the Content solely for your personal, non-commercial, informational use or records, provided that any logos, marks or other legends that appear on the Content remain and are not removed from your copy of the Content. Except as expressly permitted in these Terms, you may not modify, copy, publish, display, transmit, adapt or in any way exploit the Content without the prior written permission of Johnson Controls.&nbsp; Johnson Controls reserves the right to change any and all Content on this Site at any time without notice.&nbsp; </span></p>
+<p style="margin-bottom: 7.5pt;"><strong><span style="color: #333333;">User Content</span></strong></p>
+<p style="margin-bottom: 7.5pt;"><span style="color: #333333;">All information (other than personal information, which is governed by our Privacy Policy), including data, text, files, graphics and other materials that you transmit to the Site or otherwise supply to Johnson Controls is referred to as &ldquo;User Content&rdquo;. By transmitting User Content on or through this Site, you agree that you are solely responsible for the transmission, accuracy, completeness, ownership and publication of that User Content, and that Johnson Controls is not responsible for your transmission of the User Content. By transmitting User Content to Johnson Controls or otherwise making User Content available on or through the Site, you grant Johnson Controls a royalty-free, world-wide, perpetual, irrevocable, non-exclusive and fully sub-licensable right and license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute and display that User Content, in whole or in part, and/or to incorporate it in other works in any form, media or technology, and you agree that any "moral rights" in that User Content has been waived. Johnson Controls does not monitor, review or edit User Content posted or made available on or through the Site. However, Johnson Controls reserves the right, in its sole discretion, to refuse, edit or remove any User Content, in whole or part, which in Johnson Controls' judgment does not comply with these Terms, is illegal, or is otherwise undesirable, inappropriate, or inaccurate. Johnson Controls is not responsible for any decision, lack of decision or delay in editing or removing User Content.<br>
+<br>
+</span></p>
+<p style="margin-bottom: 7.5pt;"><strong><span style="color: #333333;">Conduct&nbsp;</span></strong></p>
+<p style="margin-bottom: 7.5pt;"><span style="color: #333333;">You may not transmit in any way User Content on or through the Site that: (i) infringes any proprietary rights of any party or person; (ii) is unlawful, harmful, threatening, abusive, harassing, defamatory, obscene, deceptive, fraudulent, sexually graphic, hateful, or invasive of another's privacy; (iii) victimizes, harasses, degrades, or intimidates an individual or group on the basis of race, ethnicity, gender, religion, sexual orientation, age, or disability; (iv) contains unsolicited or unauthorized advertising, promotional materials, "spam," "chain letters," or any other form of solicitation; or (v) contains software viruses or any other computer code, files or programs that may interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment or contribute to any other similarly destructive activity. You also agree that you will not: (i) impersonate any person or entity or falsely state or otherwise misrepresent your affiliation with a person or entity; (ii) forge or otherwise manipulate User Content in order to disguise the origin of any User Content; (iii) interfere with or disrupt the Site or servers or networks connected to the Site, or disobey any requirements or policies of networks connected to the Site; (iv) infiltrate or otherwise seek to gain unauthorized access to, or compromise the integrity of, the Site; (v) collect or store information about the Users of the Site or the User Content posted by others on the Site or use such information for any purpose inconsistent with the purpose of the Site; or (vi) violate any applicable local, state, national or international law or regulation.<br>
+<br>
+</span></p>
+<p style="margin-bottom: 7.5pt;"><strong><span style="color: #333333;">Linked Sites</span></strong><span style="color: #333333;">&nbsp;</span></p>
+<p style="margin-bottom: 7.5pt;"><span style="color: #333333;">Johnson Controls may provide links to third parties' websites or applications (Linked Sites). Linked Sites are not necessarily reviewed, controlled or examined by Johnson Controls. Each Linked Site may have its own terms of use and privacy policy, and the user must be familiar and comply with all such terms and policies when using a Linked Site. Johnson Controls is not responsible for the content, availability, policies or practices of any Linked Site, or any additional links contained therein. These links do not imply or constitute Johnson Controls&rsquo; endorsement or sponsorship of the Linked Site or any company or service.<br>
+<br>
+</span></p>
+<p style="margin-bottom: 7.5pt;"><strong><span style="color: #333333;">Privacy Policy</span></strong><span style="color: #333333;">&nbsp;</span></p>
+<p style="margin-bottom: 7.5pt;"><span style="color: #333333;">We encourage you to read our Privacy Policy, which is incorporated by reference into these Terms.</span></p>
+<p style="margin-bottom: 7.5pt;"><strong><span style="color: #333333;">Disclaimer of Warranties</span></strong></p>
+<p style="margin-bottom: 7.5pt;"><strong><span style="color: #333333;">THIS SITE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OR CONDITION OF ANY KIND, EITHER EXPRESS OR IMPLIED. WITHOUT LIMITING THE FOREGOING, JOHNSON CONTROLS SPECIFICALLY DISCLAIMS ANY AND ALL WARRANTIES, INCLUDING, BUT NOT LIMITED TO: (i) ANY WARRANTIES CONCERNING THE AVAILABILITY, ACCURACY, APPROPRIATENESS, RELIABILITY, TIMELINESS OR USEFULNESS OF THE SITE AND THE CONTENT THEREIN; AND (ii) ANY WARRANTIES OF TITLE, WARRANTY OF NON-INFRINGEMENT, WARRANTIES OR CONDITIONS OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.&nbsp; WHILE JOHNSON CONTROLS ATTEMPTS TO ASSURE YOUR ACCESS AND USE OF THE SITE IS SAFE, JOHNSON CONTROLS CANNOT AND DOES NOT REPRESENT OR WARRANT THAT THIS SITE, CONTENT, OR SERVERS ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. <br>
+<br>
+</span></strong></p>
+<p style="margin-bottom: 7.5pt;"><strong><span style="color: #333333;">Limitation of Liability&nbsp;</span></strong></p>
+<p style="margin-bottom: 7.5pt;"><strong><span style="color: #333333;">IN NO EVENT WILL JOHNSON CONTROLS, ITS OFFICERS, DIRECTORS, EMPLOYEES, PARENTS, AFFILIATES, SUCCESSORS OR ASSIGNS, BE LIABLE TO YOU OR ANY OTHER PERSON OR ENTITY &nbsp;(i) FOR ANY INDIRECT, DIRECT, SPECIAL, PUNITIVE, INCIDENTAL OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF PROGRAMS OR INFORMATION, AND THE LIKE), OR ANY OTHER DAMAGES ARISING IN ANY WAY OUT OF THE AVAILABILITY, USE, RELIANCE ON, OR INABILITY TO USE THE SITE, EVEN IF JOHNSON CONTROLS OR ITS AGENT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND REGARDLESS OF THE FORM OF ACTION.</span></strong></p>
+<p style="margin-bottom: 7.5pt;"><strong><span style="color: #333333;">IN NO EVENT WILL THE AGGREGATE LIABILITY OF JOHNSON CONTROLS, WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE WHETHER ACTIVE, PASSIVE OR IMPUTED), PRODUCT LIABILITY, STRICT LIABILITY OR OTHER THEORY) ARISIING OUT OF OR RELATED TO THE USE OF THIS SITE EXCEED $10.00 OR THE COMPENSATION YOU PAID JOHNSON CONTROLS, WHICHEVER IS LESS.&nbsp; <br>
+<br>
+</span></strong></p>
+<p style="margin-bottom: 7.5pt;"><strong><span style="color: #333333;">Indemnification</span></strong></p>
+<p style="margin-bottom: 7.5pt;"><span style="color: #333333;">By using the Site and/or any of its Contents, you agree that, to the extent permitted by law, you will defend, indemnify and hold Johnson Controls, its affiliates, officers, directors and employees harmless from any and all claims, liabilities, costs and expenses, including reasonable attorneys' fees, arising in any way from your use of the Site, any violation of these Terms by You, or any User Content you transmit on or through the Site.<br>
+<br>
+</span></p>
+<p style="margin-bottom: 7.5pt;"><strong><span style="color: #333333;">Copyright Infringement</span></strong></p>
+<p style="margin-bottom: 0.0001pt;"><span style="color: #333333;">If you believe that information or any other material has been used on the Site in a manner that constitutes copyright infringement, please contact us at </span><span><a href="mailto:Webmaster@jci.com">Webmaster@jci.com</a></span><span style="color: #333333;"> with the following information:<br>
+<br>
+</span></p>
+<ul style="list-style-type: disc;">
+    <li style="color: #333333;"><span>an electronic or physical signature of a person authorized to act on behalf of the owner of the exclusive right that is allegedly infringed;</span></li>
+    <li style="color: #333333;"><span>identification of the copyrighted work claimed to have been infringed;</span></li>
+    <li style="color: #333333;"><span>a description of where the material is located on the Site;</span></li>
+    <li style="color: #333333;"><span>your address, telephone number, and e-mail address;</span></li>
+    <li style="color: #333333;"><span>a statement of your good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;</span></li>
+    <li style="color: #333333;"><span>a statement by you, under penalty of perjury, that the information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner&rsquo;s behalf.</span></li>
+</ul>
+<p style="margin-bottom: 0.0001pt;"><strong><span style="color: #333333;">Applicable Laws/Jurisdiction</span></strong></p>
+<p style="margin-bottom: 7.5pt;"><span style="color: #333333;">We control and operate this Site from our offices in the United States of America. Persons who access this Site from other locations do so on their own initiative, and are responsible for compliance with local laws. The laws of the state of Wisconsin, excluding its conflicts-of-law rules, will govern these Terms and your use of the Site. By using the Site, you agree and consent (i) that any claim or dispute with Johnson Controls or relating in any way to your use of the Site will be heard exclusively in state or federal courts located in the State of Wisconsin and closest to Milwaukee, Wisconsin; and (ii) to the exercise of personal jurisdiction in the courts of the state of Wisconsin, in connection with any such dispute.</span></p>
+<p style="margin-bottom: 7.5pt;"><span style="color: #333333;">These terms constitute the entire agreement between Johnson Controls and you with respect to your use of the Site. If for any reason a court of competent jurisdiction finds any provision of the agreement or portion thereof, to be unenforceable, that provision shall be enforced to the maximum extent permissible so as to effect the intent of the agreement, and the remainder of this agreement shall continue in full force and effect. <br>
+<br>
+</span></p>
+<p style="margin-bottom: 7.5pt;"><strong><span style="color: #333333;">Changes to Terms</span></strong></p>
+<p style="margin-bottom: 7.5pt;"><span style="color: #333333;">Johnson Controls may change these Terms from time to time in its sole discretion, without actual notice. Any change will appear on this page of the Site. You are encouraged to check for changes to these Terms regularly. By using the Site following any modifications to these Terms, you agree to be bound by any such modifications.</span></p>
+<p><strong><span style="color: #333333;">Information Collected</span></strong></p>
+<p><span style="color: #333333;">When you access the Site, our servers may collect the domain names, e-mail addresses, and first and last names of visitors. In addition, there are portions of the Site where you may be asked to provide personal information for a specific purpose, such as to provide you with products, services, or Site Content.&nbsp; The information collected from you may include your name, address, telephone, fax number, or e-mail address. </span></p>
+<p><strong><span style="color: #333333;">This site is not intended for persons under 13 years of age. We do not knowingly solicit or collect personal information from or about children, and we do not knowingly market our products or services to children.</span></strong></p>
+<p><strong><span style="color: #333333;">Use of Collected Information</span></strong></p>
+<p><span style="color: #333333;">Information that we collect is used to measure and administer the number of users and viewer statistics, such as the number of viewers that visit the site, average time spent on the site, pages viewed, etc. We use this information to measure the use of our site and to improve the content of our site.</span></p>
+<p><span style="color: #333333;">Johnson Controls will make commercially reasonable efforts to let you know at the time of collection how this information will be used.&nbsp; If you have contracted with Johnson Controls to receive services, the services agreement between yourself and Johnson Controls may include additional information on how your information is used by Johnson Controls to facilitate provision of the services.&nbsp; </span></p>
+<p><strong><span style="color: #333333;">Contacting Us</span></strong></p>
+<p><span style="color: #333333;">Johnson Controls welcomes your questions and suggestions about these terms and conditions. If you have any questions, please contact us Webmaster@jci.com.</span></p>
+<p><span style="color: #333333;"></span></p>
+<p><span style="color: #333333;"></span></p>
+<p><span><strong style="text-align: center;">Revised:&nbsp; September 3, 2016</strong></span></p>
+<span class="paragraph-head"><strong>
+<div> <hr align="left" size="1" width="33%">
+<div>
+<div id="_com_1" language="JavaScript">  </div>
+</div>
+</div>
+</strong></span>
+<div>
+<p>&nbsp;</p>
+<p><strong><em>Johnson Controls International plc</em></strong></p>
+<em>
+Registered in Ireland, No. 5436541</em></div>
+<div><em>Albert Quay, Cork, Ireland</em>
+</div>
+            </div>
+    </div>
+
+        
+
+
+<div class="spacer"></div>
+<div class="footer" style="background-image: url('/-/media/jci/header-and-footer/skylinebuildingsnewyorkskyscrapers.jpg')">
+
+    <div class="footer-content container">
+        <a href="/">
+            <img src='/-/media/jci/corp/homepage/images/jci-logo-color.png' class='footer-logo' alt='jci logo color' />
+        </a>
+            <div class="footer-main-box">
+
+                <div class="footer-row row">
+
+                        <div class="footer-left col-md-2 col-sm-6">
+                            <div class="footer-col-title">
+                                Buildings
+                            </div>
+
+                                <ul class="footer-list">
+                                        <li>
+<a href='/buildings/air-systems' onclick='' >Air Systems</a>                                        </li>
+                                        <li>
+<a href='/buildings/building-management' onclick='' >Building Management</a>                                        </li>
+                                        <li>
+<a href='/buildings/hvac-controls' onclick='' >HVAC Controls</a>                                        </li>
+                                        <li>
+<a href='/buildings/hvac-equipment' onclick='' >HVAC Equipment</a>                                        </li>
+                                        <li>
+<a href='/buildings/security-and-fire-safety' onclick='' >Security and Fire Safety</a>                                        </li>
+                                        <li>
+<a href='/buildings/refrigeration' onclick='' >Refrigeration</a>                                        </li>
+                                        <li>
+<a href='/buildings/services-and-support' onclick='' >Services  and Support</a>                                        </li>
+                                        <li>
+<a href='/buildings/replacement-parts-and-supplies' onclick='' >Replacement Parts and Supplies</a>                                        </li>
+                                        <li>
+<a href='/buildings/solutions-by-industry' onclick='' >Solutions by Industry</a>                                        </li>
+                                        <li>
+<a href='/buildings/our-brands' onclick='' >Our Brands</a>                                        </li>
+                                </ul>
+                        </div>
+                        <div class="footer-left col-md-2 col-sm-6">
+                            <div class="footer-col-title">
+                                Batteries
+                            </div>
+
+                                <ul class="footer-list">
+                                        <li>
+<a href='/batteries/capabilities' onclick='' >Capabilities</a>                                        </li>
+                                        <li>
+<a href='/batteries/applications/passenger-vehicles' onclick='' >Applications</a>                                        </li>
+                                        <li>
+<a href='/batteries/lead-acid-batteries/flood-lead-acid-batteries' onclick='' >Lead-acid Products</a>                                        </li>
+                                        <li>
+<a href='/batteries/lithium-ion-batteries' onclick='' >Lithium-ion Products</a>                                        </li>
+                                        <li>
+<a href='/batteries/battery-recycling' onclick='' >Battery Recycling</a>                                        </li>
+                                </ul>
+                        </div>
+
+                    <div class="footer-divider"></div>
+
+                        <div class="footer-right-1 col-md-2 col-sm-6">
+                            <ul class="footer-list">
+                                    <li>
+<a href='/about-us/our-company' onclick='' >About Us</a>                                    </li>
+                                    <li>
+<a href='/careers/why-johnson-controls' onclick='' >Careers</a>                                    </li>
+                                    <li>
+<a href='/media-center/news' onclick='' >Media</a>                                    </li>
+                                    <li>
+<a href='/investors' onclick='' >Investors</a>                                    </li>
+                                    <li>
+<a href='/insights' onclick='' >Insights</a>                                    </li>
+                                    <li>
+<a href='/corporate-sustainability' onclick='' >Corporate Sustainability</a>                                    </li>
+                                    <li>
+<a href='/about-us/ethics-and-compliance' onclick='' target='_self' >Ethics</a>                                    </li>
+                                    <li>
+<a href='/suppliers' onclick='' target='_self' >Suppliers</a>                                    </li>
+                                    <li>
+<a href='/location-finder' onclick='' target='_self' >Locations</a>                                    </li>
+                                    <li>
+<a href='/contact-us' onclick='' >Contact</a>                                    </li>
+                                    <li>
+<a href='/legal/terms' onclick='' >Legal</a>                                    </li>
+                            </ul>
+                        </div>
+
+
+                    <div class="footer-right-2 col-md-6 col-sm-6">
+
+                            <div class="footer-country">
+                                <a href="/site-selector-page" target="">
+                                    <i class="fa fa-globe"></i>
+                                    Select a Country
+                                </a>
+                                
+                            </div>
+
+                        <div class="footer-social-container">
+                                <a href="https://www.facebook.com/JohnsonControls" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-facebook"></i>
+                                </a>
+                                <a href="https://twitter.com/johnsoncontrols" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-twitter"></i>
+                                </a>
+                                <a href="https://www.youtube.com/user/JohnsonControlsInc/JohnsonControls" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-youtube"></i>
+                                </a>
+                                <a href="https://www.linkedin.com/company/johnson-controls" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-linkedin"></i>
+                                </a>
+                                <a href="https://www.instagram.com/johnsoncontrols/" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-instagram"></i>
+                                </a>
+                        </div>
+                    </div>
+
+                    <div class="footer-copy">
+                        <p>© 2017 Johnson Controls. All Rights Reserved | <a href="http://www.miitbeian.gov.cn" target="_blank">沪ICP备16004024号</a></p>
+                    </div>
+                </div>
+            </div>
+</div>
+</div>
+
+    </div>
+    
+    
+
+<script>
+    jci.jQuery(function () {
+        var enableTweetQuote = 1; 
+        jci.tweetQuote.init(enableTweetQuote, window.location.href, "Share On Twitter");
+
+    });
+</script>
+
+    <script type="text/javascript">
+
+    piAId = '55162';
+    piCId = '1020';
+
+    (function () {
+        function async_load() {
+            var s = document.createElement('script'); s.type = 'text/javascript';
+            s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+            var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+        }
+        if (window.attachEvent) { window.attachEvent('onload', async_load); }
+        else { window.addEventListener('load', async_load, false); }
+    })();
+
+</script>
+
+    <script type="text/javascript">
+    (function() {
+        var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+        sz.src = '//siteimproveanalytics.com/js/siteanalyze_33556.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+        })();
+</script>
+
+
+        <!--ServerName: PRODCD1 -->
+
+</body>
+</html>

@@ -1,0 +1,664 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6 es" lang="en" > <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7 es" lang="en" > <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8 es" lang="en" > <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="es" class="es">
+<!--<![endif]-->
+
+<head>
+
+    <script>
+        var jci = {};
+        jci.virtualFolder = '/es_latinamerica/';
+    </script>
+
+    
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+
+<title>Johnson Controls | America latina</title>
+<link rel="canonical" href="http://www.johnsoncontrols.com/es_latinamerica" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0066/3434.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+<link rel="image_src" href="/es_latinamerica/-/media/default-images/page600x400.jpg" />
+<meta property="og:title" content="Home" />
+<meta property="og:description" content="" />
+<meta property="og:url" content="http://www.johnsoncontrols.com/es_latinamerica" />
+<meta property="og:image" content="/es_latinamerica/-/media/default-images/page600x400.jpg"/>
+
+    <meta property="og:site_name" content="Johnson Controls | America latina" />
+
+
+    
+<link rel="shortcut icon" type="image/x-icon">
+<link rel="icon" href="/es_latinamerica/-/media/jci/corp/homepage/images/jci.png" type="image/png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/es_latinamerica/-/media/jci/corp/homepage/images/jci_76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/es_latinamerica/-/media/jci/corp/homepage/images/jci_120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/es_latinamerica/-/media/jci/corp/homepage/images/jci_150x150.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/es_latinamerica/-/media/jci/corp/homepage/images/jci_180x180.png">
+    
+<link href="/include/jci_com/vendor/css/bootstrap/bootstrap.min.css" rel="stylesheet"/>
+
+<link href="/include/jci_com/vendor/css/ScrollPane/jscrollpane.css" rel="stylesheet"/>
+<link href="/include/jci_com/vendor/css/FontAwesome/font-awesome.css" rel="stylesheet"/>
+
+<link href="/include/jci_com/Local/css/jci.css" rel="stylesheet"/>
+
+
+<script src="/include/jci_com/vendor/scripts/jquery/jquery-1.11.3.min.js"></script>
+
+<script src="/include/jci_com/vendor/scripts/plugins/jquery-scrollto.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jquery.validate.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jquery.validate.unobtrusive.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jQueryUI.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jquery.cookie.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/ellipsis.js"></script>
+<script src="/include/jci_com/vendor/scripts/foolproof/mvcfoolproof.unobtrusive.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/bootstrap/bootstrap.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/knockout/knockout-3.3.0.js"></script>
+<script src="/include/jci_com/vendor/scripts/freewall/freewall.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/jQuery.mousewheel.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/jquery.jscrollpane.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/SelectBoxPlugin.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/iframeResizer.min.js"></script>
+
+<script src="/include/jci_com/local/scripts/jci.jQuery.js"></script>
+<script src="/include/jci_com/local/scripts/jci.constants.js"></script>
+<script src="/include/jci_com/local/scripts/jci.utilities.js"></script>
+<script src="/include/jci_com/local/scripts/jci.resize-event.js"></script>
+<script src="/include/jci_com/local/scripts/jci.navigation.js"></script>
+<script src="/include/jci_com/local/scripts/jci.cookies.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-us-sublayout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.filters-base.js"></script>
+<script src="/include/jci_com/local/scripts/jci.observable-filter.js"></script>
+<script src="/include/jci_com/local/scripts/jci.search-input.js"></script>
+<script src="/include/jci_com/local/scripts/jci.paging.js"></script>
+<script src="/include/jci_com/local/scripts/jci.search-base.js"></script>
+<script src="/include/jci_com/local/scripts/jci.media-resource-search-result-base.js"></script>
+<script src="/include/jci_com/local/scripts/jci.experts-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.experts-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.full-site-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.full-site-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.insights-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.media-news-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.insights-list.js"></script>
+<script src="/include/jci_com/local/scripts/jci.insights-sharing.js"></script>
+<script src="/include/jci_com/local/scripts/jci.image-resource-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.video-resource-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.media-resources-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.social-sharing.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-us-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.product-contact-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.resource-links.js"></script>
+<script src="/include/jci_com/local/scripts/jci.resource-download-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.stock-ticker.js"></script>
+<script src="/include/jci_com/local/scripts/jci.sticky-footer.js"></script>
+<script src="/include/jci_com/local/scripts/jci.video-banner.js"></script>
+<script src="/include/jci_com/local/scripts/jci.tabs.js"></script>
+<script src="/include/jci_com/local/scripts/jci.product-filters.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-us-location-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.country-dropdown.js"></script>
+<script src="/include/jci_com/local/scripts/jci.job-search-callout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.image-and-video-gallery.js"></script>
+<script src="/include/jci_com/local/scripts/jci.leadership.js"></script>
+<script src="/include/jci_com/local/scripts/jci.related-callout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.search-overlay.js"></script>
+<script src="/include/jci_com/local/scripts/jci.tweet-quote.js"></script>
+<script src="/include/jci_com/local/scripts/jci.article-sublayout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.preview-mode.js"></script>
+
+
+    <!--Commenting the next line out.  to reenable add the at symbol before the html-->
+    <!--Html.Partial("~/Views/JCI_com/Renderings/Analytics/WebTrends.cshtml")-->
+    <script src="/Include/JCI_com/Vendor/Scripts/WebTrends/webtrends.load.js"></script>
+  
+    <!--[if IE]>
+        <link href="JCI_com/Local/Css/JCI-IE9.css" rel="stylesheet" />
+    <![endif]-->
+    
+    
+<meta name="VIcurrentDateTime" content="636373695558473547" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+
+</head>
+
+<body class="">
+
+    <div class="page-layout">
+        
+<!--SEARCH-->
+<div class="search-overlay">
+
+    <div class="search-overlay-background"></div>
+
+    <div class="search-overlay-main">
+
+        <div class="search-overlay-input-wrapper">
+
+            <input class="search-text-input" type="text" placeholder="Search" />
+
+            <div class="overlay-search-submit">
+
+                <div class="submit-btn">
+                    <div class="icon-search">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="search-overlay-close search-overlay-btn">X Cerrar 
+</div>
+    </div>
+</div>
+
+<script>
+
+    jci.jQuery(function () {
+        jci.searchOverlay.init(".search-overlay", "/es_latinamerica/search");
+    });
+</script>
+
+    <div class="cookie-header">
+
+        <div class="text">
+            Este sitio utiliza cookies para ofrecerle una mejor experiencia de navegaci&oacute;n. Al hacer clic en Aprobar, usted acepta el uso de cookies en su dispositivo como se describe en <a href="/legal/privacy">nuestro aviso de privacidad</a>.
+        </div>
+
+        <div class="approve-cookie">
+            Aprobar
+        </div>
+
+    </div>
+
+<script>
+    jci.cookies.init(
+        "JohnsonControls-Johnson Controls | Latin America - AcceptsCookies",
+        "true",
+        "true");
+
+    jci.previewMode.init("true");
+</script>
+
+
+
+
+<!--MENU-->
+<div class="menu-dropdown off-right">
+
+    <div class="menu-lists-container sticker" id="sticker">
+            <div class="panel-group menu-scroll-list" id="accordion" role="tablist" aria-multiselectable="true">
+                    <div class="panel">
+
+                        <div class="panel-heading" role="tab" id="menu943aa174-c9ce-4c2a-8359-3e7c6ac3011f">
+                            <h4 class="panel-title">
+                                    <a class="collapsed"
+                                       data-toggle="collapse"
+                                       data-parent="#accordion"
+                                       href="#edificios-"
+                                       aria-expanded="false"
+                                       aria-controls="edificios-"
+                                       onclick="">
+                                        <i class="dropdown-icon icon icon-buildings"></i>
+                                        <span class="menu-heading title-buildings">Edificios </span>
+                                    </a>
+                            </h4>
+                        </div>
+
+                            <div id="edificios-" 
+                                 class="panel-collapse collapse" 
+                                 role="tabpanel" 
+                                 aria-labelledby="menu943aa174-c9ce-4c2a-8359-3e7c6ac3011f">
+
+                                <div class="panel-body">
+
+                                    <ul class="menu-accordian-items">
+                                            <li class="accordian-item">
+<a href='/es_latinamerica/buildings/hvac-equipment' onclick='' >Aire Acondicionado</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/es_latinamerica/buildings/hvac-controls' onclick='' >Dispositivos de Control</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/es_latinamerica/buildings/building-management' onclick='' >Sistemas de Automatización para Edificios</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/es_latinamerica/buildings/security-and-fire-safety' onclick='' >Seguridad y Prevención de Incendios</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/es_latinamerica/buildings/refrigeration' onclick='' >Refrigeración</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/es_latinamerica/buildings/services-and-support' onclick='' >Servicios y Soporte </a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/es_latinamerica/buildings/solutions-by-industry' onclick='' >Soluciones por Sector</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/es_latinamerica/buildings/our-brands' onclick='' >Nuestras Marcas </a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/es_latinamerica/buildings/contact-us' onclick='' >Comuníquese con nosotros</a>                                            </li>
+                                    </ul>
+
+
+
+                                </div>
+                            </div>
+                    </div>
+                    <div class="panel">
+
+                        <div class="panel-heading" role="tab" id="menu4d40ed1a-5841-4d59-b306-16dee9aa71be">
+                            <h4 class="panel-title">
+                                    <a class ="collapsed" href="/es_latinamerica/batteries" onclick="var ">
+                                        <i class="dropdown-icon icon icon-battery"></i>
+                                        <span class="menu-heading title-battery">Bater&#237;as</span>
+                                    </a>
+                            </h4>
+                        </div>
+
+                    </div>
+            </div>
+
+                <div class="menu-divider"></div>
+                <ul class="menu-main-categories">
+                        <li class="menu-category">
+<a href='/es_latinamerica/our-company' onclick='' >Sobre nosotros</a>                        </li>
+                        <li class="menu-category">
+<a href='/careers/why-johnson-controls' onclick='' target='_self' >Carreras profesionales (U.S. Site)</a>                        </li>
+                        <li class="menu-category">
+<a href='/investors' onclick='' >Inversores (U.S. Site)</a>                        </li>
+                        <li class="menu-category">
+<a href='/es_latinamerica/contact-us' onclick='' target='_self' >Contacto </a>                        </li>
+                </ul>
+
+                <div class="menu-divider"></div>
+            <div class="menu-social-container">
+                    <a href="https://www.facebook.com/JohnsonControls" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-facebook"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/company/johnson-controls" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://twitter.com/johnsoncontrols" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                    <a href="https://www.youtube.com/user/JohnsonControlsInc/JohnsonControls" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-youtube"></i>
+                    </a>
+            </div>
+    </div>
+</div>
+
+
+
+<div class="menu-shadow-overlay">
+
+</div>
+
+<div class="header initial-load-2 load-animations" >
+    <a href="/es_latinamerica">
+        <img src='/es_latinamerica/-/media/jci/corp/homepage/images/jci-logo-black-and-white.png' class='logo header-logo' alt='jci-logo' />
+    </a>
+
+
+    <div class="header-items">
+
+        <div class="header-search search-overlay-btn">
+            <div class="icon-search"></div>
+        </div>
+
+        <div class="header-text">
+            
+        </div>
+
+    </div>
+
+    <div class="menu-btn">
+        <!--
+        <div class="menu-burger">
+            <div class="icon-menu"></div>
+            <div class="icon icon-menu-closed"></div>
+        </div>
+        -->
+        <div class="nav-icon" id="nav-icon">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+
+        <div class="text">
+            Men&#250;
+        </div>
+    </div>
+</div>
+        
+    <div class="home-video-container initial-load-1 initial-load-3 load-animations"
+         style="background-image: url('/es_latinamerica/-/media/jci/corp/homepage/images/ent_banner_mobile_germany.jpg'); background-attachment: scroll; background-position:center;">
+
+        <video id="home-background-video" style="display:none" autoplay class="home-video-vid" loop>
+                <source src="/es_latinamerica/-/media/jci/corp/homepage/files/cityscapes-2015/brazil_final.mp4" type='video/mp4' />
+                                </video>
+
+        <div class="vid-track"></div>
+        <div class="vid-load-spinner"></div>
+        <div class="vid-play-btn "><i class="icon icon-play"></i></div>
+        <div class="vid-controls"></div>
+
+            <div class="home-video-caption">
+                <div class="title">
+                    <h1>
+                        Bienvenido a un mundo
+                    </h1>
+                </div>
+                <div class="sub-title">
+                    <h2>
+                        donde todo funciona de manera inteligente, simple y segura
+                    </h2>
+                </div>
+            </div>
+    </div>
+    <div class="full-video-container">
+        <video preload="auto" class="full-video">
+                <source src="/es_latinamerica/-/media/jci/corp/homepage/files/home-page-videos/ent_video_home_multiindustrial_04.mp4" type='video/mp4' />
+                                </video>
+
+        <div class="full-video-close-button"></div>
+        <div class="full-video-controls">
+            <div class="full-video-action">
+                <svg xml:space="preserve" enable-background="new 0 0 54 54" viewBox="0 0 54 54" y="0px" x="0px" height="54px" width="54px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" class="play-button play-button-small">
+                    <path d="M27.1,4c12.7,0,23,10.3,23,23s-10.3,23-23,23s-23-10.3-23-23S14.4,4,27.1,4 M27.1,2c-13.8,0-25,11.2-25,25 s11.2,25,25,25s25-11.2,25-25S40.9,2,27.1,2L27.1,2z" fill="#E2E2E2" />
+                    <polygon points="20.1,18 20.1,36 38.1,27 " stroke-miterlimit="10" stroke-linejoin="round" stroke-width="2" stroke="#E2E2E2" fill="none" />
+                </svg>
+                <svg xml:space="preserve" enable-background="new 0 0 54 54" viewBox="0 0 54 54" y="0px" x="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" id="Layer_1" version="1.1" class="loading">
+                    <path d="M27.1,3
+            c-13.3,0-24,10.7-24,24s10.7,24,24,24s24-10.7,24-24c0-10.5-6.7-19.4-16.1-22.7"
+                        stroke-miterlimit="10" stroke-linecap="round" stroke-width="2" stroke="#E2E2E2" fill="none" />
+                </svg>
+                <svg xml:space="preserve" enable-background="new 0 0 54 54" viewBox="0 0 54 54" y="0px" x="0px" height="54px" width="54px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" id="Svg1" version="1.1" class="pause-button">
+                    <path d="M27,4c12.7,0,23,10.3,23,23S39.7,50,27,50S4,39.7,4,27S14.3,4,27,4 M27,2C13.2,2,2,13.2,2,27s11.2,25,25,25 s25-11.2,25-25S40.8,2,27,2L27,2z" fill="#E2E2E2" />
+                    <line y2="36" x2="22" y1="18" x1="22" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#E2E2E2" fill="none" />
+                    <line y2="36" x2="32" y1="18" x1="32" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#E2E2E2" fill="none" />
+                </svg>
+            </div>
+            <div class="full-video-seeker">
+                <div class="full-video-track">
+                    <div class="full-video-track-current"></div>
+                    <div class="full-video-track-pointer"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        var autoplay = false;
+
+        function DetectAutoplay() {
+            var backgroundVideo = document.getElementById("home-background-video");
+            backgroundVideo.addEventListener('play', function () {
+                backgroundVideo.style.display = "block";
+                autoplay = true;
+            }, false);
+        }
+        DetectAutoplay();
+
+        jci.jQuery(document).ready(function () {
+            var videoControls = new jci.VideoBanner('.home-video-container', '.full-video-container');
+            videoControls.init();
+        });
+
+    </script>
+
+
+
+
+
+
+
+
+    <div class="row content-rotator-right" >
+<a href="#">
+    <div class="col-md-7 left-image"
+         style="background-image:url('')">
+
+        <div class="overlay-gradient">
+
+            <div class="overlay-section">
+
+                <div class="overlay-white-bar"></div>
+
+                <h3>
+Edificios                 </h3>
+            </div>
+        </div>
+    </div>
+    </a>
+    
+            <div class="col-md-5 right-rotator">
+
+                <div id="carousel-right-23083280-81bc-476a-9b95-aba33d91bc7e"
+                     class="carousel slide vertical carousel-right"
+                     data-ride="carousel"
+                     data-interval="false">
+
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner" role="listbox">
+
+                                <div class="item active">
+
+
+                                    <div class="news-title">
+
+                                        <h3>
+<a href='/es_latinamerica/buildings/our-brands' onclick='' >Edificios </a>                                        </h3>
+                                    </div>
+
+                                    <div class="news-text">
+                                        Johnson Controls es un proveedor l&iacute;der en equipamientos, controles y servicios de calefacci&oacute;n, ventilaci&oacute;n, aire acondicionado, refrigeraci&oacute;n y sistemas de seguridad.
+                                    </div>
+                                </div>
+
+                        <div class="carousel-fade"></div>
+                    </div>
+
+                    <!-- Controls -->
+                </div>
+            </div>
+</div>
+
+    <div id="carousel-wide-e15eee19-22d6-48b4-aefe-ff00d6824ee3"
+         class="carousel slide vertical carousel-wide"
+         data-ride="carousel"
+         data-interval="false"
+         style="background-image:url('/es_latinamerica/-/media/jci/generic-photography/ps/ps_product_batterypacks/batteryhome.jpg')">
+
+        <div class="carousel-overlay container">
+
+            <div class="overlay-white-bar"></div>
+
+            <h3>
+Baterías            </h3>
+        </div>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+                    <div class="item active">
+
+                        <div class="social">
+
+                            <div class="social-title">
+<a href='/es_latinamerica/batteries' onclick='' target='_self' >Baterías</a>
+                            </div>
+                        </div>
+
+                        <div class="overlay-text">
+                            Johnson Controls es el l&iacute;der mundial en bater&iacute;as para autom&oacute;viles de plomo y &aacute;cido y de bater&iacute;as de avanzada para veh&iacute;culos Start-Stop, h&iacute;bridos y el&eacute;ctricos.
+                        </div>
+                    </div>
+        </div>
+
+        <!-- Controls -->
+    </div>
+
+
+
+
+        
+
+
+<div class="spacer"></div>
+<div class="footer" style="background-image: url('/es_latinamerica/-/media/jci/header-and-footer/skylinebuildingsnewyorkskyscrapers.jpg')">
+
+    <div class="footer-content container">
+        <a href="/es_latinamerica">
+            <img src='/es_latinamerica/-/media/jci/corp/homepage/images/jci-logo-color.png' class='footer-logo' alt='jci logo color' />
+        </a>
+            <div class="footer-main-box">
+
+                <div class="footer-row row">
+
+                        <div class="footer-left col-md-2 col-sm-6">
+                            <div class="footer-col-title">
+                                Edificios 
+                            </div>
+
+                                <ul class="footer-list">
+                                        <li>
+<a href='/es_latinamerica/buildings/hvac-equipment' onclick='' >Equipos HVAC</a>                                        </li>
+                                        <li>
+<a href='/es_latinamerica/buildings/hvac-controls' onclick='' >Controles HVAC</a>                                        </li>
+                                        <li>
+<a href='/es_latinamerica/buildings/building-management' onclick='' >Gestión de Edificios</a>                                        </li>
+                                        <li>
+<a href='/es_latinamerica/buildings/security-and-fire-safety' onclick='' >Seguridad y Prevención de Incendios</a>                                        </li>
+                                        <li>
+<a href='/es_latinamerica/buildings/air-systems' onclick='' >Sistemas de Distribuición de Aire</a>                                        </li>
+                                        <li>
+<a href='/es_latinamerica/buildings/refrigeration' onclick='' >Refrigeración</a>                                        </li>
+                                        <li>
+<a href='/es_latinamerica/buildings/services-and-support' onclick='' >Servicios y Soporte </a>                                        </li>
+                                        <li>
+<a href='/es_latinamerica/buildings/solutions-by-industry' onclick='' >Soluciones por Sector</a>                                        </li>
+                                        <li>
+<a href='/es_latinamerica/buildings/our-brands' onclick='' >Nuestras Marcas</a>                                        </li>
+                                        <li>
+<a href='/es_latinamerica/buildings/contact-us' onclick='' >Comuníquese con nosotros</a>                                        </li>
+                                </ul>
+                        </div>
+                        <div class="footer-left col-md-2 col-sm-6">
+                            <div class="footer-col-title">
+                                Bater&#237;as
+                            </div>
+
+                                <ul class="footer-list">
+                                        <li>
+<a href='/es_latinamerica/batteries' onclick='' >Sobre Baterías</a>                                        </li>
+                                </ul>
+                        </div>
+
+                    <div class="footer-divider"></div>
+
+                        <div class="footer-right-1 col-md-2 col-sm-6">
+                            <ul class="footer-list">
+                                    <li>
+<a href='/es_latinamerica/our-company' onclick='' >Sobre nosotros</a>                                    </li>
+                                    <li>
+<a href='/careers/why-johnson-controls' onclick='' target='_self' >Carreras profesionales (U.S. Site)</a>                                    </li>
+                                    <li>
+<a href='/investors' onclick='' >Inversores (U.S. Site)</a>                                    </li>
+                                    <li>
+<a href='/es_latinamerica/contact-us' onclick='' target='_self' >Contacto </a>                                    </li>
+                                    <li>
+<a href='/legal/terms' onclick='' >Términos (U.S. Site)</a>                                    </li>
+                            </ul>
+                        </div>
+
+
+                    <div class="footer-right-2 col-md-6 col-sm-6">
+
+                            <div class="footer-country">
+                                <a href="/site-selector-page" target="">
+                                    <i class="fa fa-globe"></i>
+                                    Seleccione un pa&#237;s
+
+                                </a>
+                                
+                            </div>
+
+                        <div class="footer-social-container">
+                                <a href="https://www.facebook.com/JohnsonControls" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-facebook"></i>
+                                </a>
+                                <a href="https://www.linkedin.com/company/johnson-controls" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-linkedin"></i>
+                                </a>
+                                <a href="https://twitter.com/johnsoncontrols" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-twitter"></i>
+                                </a>
+                                <a href="https://www.youtube.com/user/JohnsonControlsInc/JohnsonControls" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-youtube"></i>
+                                </a>
+                        </div>
+                    </div>
+
+                    <div class="footer-copy">
+                        <p>© 2016 Johnson Controls. All Rights Reserved</p>
+                    </div>
+                </div>
+            </div>
+</div>
+</div>
+
+    </div>
+    
+    
+
+<script>
+    jci.jQuery(function () {
+        var enableTweetQuote = 1; 
+        jci.tweetQuote.init(enableTweetQuote, window.location.href, "Compartir en Twitter
+");
+
+    });
+</script>
+
+    <script type="text/javascript">
+
+    piAId = '55162';
+    piCId = '1020';
+
+    (function () {
+        function async_load() {
+            var s = document.createElement('script'); s.type = 'text/javascript';
+            s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+            var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+        }
+        if (window.attachEvent) { window.attachEvent('onload', async_load); }
+        else { window.addEventListener('load', async_load, false); }
+    })();
+
+</script>
+
+    <script type="text/javascript">
+    (function() {
+        var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+        sz.src = '//siteimproveanalytics.com/js/siteanalyze_33556.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+        })();
+</script>
+
+
+        <!--ServerName: PRODCD1 -->
+
+</body>
+</html>

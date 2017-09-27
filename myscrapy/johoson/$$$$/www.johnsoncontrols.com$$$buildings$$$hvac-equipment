@@ -1,0 +1,1163 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6 en" lang="en" > <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7 en" lang="en" > <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8 en" lang="en" > <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="en" class="en">
+<!--<![endif]-->
+
+<head>
+
+    <script>
+        var jci = {};
+        jci.virtualFolder = '/';
+    </script>
+
+    
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+
+<title>HVAC Equipment  | Johnson Controls</title>
+<link rel="canonical" href="http://www.johnsoncontrols.com/buildings/hvac-equipment" />
+<meta name="description" content="Why did we build the largest portfolio of HVAC equipment in the world? So that there’s an efficient, reliable solution for virtually any building - vintage or new, large or small, office or residence, hospital, hotel or school - anywhere in the world." />
+<meta name="keywords" content="" />
+
+
+<script type="text/javascript">
+/*{literal}<![CDATA[*/window.lightningjs||function(c){function g(b,d){d&&(d+=(/\?/.test(d)?"&":"?")+"lv=1");c[b]||function(){var i=window,h=document,j=b,g=h.location.protocol,l="load",k=0;(function(){function b(){a.P(l);a.w=1;c[j]("_load")}c[j]=function(){function m(){m.id=e;return c[j].apply(m,arguments)}var b,e=++k;b=this&&this!=i?this.id||0:0;(a.s=a.s||[]).push([e,b,arguments]);m.then=function(b,c,h){var d=a.fh[e]=a.fh[e]||[],j=a.eh[e]=a.eh[e]||[],f=a.ph[e]=a.ph[e]||[];b&&d.push(b);c&&j.push(c);h&&f.push(h);return m};return m};var a=c[j]._={};a.fh={};a.eh={};a.ph={};a.l=d?d.replace(/^\/\//,(g=="https:"?g:"http:")+"//"):d;a.p={0:+new Date};a.P=function(b){a.p[b]=new Date-a.p[0]};a.w&&b();i.addEventListener?i.addEventListener(l,b,!1):i.attachEvent("on"+l,b);var q=function(){function b(){return["<head></head><",c,' onload="var d=',n,";d.getElementsByTagName('head')[0].",d,"(d.",g,"('script')).",i,"='",a.l,"'\"></",c,">"].join("")}var c="body",e=h[c];if(!e)return setTimeout(q,100);a.P(1);var d="appendChild",g="createElement",i="src",k=h[g]("div"),l=k[d](h[g]("div")),f=h[g]("iframe"),n="document",p;k.style.display="none";e.insertBefore(k,e.firstChild).id=o+"-"+j;f.frameBorder="0";f.id=o+"-frame-"+j;/MSIE[ ]+6/.test(navigator.userAgent)&&(f[i]="javascript:false");f.allowTransparency="true";l[d](f);try{f.contentWindow[n].open()}catch(s){a.domain=h.domain,p="javascript:var d="+n+".open();d.domain='"+h.domain+"';",f[i]=p+"void(0);"}try{var r=f.contentWindow[n];r.write(b());r.close()}catch(t){f[i]=p+'d.write("'+b().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};a.l&&setTimeout(q,0)})()}();c[b].lv="1";return c[b]}var o="lightningjs",k=window[o]=g(o);k.require=g;k.modules=c}({});
+if(!navigator.userAgent.match(/Android|BlackBerry|BB10|iPhone|iPad|iPod|Opera Mini|IEMobile/i)) {window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/ca95063754e0.js"); } else {window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/fc973043953c.js"); }/*]]>{/literal}*/</script><script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0066/3434.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+<link rel="image_src" href="/-/media/jci/be/united-states/hvac-equipment/images/be_masthead_hvac_equip.jpg" />
+<meta property="og:title" content="HVAC Equipment" />
+<meta property="og:description" content="Why did we build the largest portfolio of HVAC equipment in the world? So that there’s an efficient, reliable solution for virtually any building - vintage or new, large or small, office or residence, hospital, hotel or school - anywhere in the world." />
+<meta property="og:url" content="http://www.johnsoncontrols.com/buildings/hvac-equipment" />
+<meta property="og:image" content="/-/media/jci/be/united-states/hvac-equipment/images/be_masthead_hvac_equip.jpg"/>
+
+    <meta property="og:site_name" content="HVAC Equipment  | Johnson Controls" />
+
+
+    
+<link rel="shortcut icon" type="image/x-icon">
+<link rel="icon" href="/-/media/jci/corp/homepage/images/jci.png" type="image/png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/-/media/jci/corp/homepage/images/jci_76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/-/media/jci/corp/homepage/images/jci_120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/-/media/jci/corp/homepage/images/jci_150x150.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/-/media/jci/corp/homepage/images/jci_180x180.png">
+    
+<link href="/include/jci_com/vendor/css/bootstrap/bootstrap.min.css" rel="stylesheet"/>
+
+<link href="/include/jci_com/vendor/css/ScrollPane/jscrollpane.css" rel="stylesheet"/>
+<link href="/include/jci_com/vendor/css/FontAwesome/font-awesome.css" rel="stylesheet"/>
+
+<link href="/include/jci_com/Local/css/jci.css" rel="stylesheet"/>
+
+
+<script src="/include/jci_com/vendor/scripts/jquery/jquery-1.11.3.min.js"></script>
+
+<script src="/include/jci_com/vendor/scripts/plugins/jquery-scrollto.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jquery.validate.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jquery.validate.unobtrusive.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jQueryUI.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jquery.cookie.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/ellipsis.js"></script>
+<script src="/include/jci_com/vendor/scripts/foolproof/mvcfoolproof.unobtrusive.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/bootstrap/bootstrap.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/knockout/knockout-3.3.0.js"></script>
+<script src="/include/jci_com/vendor/scripts/freewall/freewall.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/jQuery.mousewheel.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/jquery.jscrollpane.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/SelectBoxPlugin.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/iframeResizer.min.js"></script>
+
+<script src="/include/jci_com/local/scripts/jci.jQuery.js"></script>
+<script src="/include/jci_com/local/scripts/jci.constants.js"></script>
+<script src="/include/jci_com/local/scripts/jci.utilities.js"></script>
+<script src="/include/jci_com/local/scripts/jci.resize-event.js"></script>
+<script src="/include/jci_com/local/scripts/jci.navigation.js"></script>
+<script src="/include/jci_com/local/scripts/jci.cookies.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-us-sublayout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.filters-base.js"></script>
+<script src="/include/jci_com/local/scripts/jci.observable-filter.js"></script>
+<script src="/include/jci_com/local/scripts/jci.search-input.js"></script>
+<script src="/include/jci_com/local/scripts/jci.paging.js"></script>
+<script src="/include/jci_com/local/scripts/jci.search-base.js"></script>
+<script src="/include/jci_com/local/scripts/jci.media-resource-search-result-base.js"></script>
+<script src="/include/jci_com/local/scripts/jci.experts-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.experts-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.full-site-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.full-site-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.insights-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.media-news-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.insights-list.js"></script>
+<script src="/include/jci_com/local/scripts/jci.insights-sharing.js"></script>
+<script src="/include/jci_com/local/scripts/jci.image-resource-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.video-resource-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.media-resources-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.social-sharing.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-us-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.product-contact-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.resource-links.js"></script>
+<script src="/include/jci_com/local/scripts/jci.resource-download-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.stock-ticker.js"></script>
+<script src="/include/jci_com/local/scripts/jci.sticky-footer.js"></script>
+<script src="/include/jci_com/local/scripts/jci.video-banner.js"></script>
+<script src="/include/jci_com/local/scripts/jci.tabs.js"></script>
+<script src="/include/jci_com/local/scripts/jci.product-filters.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-us-location-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.country-dropdown.js"></script>
+<script src="/include/jci_com/local/scripts/jci.job-search-callout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.image-and-video-gallery.js"></script>
+<script src="/include/jci_com/local/scripts/jci.leadership.js"></script>
+<script src="/include/jci_com/local/scripts/jci.related-callout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.search-overlay.js"></script>
+<script src="/include/jci_com/local/scripts/jci.tweet-quote.js"></script>
+<script src="/include/jci_com/local/scripts/jci.article-sublayout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.preview-mode.js"></script>
+
+
+    <!--Commenting the next line out.  to reenable add the at symbol before the html-->
+    <!--Html.Partial("~/Views/JCI_com/Renderings/Analytics/WebTrends.cshtml")-->
+    <script src="/Include/JCI_com/Vendor/Scripts/WebTrends/webtrends.load.js"></script>
+  
+    <!--[if IE]>
+        <link href="JCI_com/Local/Css/JCI-IE9.css" rel="stylesheet" />
+    <![endif]-->
+    
+    
+<meta name="VIcurrentDateTime" content="636374167999918562" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+
+</head>
+
+<body class="">
+
+    <div class="page-layout">
+        
+<!--SEARCH-->
+<div class="search-overlay">
+
+    <div class="search-overlay-background"></div>
+
+    <div class="search-overlay-main">
+
+        <div class="search-overlay-input-wrapper">
+
+            <input class="search-text-input" type="text" placeholder="Search" />
+
+            <div class="overlay-search-submit">
+
+                <div class="submit-btn">
+                    <div class="icon-search">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="search-overlay-close search-overlay-btn">X Close</div>
+    </div>
+</div>
+
+<script>
+
+    jci.jQuery(function () {
+        jci.searchOverlay.init(".search-overlay", "/search");
+    });
+</script>
+
+    <div class="cookie-header">
+
+        <div class="text">
+            <div>
+<p>This site uses cookies to offer you a better browsing experience. By clicking Approve, you consent to the use of cookies on your device as described in our <a href="/legal/privacy">privacy notice</a>.</p>
+</div>
+        </div>
+
+        <div class="approve-cookie">
+            Approve
+        </div>
+
+    </div>
+
+<script>
+    jci.cookies.init(
+        "JohnsonControls-United States - AcceptsCookies",
+        "true",
+        "true");
+
+    jci.previewMode.init("true");
+</script>
+
+
+
+
+<!--MENU-->
+<div class="menu-dropdown off-right">
+
+    <div class="menu-lists-container sticker" id="sticker">
+            <div class="panel-group menu-scroll-list" id="accordion" role="tablist" aria-multiselectable="true">
+                    <div class="panel">
+
+                        <div class="panel-heading" role="tab" id="menue951cb26-fca5-46c7-9238-f3c6ac1cd2d5">
+                            <h4 class="panel-title">
+                                    <a class="collapsed"
+                                       data-toggle="collapse"
+                                       data-parent="#accordion"
+                                       href="#buildings"
+                                       aria-expanded="false"
+                                       aria-controls="buildings"
+                                       onclick="">
+                                        <i class="dropdown-icon icon icon-buildings"></i>
+                                        <span class="menu-heading title-buildings">Buildings</span>
+                                    </a>
+                            </h4>
+                        </div>
+
+                            <div id="buildings" 
+                                 class="panel-collapse collapse" 
+                                 role="tabpanel" 
+                                 aria-labelledby="menue951cb26-fca5-46c7-9238-f3c6ac1cd2d5">
+
+                                <div class="panel-body">
+
+                                    <ul class="menu-accordian-items">
+                                            <li class="accordian-item">
+<a href='/buildings/air-systems' onclick='' >Air Systems</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/building-management' onclick='' >Building Management</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/hvac-controls' onclick='' >HVAC Controls</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/hvac-equipment' onclick='' >HVAC Equipment</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/security-and-fire-safety' onclick='' >Security and Fire Safety</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/refrigeration' onclick='' >Refrigeration</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/services-and-support' onclick='' >Services  and Support</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/replacement-parts-and-supplies' onclick='' >Replacement Parts and Supplies</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/solutions-by-industry' onclick='' >Solutions by Industry</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/our-brands' onclick='' >Our Brands</a>                                            </li>
+                                    </ul>
+
+
+
+                                </div>
+                            </div>
+                    </div>
+                    <div class="panel">
+
+                        <div class="panel-heading" role="tab" id="menu0e5b15bf-0582-4ce6-be25-c2d9bb15a73b">
+                            <h4 class="panel-title">
+                                    <a class="collapsed"
+                                       data-toggle="collapse"
+                                       data-parent="#accordion"
+                                       href="#batteries"
+                                       aria-expanded="false"
+                                       aria-controls="batteries"
+                                       onclick="">
+                                        <i class="dropdown-icon icon icon-battery"></i>
+                                        <span class="menu-heading title-battery">Batteries</span>
+                                    </a>
+                            </h4>
+                        </div>
+
+                            <div id="batteries" 
+                                 class="panel-collapse collapse" 
+                                 role="tabpanel" 
+                                 aria-labelledby="menu0e5b15bf-0582-4ce6-be25-c2d9bb15a73b">
+
+                                <div class="panel-body">
+
+                                    <ul class="menu-accordian-items">
+                                            <li class="accordian-item">
+<a href='/batteries/capabilities' onclick='' >Capabilities</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/batteries/applications/passenger-vehicles' onclick='' >Applications</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/batteries/lead-acid-batteries/flood-lead-acid-batteries' onclick='' >Lead-acid Products</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/batteries/lithium-ion-batteries' onclick='' >Lithium-ion Products</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/batteries/battery-recycling' onclick='' >Battery Recycling</a>                                            </li>
+                                    </ul>
+
+
+
+                                </div>
+                            </div>
+                    </div>
+                    <div class="panel">
+
+                        <div class="panel-heading" role="tab" id="menud95a0fbc-ffc5-4ad4-a0b8-457297df174d">
+                            <h4 class="panel-title">
+                                    <a class="collapsed"
+                                       data-toggle="collapse"
+                                       data-parent="#accordion"
+                                       href="#distributed-energy-storage"
+                                       aria-expanded="false"
+                                       aria-controls="distributed-energy-storage"
+                                       onclick="">
+                                        <i class="dropdown-icon icon icon-energystorage"></i>
+                                        <span class="menu-heading title-energystorage">Distributed Energy Storage</span>
+                                    </a>
+                            </h4>
+                        </div>
+
+                            <div id="distributed-energy-storage" 
+                                 class="panel-collapse collapse" 
+                                 role="tabpanel" 
+                                 aria-labelledby="menud95a0fbc-ffc5-4ad4-a0b8-457297df174d">
+
+                                <div class="panel-body">
+
+                                    <ul class="menu-accordian-items">
+                                            <li class="accordian-item">
+<a href='/distributed-energy-storage/capabilities' onclick='' >Capabilities</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/distributed-energy-storage/applications' onclick='' >Applications</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/distributed-energy-storage/energy-storage-solutions' onclick='' >Energy Storage Solutions</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/distributed-energy-storage/news-and-resources' onclick='' >News and Resources</a>                                            </li>
+                                    </ul>
+
+
+
+                                </div>
+                            </div>
+                    </div>
+            </div>
+
+                <div class="menu-divider"></div>
+                <ul class="menu-main-categories">
+                        <li class="menu-category">
+<a href='/about-us/our-company' onclick='' >About Us</a>                        </li>
+                        <li class="menu-category">
+<a href='/careers/why-johnson-controls' onclick='' >Careers</a>                        </li>
+                        <li class="menu-category">
+<a href='/media-center/news' onclick='' >Media</a>                        </li>
+                        <li class="menu-category">
+<a href='/investors' onclick='' >Investors</a>                        </li>
+                        <li class="menu-category">
+<a href='/insights' onclick='' >Insights</a>                        </li>
+                        <li class="menu-category">
+<a href='/corporate-sustainability/environment' onclick='' >Corporate Sustainability </a>                        </li>
+                        <li class="menu-category">
+<a href='/suppliers' onclick='' >Suppliers</a>                        </li>
+                        <li class="menu-category">
+<a href='/contact-us' onclick='' >Contact</a>                        </li>
+                        <li class="menu-category">
+<a href='/login' onclick='' target='_self' >Login</a>                        </li>
+                </ul>
+
+                <div class="menu-divider"></div>
+            <div class="menu-social-container">
+                    <a href="https://www.facebook.com/JohnsonControls" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-facebook"></i>
+                    </a>
+                    <a href="https://twitter.com/johnsoncontrols" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                    <a href="https://www.youtube.com/user/JohnsonControlsInc/JohnsonControls" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-youtube"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/company/johnson-controls" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://www.instagram.com/johnsoncontrols/" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-instagram"></i>
+                    </a>
+            </div>
+    </div>
+</div>
+
+
+
+<div class="menu-shadow-overlay">
+
+</div>
+
+<div class="header initial-load-2 load-animations" >
+    <a href="/">
+        <img src='/-/media/jci/corp/homepage/images/jci-logo-black-and-white.png' class='logo header-logo' alt='jci-logo' />
+    </a>
+
+
+    <div class="header-items">
+
+        <div class="header-search search-overlay-btn">
+            <div class="icon-search"></div>
+        </div>
+
+        <div class="header-text">
+                <a href="/site-selector-page" class="loginicon"><i class="fa fa-globe"></i></a>
+            
+<a href='/site-selector-page' >Select a Country</a>        </div>
+
+    </div>
+
+    <div class="menu-btn">
+        <!--
+        <div class="menu-burger">
+            <div class="icon-menu"></div>
+            <div class="icon icon-menu-closed"></div>
+        </div>
+        -->
+        <div class="nav-icon" id="nav-icon">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+
+        <div class="text">
+            Menu
+        </div>
+    </div>
+</div>    <div class="breadcrumb-control">
+        
+        <ol class="breadcrumb">
+                    <li class="">
+
+Buildings                    </li>
+                    <li class="active">
+
+                            <a href="/buildings/hvac-equipment">
+                                HVAC Equipment 
+                                
+                            </a>
+                    </li>
+
+        </ol>
+
+    </div>
+
+
+        
+
+
+
+
+    <div class="small-hero" style="background: url('/-/media/jci/be/united-states/hvac-equipment/images/be_mast_building_management_1.jpg') no-repeat;
+                                      background: -moz-radial-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.75) 100%), url('/-/media/jci/be/united-states/hvac-equipment/images/be_mast_building_management_1.jpg') no-repeat;
+                                      background: -webkit-radial-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.75) 100%), url('/-/media/jci/be/united-states/hvac-equipment/images/be_mast_building_management_1.jpg') no-repeat;
+                                      background: -ms-radial-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.75) 100%), url('/-/media/jci/be/united-states/hvac-equipment/images/be_mast_building_management_1.jpg') no-repeat;
+                                      background: radial-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.75) 100%), url('/-/media/jci/be/united-states/hvac-equipment/images/be_mast_building_management_1.jpg') no-repeat;
+                                      background-size:cover;
+                                      background-position:center">
+                             
+
+        <div class="small-hero-overlay">
+        </div>
+
+        <div class="small-hero-title">
+
+        </div>
+
+        <div class="small-hero-subtitle">
+
+        </div>
+    </div>
+    <div class="hero-links">
+
+        <div class="hero-link-wrapper">
+                <div class="hero-link-section">
+<a href='/buildings/services-and-support/operations-maintenance-and-repair-services' onclick='' >                        <i class="fa fa-plus"></i>
+HVAC Maintenance and Repair                        <div class="mobile-hero-link-btn">
+                            <i class="fa fa-plus"></i>
+                        </div>
+</a>
+                </div>
+                <div class="hero-link-section">
+<a href='/buildings/services-and-support/hvac-training' onclick='' >                        <i class="fa fa-plus"></i>
+HVAC Training                        <div class="mobile-hero-link-btn">
+                            <i class="fa fa-plus"></i>
+                        </div>
+</a>
+                </div>
+                <div class="hero-link-section">
+<a href='/buildings/services-and-support/product-literature/quicklit' onclick='' >                        <i class="fa fa-plus"></i>
+Product Literature                        <div class="mobile-hero-link-btn">
+                            <i class="fa fa-plus"></i>
+                        </div>
+</a>
+                </div>
+
+            <div class="pin"></div>
+        </div>
+    </div>
+    <div class="reg-text-header">
+        <h1>HVAC Equipment</h1>
+    </div>
+    <div class="container content-text page-sub">
+        <p><span class="rte-subtitle">Optimize Your HVAC System</span></p>
+<p>Why did we build the largest portfolio of HVAC equipment in the world? So that there&rsquo;s an efficient, reliable solution for virtually any building - vintage or new, large or small, office or residence, hospital, hotel or school - anywhere in the world.</p>
+    </div>
+
+        <div class="container product-family-container">
+            <div class="row">
+                        <div class="col-sm-6 product-family-callout-section">
+
+                            <div class="product-family-image">
+
+<a href='/buildings/hvac-equipment/chillers' ><img src='/-/media/jci/be/united-states/hvac-equipment/images/be_l2_chillers.jpg' alt='Chiller Unit' />                                    <div class="overlay">
+
+                                        <div class="overlay-container">
+
+                                            <div class="text">
+                                                Chillers
+                                            </div>
+                                        </div>
+                                    </div>
+</a>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 product-family-callout-section">
+
+                            <div class="product-family-image">
+
+<a href='/buildings/hvac-equipment/condensers-and-condensing-units' ><img src='/-/media/jci/be/united-states/hvac-equipment/images/be_l2_condensing_units.jpg' alt='Condensing Unit' />                                    <div class="overlay">
+
+                                        <div class="overlay-container">
+
+                                            <div class="text">
+                                                Condensers and Condensing Units
+                                            </div>
+                                        </div>
+                                    </div>
+</a>
+                            </div>
+                        </div>
+            </div>
+            <div class="row">
+                        <div class="col-sm-6 product-family-callout-section">
+
+                            <div class="product-family-image">
+
+<a href='/buildings/hvac-equipment/dedicated-outdoor-air-systems' ><img src='/-/media/jci/be/united-states/hvac-equipment/dedicated-outside-air-system/images/doas-low-res.jpg' alt='DOAS Image 2' />                                    <div class="overlay">
+
+                                        <div class="overlay-container">
+
+                                            <div class="text">
+                                                Dedicated Outdoor Air Systems
+                                            </div>
+                                        </div>
+                                    </div>
+</a>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 product-family-callout-section">
+
+                            <div class="product-family-image">
+
+<a href='/buildings/hybrid-cooling-systems' ><img src='/-/media/jci/be/united-states/blue-stream-hybrid-cooling-systems/petrochemicalplant.jpg' alt='image' />                                    <div class="overlay">
+
+                                        <div class="overlay-container">
+
+                                            <div class="text">
+                                                Hybrid Cooling Systems
+                                            </div>
+                                        </div>
+                                    </div>
+</a>
+                            </div>
+                        </div>
+            </div>
+            <div class="row">
+                        <div class="col-sm-6 product-family-callout-section">
+
+                            <div class="product-family-image">
+
+<a href='/buildings/hvac-equipment/indoor-packaged-equipment' ><img src='/-/media/misc-uploads/be_l2_indoor_packaged_equip.jpg' />                                    <div class="overlay">
+
+                                        <div class="overlay-container">
+
+                                            <div class="text">
+                                                Indoor Packaged Equipment
+                                            </div>
+                                        </div>
+                                    </div>
+</a>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 product-family-callout-section">
+
+                            <div class="product-family-image">
+
+<a href='/buildings/hvac-equipment/mini-split-systems' ><img src='/-/media/jci/be/united-states/hvac-equipment/mini-splits/images/yorkpseriesdhp18csb21518kbtuxpseriesidwalldhp18nwb21s.png' />                                    <div class="overlay">
+
+                                        <div class="overlay-container">
+
+                                            <div class="text">
+                                                Duct-Free Mini-Splits Systems
+                                            </div>
+                                        </div>
+                                    </div>
+</a>
+                            </div>
+                        </div>
+            </div>
+            <div class="row">
+                        <div class="col-sm-6 product-family-callout-section">
+
+                            <div class="product-family-image">
+
+<a href='/buildings/hvac-equipment/rooftop-units' ><img src='/-/media/jci/be/united-states/hvac-equipment/images/be_l2_rooftop_units.jpg' alt='L2 Rooftop Units' />                                    <div class="overlay">
+
+                                        <div class="overlay-container">
+
+                                            <div class="text">
+                                                Rooftop Units
+                                            </div>
+                                        </div>
+                                    </div>
+</a>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 product-family-callout-section">
+
+                            <div class="product-family-image">
+
+<a href='/buildings/hvac-equipment/smart-equipment' ><img src='/-/media/jci/be/united-states/specialty-pages/images/be_ahr16_smart_chillers.jpg' />                                    <div class="overlay">
+
+                                        <div class="overlay-container">
+
+                                            <div class="text">
+                                                Smart Equipment
+                                            </div>
+                                        </div>
+                                    </div>
+</a>
+                            </div>
+                        </div>
+            </div>
+            <div class="row">
+                        <div class="col-sm-6 product-family-callout-section">
+
+                            <div class="product-family-image">
+
+<a href='/buildings/hvac-equipment/variable-refrigerant-flow' ><img src='/-/media/jci/be/united-states/hvac-equipment/variable-refrigerant-flow/images/vrfhvacequipmentfamilypage.jpg' alt='Variable Refrigerant Flow' />                                    <div class="overlay">
+
+                                        <div class="overlay-container">
+
+                                            <div class="text">
+                                                Variable Refrigerant Flow
+                                            </div>
+                                        </div>
+                                    </div>
+</a>
+                            </div>
+                        </div>
+            </div>
+
+
+
+        </div>
+
+
+
+
+
+
+    <div class="revised-image-callout-right revised-image-callout revised-callout-wrapper container">
+
+        <div class="category col-sm-12">
+
+        </div>
+        <div class="col-sm-6">
+                <div class="image">
+                    <img src='/-/media/jci/generic-photography/ent/mastmed/ent_mastmed_sanfranskyline.jpg' alt='sanfranskyline' />
+                </div>
+            <div class="youtube-video-control">
+
+
+
+            </div>
+        </div>
+
+        <div class="col-sm-6">
+
+            <div class="revised-callout-content">
+                    <div class="content-title">
+                        Choosing the right oil-free chiller bearing
+                    </div>
+
+                    <div class="content-text">
+                        <strong>Webcast: April 20, 2 PM EST</strong><br>
+Less complex chiller design choices mean easier maintenance and longer equipment life. Learn how chiller bearing technologies are changing the landscape of chiller operation and efficiency, including discussions around oil-free chiller bearing options, capabilities, and benefits.
+                    </div>
+
+                <div class="content-btns">
+                        <div class="content-btn content-btn-left">
+<a href='http://connect.johnsoncontrols.com/l/54162/2017-03-31/bkpm4n' target='_blank' >Register</a>                        </div>
+
+                </div>
+
+            </div>
+        </div>
+        <div class="pin"></div>
+    </div>
+
+    <div class="container insights-container-callout">
+
+    </div>
+    <script>
+        jci.InsightsSharing.init('.insights-container-callout');
+    </script>
+
+        <div class="four-column-callout-list container">
+            <div class="four-column-title">
+                <h2>
+You may also be interested in                </h2>
+            </div>
+
+                <div class="callout-container">
+                    <div class="row">
+                                <a href="/buildings/specialty-pages/product-security">
+
+                                    <div class="image-callout col-sm-3">
+
+                                        <div class="image-callout-image">
+                                            <img src='/-/media/jci/be/united-states/building-management/images/product-security.jpg' alt='product security' />
+                                        </div>
+
+                                        <div class="image-title">
+                                            Product Security
+                                        </div>
+
+                                        <div class="image-text">
+                                            Johnson Controls tracks, identifies and proactively addresses ever-evolving cybersecurity threats every day – it’s a top priority. This commitment is reflected in our technology innovations and continual product development to keep building management systems, IT infrastructures, and connected equipment secure.
+                                        </div>
+
+                                    </div>
+                                </a>
+                                <a href="/buildings/specialty-pages/iot">
+
+                                    <div class="image-callout col-sm-3">
+
+                                        <div class="image-callout-image">
+                                            <img src='/-/media/default-images/page600x400/building.jpg' />
+                                        </div>
+
+                                        <div class="image-title">
+                                            Internet of Things
+                                        </div>
+
+                                        <div class="image-text">
+                                            The Internet of Things is fueling innovation in products, services and solutions that improve building operations and performance. For decades, Johnson Controls has been providing the equipment and systems that communicate in real-time to deliver optimized environments. 
+                                        </div>
+
+                                    </div>
+                                </a>
+                                <a href="/buildings/specialty-pages/connected-chillers">
+
+                                    <div class="image-callout col-sm-3">
+
+                                        <div class="image-callout-image">
+                                            <img src='/-/media/jci/generic-photography/be/be_1200x800_chillerroomcloseup.jpg' alt='chillerroom-closeup' />
+                                        </div>
+
+                                        <div class="image-title">
+                                            Smart Connected Chillers
+                                        </div>
+
+                                        <div class="image-text">
+                                            Monitor performance from anywhere.  Because uptime is everything.
+                                        </div>
+
+                                    </div>
+                                </a>
+                                <a href="/buildings/events">
+
+                                    <div class="image-callout col-sm-3">
+
+                                        <div class="image-callout-image">
+                                            <img src='/-/media/jci/generic-photography/ent/mastmed/ent_mastmed_manpresentingtvconfrencemeeting.jpg' alt='manpresentingtvconfrencemeeting' />
+                                        </div>
+
+                                        <div class="image-title">
+                                            Events
+                                        </div>
+
+                                        <div class="image-text">
+                                            Learn about the latest webcasts, panels, and industry events with Johnson Controls Building Technologies and Solutions.
+                                        </div>
+
+                                    </div>
+                                </a>
+                    </div>
+                    <div class="row">
+                    </div>
+
+                </div>
+
+        </div>
+
+
+    <div class="button-call-to-action">
+
+Contact Johnson Controls for More Information
+        <div class="btn-wrapper">
+
+            <div class="Orange Small">
+
+<a href='/buildings/hvac-equipment/contact-us' onclick='' >Contact Us</a>            </div>
+        </div>
+    </div>
+
+
+    <div class="button-call-to-action">
+
+Sign up for Johnson Controls Newsletters and Product Updates
+        <div class="btn-wrapper">
+
+            <div class="Orange Small">
+
+<a href='http://connect.johnsoncontrols.com/email-preference-center' onclick='' target='_blank' >Get news in your inbox</a>            </div>
+        </div>
+    </div>
+
+
+
+    <div class="revised-image-callout-right revised-image-callout revised-callout-wrapper container">
+
+        <div class="category col-sm-12">
+
+                <h3>
+                    Training Options to Meet Your Needs
+                </h3>
+        </div>
+        <div class="col-sm-6">
+                <div class="image">
+                    <img src='/-/media/jci/be/united-states/specialty-pages/campaigns-and-promotions/training-catalog-and-class-schedule/jcitraininginstitute.png' />
+                </div>
+            <div class="youtube-video-control">
+
+
+
+            </div>
+        </div>
+
+        <div class="col-sm-6">
+
+            <div class="revised-callout-content">
+                    <div class="content-title">
+                        The Johnson Controls Training Institute
+                    </div>
+
+                    <div class="content-text">
+                        The <a href="/buildings/services-and-support/hvac-training">Johnson Controls Training Institute</a> has been helping people succeed at creating and managing quality building environments since 1947. The Training Institute partners with engineering schools, technical colleges and experts in the building environments industry to provide high-quality learning experiences that reflect where the industry is today and where it is going tomorrow.
+                    </div>
+
+                <div class="content-btns">
+                        <div class="content-btn content-btn-left">
+<a href='/-/media/jci/be/united-states/services-and-support/training/be_2017trainingcatalog.pdf' >2017 Training Catalog</a>                        </div>
+
+                        <div class="content-btn content-btn-left">
+<a href='/-/media/jci/be/united-states/services-and-support/training/be_2017classschedule.pdf' >2017 Class Schedule</a>                        </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="pin"></div>
+    </div>
+
+        
+    <script type="text/javascript">var contentType='standardForm';</script>
+
+
+<div class="contactbar-pardothandler" id="contactbar-heading">
+    <div class="thin-text-header container">
+        <h2>Contact Us</h2>
+    </div>
+</div>
+
+<div class="container" id="contactbar-container">
+    <div class="row">
+        <div class="col-sm-8">
+            <div id="form-container">
+                    <div class="ContactBar-title-text">
+                        <i class="fa fa-envelope"></i>
+                        Leave a message
+                    </div>
+                    <iframe src="http://connect.johnsoncontrols.com/l/54162/2015-11-02/3srdvl" width="100%" scrolling="no" id="sizetracker" frameborder="0"></iframe>
+            </div>
+        </div>
+        <div class="col-sm-4 contact-location-search">
+                <div class="ContactBar-title-text">
+                    <i class="fa fa-phone"></i>
+                    Call Us
+                </div>
+                    <a class="phone-link" href="tel: 888-401-9804 "> 888-401-9804 </a>
+
+                <div class="ContactBar-title-text">
+                    <i class="fa fa-map-marker"></i>
+                    Find a Location
+                </div>
+                    <input type="text" id="location-finder-text" class="location-finder"
+                           placeholder="Search by Postal Code, City, State or Country" />
+                        <!--<a class="fa fa-angle-right" id="location-finder-go"
+                           href="/location-finder">
+                            
+                        </a>
+                            -->
+                        <div class="icon icon-play" id="location-finder-go"></div>
+        </div>
+    </div>
+</div>
+
+<div class="floating-contact-container">
+    <span class="floating-contact-text">Contact Us For More Information on HVAC Equipment</span>
+    <span class="floating-contact-btn" data-scrollto="contactbar-heading">Contact Us</span>
+    <span class="floating-contact-close">x</span>
+</div>
+
+
+
+<script>
+
+
+    
+    jci.jQuery(function () {
+        $back_to_top = jci.jQuery('.floating-contact-container');
+
+        jci.jQuery(window).scroll(function () {
+            (jci.jQuery(this).scrollTop() > 420) ? $back_to_top.addClass('is-visible') : $back_to_top.removeClass('is-visible fade-out');
+        });
+
+        jci.jQuery('.floating-contact-container').scrollTo();
+
+        jci.contactUsLocationSearch.init(jci.jQuery('.contact-location-search'), "/location-finder");
+
+        jci.jQuery('span.floating-contact-close').click(function () {
+            jci.jQuery('div.floating-contact-container').toggleClass('fade-out');
+        });
+
+        jci.jQuery('span.floating-contact-btn').click(function () {
+            jci.jQuery('div.floating-contact-container').toggleClass('fade-out');
+        });
+
+        // Create browser compatible event handler.
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        // Listen for a message from the iframe.
+        eventer(messageEvent, function (e) {
+            if (isNaN(e.data)) return;
+
+            // replace #sizetracker with what ever what ever iframe id you need
+            document.getElementById('sizetracker').style.height = e.data + 'px';
+
+        }, false);
+
+    });
+</script>
+<script>
+
+    jci.jQuery(function () {
+        jci.stickyFooter.init(jci.jQuery('.request-info-callout'));
+    });
+</script>
+
+
+
+<div class="spacer"></div>
+<div class="footer" style="background-image: url('/-/media/jci/header-and-footer/skylinebuildingsnewyorkskyscrapers.jpg')">
+
+    <div class="footer-content container">
+        <a href="/">
+            <img src='/-/media/jci/corp/homepage/images/jci-logo-color.png' class='footer-logo' alt='jci logo color' />
+        </a>
+            <div class="footer-main-box">
+
+                <div class="footer-row row">
+
+                        <div class="footer-left col-md-2 col-sm-6">
+                            <div class="footer-col-title">
+                                Buildings
+                            </div>
+
+                                <ul class="footer-list">
+                                        <li>
+<a href='/buildings/air-systems' onclick='' >Air Systems</a>                                        </li>
+                                        <li>
+<a href='/buildings/building-management' onclick='' >Building Management</a>                                        </li>
+                                        <li>
+<a href='/buildings/hvac-controls' onclick='' >HVAC Controls</a>                                        </li>
+                                        <li>
+<a href='/buildings/hvac-equipment' onclick='' >HVAC Equipment</a>                                        </li>
+                                        <li>
+<a href='/buildings/security-and-fire-safety' onclick='' >Security and Fire Safety</a>                                        </li>
+                                        <li>
+<a href='/buildings/refrigeration' onclick='' >Refrigeration</a>                                        </li>
+                                        <li>
+<a href='/buildings/services-and-support' onclick='' >Services  and Support</a>                                        </li>
+                                        <li>
+<a href='/buildings/replacement-parts-and-supplies' onclick='' >Replacement Parts and Supplies</a>                                        </li>
+                                        <li>
+<a href='/buildings/solutions-by-industry' onclick='' >Solutions by Industry</a>                                        </li>
+                                        <li>
+<a href='/buildings/our-brands' onclick='' >Our Brands</a>                                        </li>
+                                </ul>
+                        </div>
+                        <div class="footer-left col-md-2 col-sm-6">
+                            <div class="footer-col-title">
+                                Batteries
+                            </div>
+
+                                <ul class="footer-list">
+                                        <li>
+<a href='/batteries/capabilities' onclick='' >Capabilities</a>                                        </li>
+                                        <li>
+<a href='/batteries/applications/passenger-vehicles' onclick='' >Applications</a>                                        </li>
+                                        <li>
+<a href='/batteries/lead-acid-batteries/flood-lead-acid-batteries' onclick='' >Lead-acid Products</a>                                        </li>
+                                        <li>
+<a href='/batteries/lithium-ion-batteries' onclick='' >Lithium-ion Products</a>                                        </li>
+                                        <li>
+<a href='/batteries/battery-recycling' onclick='' >Battery Recycling</a>                                        </li>
+                                </ul>
+                        </div>
+                        <div class="footer-left col-md-2 col-sm-6">
+                            <div class="footer-col-title">
+                                Distributed Energy Storage
+                            </div>
+
+                                <ul class="footer-list">
+                                        <li>
+<a href='/distributed-energy-storage/capabilities' onclick='' >Capabilities</a>                                        </li>
+                                        <li>
+<a href='/distributed-energy-storage/applications' onclick='' >Applications</a>                                        </li>
+                                        <li>
+<a href='/distributed-energy-storage/energy-storage-solutions' onclick='' >Energy Storage Solutions</a>                                        </li>
+                                        <li>
+<a href='/distributed-energy-storage/news-and-resources' onclick='' >News and Resources</a>                                        </li>
+                                </ul>
+                        </div>
+
+                    <div class="footer-divider"></div>
+
+                        <div class="footer-right-1 col-md-2 col-sm-6">
+                            <ul class="footer-list">
+                                    <li>
+<a href='/about-us/our-company' onclick='' >About Us</a>                                    </li>
+                                    <li>
+<a href='/careers/why-johnson-controls' onclick='' >Careers</a>                                    </li>
+                                    <li>
+<a href='/media-center/news' onclick='' >Media</a>                                    </li>
+                                    <li>
+<a href='/investors' onclick='' >Investors</a>                                    </li>
+                                    <li>
+<a href='/insights' onclick='' >Insights</a>                                    </li>
+                                    <li>
+<a href='/corporate-sustainability' onclick='' >Corporate Sustainability</a>                                    </li>
+                                    <li>
+<a href='/about-us/ethics-and-compliance' onclick='' target='_self' >Ethics</a>                                    </li>
+                                    <li>
+<a href='/suppliers' onclick='' target='_self' >Suppliers</a>                                    </li>
+                                    <li>
+<a href='/location-finder' onclick='' target='_self' >Locations</a>                                    </li>
+                                    <li>
+<a href='/contact-us' onclick='' >Contact</a>                                    </li>
+                                    <li>
+<a href='/legal/terms' onclick='' >Legal</a>                                    </li>
+                            </ul>
+                        </div>
+
+
+                    <div class="footer-right-2 col-md-4 col-sm-6">
+
+                            <div class="footer-country">
+                                <a href="/site-selector-page" target="">
+                                    <i class="fa fa-globe"></i>
+                                    Select a Country
+                                </a>
+                                
+                            </div>
+
+                        <div class="footer-social-container">
+                                <a href="https://www.facebook.com/JohnsonControls" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-facebook"></i>
+                                </a>
+                                <a href="https://twitter.com/johnsoncontrols" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-twitter"></i>
+                                </a>
+                                <a href="https://www.youtube.com/user/JohnsonControlsInc/JohnsonControls" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-youtube"></i>
+                                </a>
+                                <a href="https://www.linkedin.com/company/johnson-controls" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-linkedin"></i>
+                                </a>
+                                <a href="https://www.instagram.com/johnsoncontrols/" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-instagram"></i>
+                                </a>
+                        </div>
+                    </div>
+
+                    <div class="footer-copy">
+                        <p>© 2017 Johnson Controls. All Rights Reserved | <a href="http://www.miitbeian.gov.cn" target="_blank">沪ICP备16004024号</a></p>
+                    </div>
+                </div>
+            </div>
+</div>
+</div>
+
+    </div>
+    
+    
+
+<script>
+    jci.jQuery(function () {
+        var enableTweetQuote = 1; 
+        jci.tweetQuote.init(enableTweetQuote, window.location.href, "Share On Twitter");
+
+    });
+</script>
+
+    <script type="text/javascript">
+
+    piAId = '55162';
+    piCId = '1020';
+
+    (function () {
+        function async_load() {
+            var s = document.createElement('script'); s.type = 'text/javascript';
+            s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+            var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+        }
+        if (window.attachEvent) { window.attachEvent('onload', async_load); }
+        else { window.addEventListener('load', async_load, false); }
+    })();
+
+</script>
+
+    <script type="text/javascript">
+    (function() {
+        var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+        sz.src = '//siteimproveanalytics.com/js/siteanalyze_33556.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+        })();
+</script>
+
+
+        <!--ServerName: PRODCD1 -->
+
+</body>
+</html>

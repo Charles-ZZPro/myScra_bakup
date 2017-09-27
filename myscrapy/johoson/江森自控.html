@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <title>江森自控</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+    <script>
+        $(function () {
+            document.addEventListener('touchmove', function(event) {
+                if(!$(".page").is(":hidden")){
+                    event.preventDefault();
+                } else {
+                    if(event.target.type == 'range') return;
+                }
+            });
+        });
+    </script>
+</head>
+<body class="home">
+
+<div class="page">
+    <img class="logo" src="images/logo.png">
+    <nav class="menu">
+        <a class="about" href="about.html" title="我们的公司"></a>
+        <a class="case" href="http://johnson.miso-lab.com/case.html" title="案例与实践"></a>
+        <a class="video" href="http://johnson.miso-lab.com/video.html" title="精彩视频"></a>
+        <a class="energy" href="http://johnson.miso-lab.com/energy.html" title="智慧能效"></a>
+        <a class="corporate" href="http://johnson.miso-lab.com/corporate.html" title="可持续发展"></a>
+        <!--<a href="/operate.html" title="卓越运营"></a>-->
+    </nav>
+</div>
+
+
+</body></html>

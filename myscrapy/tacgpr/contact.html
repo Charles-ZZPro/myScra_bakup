@@ -1,0 +1,265 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>联系我们-上海韬诚公关咨询有限公司</title>
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="js/modernizr.js"></script>
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery.slicebox.js"></script>
+<script type="text/javascript">
+			$(function() {
+				
+				var Page = (function() {
+
+					var $navArrows = $( '#nav-arrows' ).hide(),
+						$navOptions = $( '#nav-options' ).hide(),
+						$shadow = $( '#shadow' ).hide(),
+						slicebox = $( '#sb-slider' ).slicebox( {
+							onReady : function() {
+
+								$navArrows.show();
+								$navOptions.show();
+								$shadow.show();
+
+							},
+							orientation : 'h',
+							cuboidsCount : 4
+						} ),
+						
+						init = function() {
+
+							initEvents();
+							
+						},
+						initEvents = function() {
+
+							// add navigation events
+							$navArrows.children( ':first' ).on( 'click', function() {
+
+								slicebox.next();
+								return false;
+
+							} );
+
+							$navArrows.children( ':last' ).on( 'click', function() {
+								
+								slicebox.previous();
+								return false;
+
+							} );
+						
+							slicebox.play();return false;
+
+							
+
+						};
+
+						return { init : init };
+
+				})();
+
+				Page.init();
+
+			});
+			
+		</script>
+<style type="text/css">
+    html,body{margin:0;padding:0;}
+    .iw_poi_title {color:#CC5522;font-size:14px;font-weight:bold;overflow:hidden;padding-right:13px;white-space:nowrap}
+    .iw_poi_content {font:12px arial,sans-serif;overflow:visible;padding-top:4px;white-space:-moz-pre-wrap;word-wrap:break-word}
+</style>
+<script type="text/javascript" src="http://api.map.baidu.com/api?key=&v=1.1&services=true"></script>
+</head>
+
+<body>
+<div class="detail">
+  <div class="pic4">
+ <div class="top">
+  
+    <div class="logoAndNav">
+    <div class="logo_bg"></div>
+      <div class="logo"><a href="#"><img src="images/logo.png" width="125px"></a></div>
+  
+      <div class="nav">
+         <ul>
+          <li><a href="index.html">首页</a><span>|</span></li>
+           <li><a href="about.html">关于我们</a><span>|</span></li>
+          <li><a href="service.html">我们的服务</a><span>|</span></li>
+          <li><a href="case.html">我们的客户</a><span>|</span></li>
+            <li><a href="join.html">加入我们</a><span>|</span></li>
+          <li><a href="contact.html" class="hover">联系我们</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="clear"></div>
+  </div>
+    <div class="clear"></div>
+    <div class="aboutUs">
+      
+      <div class="aboutUs_top"></div>
+      <div class="aboutUs_middle">
+           <div class="container">
+            <div class="wrapper">
+              <ul id="sb-slider" class="sb-slider">
+			  
+				 <li><img src="images/banner4.jpg" title=""/></li>
+           </ul>
+            
+            </div>
+            <!-- /wrapper --> 
+            
+          </div>
+       
+       
+      </div>
+
+      <div class="company">
+        <dl class="company1">
+          <h2>联系我们</h2>
+          <dd>
+            <p>地址：上海市徐汇区肇嘉浜路798号坤阳国际商务广场1609室<br>
+邮编：200030<br>
+电话：86-21-6445 1559<br>交通<br>
+地铁：9号线、7号线、1号线<br>
+公交：42路、43路、171路、548路、205路、806路、864路、50路、徐闵线、957路、927路
+</p>
+            
+            <div style="width:960px;margin:0 atuo"><img src="images/contactditu.jpg" width="960px"/></div>
+          </dd>
+        </dl>
+        <div class="clear"></div>
+       
+
+      </div>
+    </div><!-- #BeginLibraryItem "/Library/footer.lbi" -->
+<!-- start .copyright -->
+
+<div class="copyright">
+  <div class="shadow">
+    <div class="footer">
+     <!--  <div class="footer_left">关注我们:</div>
+      <div class="sns">
+        <ul>
+         
+          <li class="weibo"><a href="#" target="_blank">新浪微博</a></li>
+          <li class="weibo"><a href="#" target="_blank">腾讯微博</a></li>
+          <li class="weibo"><a href="#" target="_blank">微信</a></li>
+          
+        </ul>
+      </div> -->
+      <div class="footer_right"> 
+      
+        <p>©2015 上海韬诚公关咨询有限公司&nbsp;&nbsp;&nbsp;&nbsp; 沪ICP备0000000 </p>
+      </div>
+    </div>
+    <div class="clear"></div>
+  </div>
+</div>
+
+<!-- end .copyright --><!-- #EndLibraryItem --></div>
+</div><!--[if lt IE 9]>
+<script type="text/javascript">$.debugBGS = true;</script>
+<script type="text/javascript" src="js/jquery.backgroundSize.js"></script>
+<script type="text/javascript">
+$(".detail").css({backgroundSize: "cover"});
+</script><![endif]-->
+<script type="text/javascript">
+    //创建和初始化地图函数：
+    function initMap(){
+        createMap();//创建地图
+        setMapEvent();//设置地图事件
+        addMapControl();//向地图添加控件
+        addMarker();//向地图中添加marker
+    }
+    
+    //创建地图函数：
+    function createMap(){
+        var map = new BMap.Map("dituContent");//在百度地图容器中创建一个地图
+        var point = new BMap.Point(121.45322,31.203796);//定义一个中心点坐标
+        map.centerAndZoom(point,17);//设定地图的中心点和坐标并将地图显示在地图容器中
+        window.map = map;//将map变量存储在全局
+    }
+    
+    //地图事件设置函数：
+    function setMapEvent(){
+        map.enableDragging();//启用地图拖拽事件，默认启用(可不写)
+        map.enableScrollWheelZoom();//启用地图滚轮放大缩小
+        map.enableDoubleClickZoom();//启用鼠标双击放大，默认启用(可不写)
+        map.enableKeyboard();//启用键盘上下左右键移动地图
+    }
+    
+    //地图控件添加函数：
+    function addMapControl(){
+        //向地图中添加缩放控件
+	var ctrl_nav = new BMap.NavigationControl({anchor:BMAP_ANCHOR_TOP_LEFT,type:BMAP_NAVIGATION_CONTROL_LARGE});
+	map.addControl(ctrl_nav);
+        //向地图中添加缩略图控件
+	var ctrl_ove = new BMap.OverviewMapControl({anchor:BMAP_ANCHOR_BOTTOM_RIGHT,isOpen:1});
+	map.addControl(ctrl_ove);
+        //向地图中添加比例尺控件
+	var ctrl_sca = new BMap.ScaleControl({anchor:BMAP_ANCHOR_BOTTOM_LEFT});
+	map.addControl(ctrl_sca);
+    }
+    
+    //标注点数组
+    var markerArr = [{title:"海韬诚公关咨询有限公司",content:"地址：上海市徐汇区肇嘉浜路798号昆阳国际商务广场1609室<br/>邮编：200030<br/>电话：86-21-6445&nbsp;1559",point:"121.45287|31.204816",isOpen:0,icon:{w:23,h:25,l:46,t:21,x:9,lb:12}}
+		 ];
+    //创建marker
+    function addMarker(){
+        for(var i=0;i<markerArr.length;i++){
+            var json = markerArr[i];
+            var p0 = json.point.split("|")[0];
+            var p1 = json.point.split("|")[1];
+            var point = new BMap.Point(p0,p1);
+			var iconImg = createIcon(json.icon);
+            var marker = new BMap.Marker(point,{icon:iconImg});
+			var iw = createInfoWindow(i);
+			var label = new BMap.Label(json.title,{"offset":new BMap.Size(json.icon.lb-json.icon.x+10,-20)});
+			marker.setLabel(label);
+            map.addOverlay(marker);
+            label.setStyle({
+                        borderColor:"#808080",
+                        color:"#333",
+                        cursor:"pointer"
+            });
+			
+			(function(){
+				var index = i;
+				var _iw = createInfoWindow(i);
+				var _marker = marker;
+				_marker.addEventListener("click",function(){
+				    this.openInfoWindow(_iw);
+			    });
+			    _iw.addEventListener("open",function(){
+				    _marker.getLabel().hide();
+			    })
+			    _iw.addEventListener("close",function(){
+				    _marker.getLabel().show();
+			    })
+				label.addEventListener("click",function(){
+				    _marker.openInfoWindow(_iw);
+			    })
+				if(!!json.isOpen){
+					label.hide();
+					_marker.openInfoWindow(_iw);
+				}
+			})()
+        }
+    }
+    //创建InfoWindow
+    function createInfoWindow(i){
+        var json = markerArr[i];
+        var iw = new BMap.InfoWindow("<b class='iw_poi_title' title='" + json.title + "'>" + json.title + "</b><div class='iw_poi_content'>"+json.content+"</div>");
+        return iw;
+    }
+    //创建一个Icon
+    function createIcon(json){
+        var icon = new BMap.Icon("http://app.baidu.com/map/images/us_mk_icon.png", new BMap.Size(json.w,json.h),{imageOffset: new BMap.Size(-json.l,-json.t),infoWindowOffset:new BMap.Size(json.lb+5,1),offset:new BMap.Size(json.x,json.h)})
+        return icon;
+    }
+    
+    initMap();//创建和初始化地图
+</script>
+</body>
+</html>

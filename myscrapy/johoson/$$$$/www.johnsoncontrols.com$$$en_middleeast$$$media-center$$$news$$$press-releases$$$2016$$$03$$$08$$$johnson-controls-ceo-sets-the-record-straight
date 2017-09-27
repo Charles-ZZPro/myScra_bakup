@@ -1,0 +1,769 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6 en" lang="en" > <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7 en" lang="en" > <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8 en" lang="en" > <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="en" class="en">
+<!--<![endif]-->
+
+<head>
+
+    <script>
+        var jci = {};
+        jci.virtualFolder = '/en_middleeast/';
+    </script>
+
+    
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+
+<title>Johnson Controls&#39; CEO sets the record straight</title>
+<link rel="canonical" href="http://www.johnsoncontrols.com/en_middleeast/media-center/news/press-releases/2016/03/08/johnson-controls-ceo-sets-the-record-straight" />
+<meta name="description" content="In an op-ed on the Detroit Free Press website, Johnson Controls Chairman and CEO Alex Molinaroli refutes erroneous accusations that the company was in financial distress and sought funds from the..." />
+<meta name="keywords" content="" />
+
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0066/3434.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+<link rel="image_src" href="" />
+<meta property="og:title" content="Johnson Controls&#39; CEO sets the record straight" />
+<meta property="og:description" content="In an op-ed on the Detroit Free Press website, Johnson Controls Chairman and CEO Alex Molinaroli refutes erroneous accusations that the company was in financial distress and sought funds from the..." />
+<meta property="og:url" content="http://www.johnsoncontrols.com/en_middleeast/media-center/news/press-releases/2016/03/08/johnson-controls-ceo-sets-the-record-straight" />
+<meta property="og:image" content=""/>
+
+    <meta property="og:site_name" content="Johnson Controls&#39; CEO sets the record straight" />
+
+
+    
+<link rel="shortcut icon" type="image/x-icon">
+<link rel="icon" href="/en_middleeast/-/media/jci/corp/homepage/images/jci.png" type="image/png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/en_middleeast/-/media/jci/corp/homepage/images/jci_76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/en_middleeast/-/media/jci/corp/homepage/images/jci_120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/en_middleeast/-/media/jci/corp/homepage/images/jci_150x150.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/en_middleeast/-/media/jci/corp/homepage/images/jci_180x180.png">
+    
+<link href="/include/jci_com/vendor/css/bootstrap/bootstrap.min.css" rel="stylesheet"/>
+
+<link href="/include/jci_com/vendor/css/ScrollPane/jscrollpane.css" rel="stylesheet"/>
+<link href="/include/jci_com/vendor/css/FontAwesome/font-awesome.css" rel="stylesheet"/>
+
+<link href="/include/jci_com/Local/css/jci.css" rel="stylesheet"/>
+
+
+<script src="/include/jci_com/vendor/scripts/jquery/jquery-1.11.3.min.js"></script>
+
+<script src="/include/jci_com/vendor/scripts/plugins/jquery-scrollto.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jquery.validate.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jquery.validate.unobtrusive.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jQueryUI.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jquery.cookie.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/ellipsis.js"></script>
+<script src="/include/jci_com/vendor/scripts/foolproof/mvcfoolproof.unobtrusive.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/bootstrap/bootstrap.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/knockout/knockout-3.3.0.js"></script>
+<script src="/include/jci_com/vendor/scripts/freewall/freewall.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/jQuery.mousewheel.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/jquery.jscrollpane.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/SelectBoxPlugin.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/iframeResizer.min.js"></script>
+
+<script src="/include/jci_com/local/scripts/jci.jQuery.js"></script>
+<script src="/include/jci_com/local/scripts/jci.constants.js"></script>
+<script src="/include/jci_com/local/scripts/jci.utilities.js"></script>
+<script src="/include/jci_com/local/scripts/jci.resize-event.js"></script>
+<script src="/include/jci_com/local/scripts/jci.navigation.js"></script>
+<script src="/include/jci_com/local/scripts/jci.cookies.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-us-sublayout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.filters-base.js"></script>
+<script src="/include/jci_com/local/scripts/jci.observable-filter.js"></script>
+<script src="/include/jci_com/local/scripts/jci.search-input.js"></script>
+<script src="/include/jci_com/local/scripts/jci.paging.js"></script>
+<script src="/include/jci_com/local/scripts/jci.search-base.js"></script>
+<script src="/include/jci_com/local/scripts/jci.media-resource-search-result-base.js"></script>
+<script src="/include/jci_com/local/scripts/jci.experts-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.experts-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.full-site-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.full-site-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.insights-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.media-news-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.insights-list.js"></script>
+<script src="/include/jci_com/local/scripts/jci.insights-sharing.js"></script>
+<script src="/include/jci_com/local/scripts/jci.image-resource-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.video-resource-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.media-resources-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.social-sharing.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-us-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.product-contact-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.resource-links.js"></script>
+<script src="/include/jci_com/local/scripts/jci.resource-download-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.stock-ticker.js"></script>
+<script src="/include/jci_com/local/scripts/jci.sticky-footer.js"></script>
+<script src="/include/jci_com/local/scripts/jci.video-banner.js"></script>
+<script src="/include/jci_com/local/scripts/jci.tabs.js"></script>
+<script src="/include/jci_com/local/scripts/jci.product-filters.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-us-location-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.country-dropdown.js"></script>
+<script src="/include/jci_com/local/scripts/jci.job-search-callout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.image-and-video-gallery.js"></script>
+<script src="/include/jci_com/local/scripts/jci.leadership.js"></script>
+<script src="/include/jci_com/local/scripts/jci.related-callout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.search-overlay.js"></script>
+<script src="/include/jci_com/local/scripts/jci.tweet-quote.js"></script>
+<script src="/include/jci_com/local/scripts/jci.article-sublayout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.preview-mode.js"></script>
+
+
+    <!--Commenting the next line out.  to reenable add the at symbol before the html-->
+    <!--Html.Partial("~/Views/JCI_com/Renderings/Analytics/WebTrends.cshtml")-->
+    <script src="/Include/JCI_com/Vendor/Scripts/WebTrends/webtrends.load.js"></script>
+  
+    <!--[if IE]>
+        <link href="JCI_com/Local/Css/JCI-IE9.css" rel="stylesheet" />
+    <![endif]-->
+    
+    
+<meta name="VIcurrentDateTime" content="636374283683872710" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+
+</head>
+
+<body class="">
+
+    <div class="page-layout">
+        
+<!--SEARCH-->
+<div class="search-overlay">
+
+    <div class="search-overlay-background"></div>
+
+    <div class="search-overlay-main">
+
+        <div class="search-overlay-input-wrapper">
+
+            <input class="search-text-input" type="text" placeholder="Search" />
+
+            <div class="overlay-search-submit">
+
+                <div class="submit-btn">
+                    <div class="icon-search">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="search-overlay-close search-overlay-btn">X Close</div>
+    </div>
+</div>
+
+<script>
+
+    jci.jQuery(function () {
+        jci.searchOverlay.init(".search-overlay", "/en_middleeast/search");
+    });
+</script>
+
+    <div class="cookie-header">
+
+        <div class="text">
+            <div>
+<p>This site uses cookies to offer you a better browsing experience. By clicking Approve, you consent to the use of cookies on your device as described in our <a href="/en_middleeast/legal/privacy">privacy notice.</a></p>
+</div>
+        </div>
+
+        <div class="approve-cookie">
+            Approve
+        </div>
+
+    </div>
+
+<script>
+    jci.cookies.init(
+        "JohnsonControls-Johnson Controls | Middle East - AcceptsCookies",
+        "true",
+        "true");
+
+    jci.previewMode.init("true");
+</script>
+
+
+
+
+<!--MENU-->
+<div class="menu-dropdown off-right">
+
+    <div class="menu-lists-container sticker" id="sticker">
+            <div class="panel-group menu-scroll-list" id="accordion" role="tablist" aria-multiselectable="true">
+                    <div class="panel">
+
+                        <div class="panel-heading" role="tab" id="menuba61f462-e673-426f-bd1e-c319f7386487">
+                            <h4 class="panel-title">
+                                    <a class="collapsed"
+                                       data-toggle="collapse"
+                                       data-parent="#accordion"
+                                       href="#buildings"
+                                       aria-expanded="false"
+                                       aria-controls="buildings"
+                                       onclick="">
+                                        <i class="dropdown-icon icon icon-buildings"></i>
+                                        <span class="menu-heading title-buildings">Buildings</span>
+                                    </a>
+                            </h4>
+                        </div>
+
+                            <div id="buildings" 
+                                 class="panel-collapse collapse" 
+                                 role="tabpanel" 
+                                 aria-labelledby="menuba61f462-e673-426f-bd1e-c319f7386487">
+
+                                <div class="panel-body">
+
+                                    <ul class="menu-accordian-items">
+                                            <li class="accordian-item">
+<a href='/en_middleeast/buildings/air-systems-contact-page' onclick='' >Air Systems</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/en_middleeast/buildings/building-management' onclick='' >Building Management</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/en_middleeast/buildings/hvac-controls' onclick='' >HVAC Controls</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/en_middleeast/buildings/hvac-equipment' onclick='' >HVAC Equipment</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/en_middleeast/buildings/refrigeration' onclick='' >Refrigeration</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/en_middleeast/buildings/services-and-support-contact-page' onclick='' target='_self' >Services and Support</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/en_middleeast/buildings/security-and-fire-safety' onclick='' >Security and Fire Safety</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/en_middleeast/buildings/solutions-by-industry' onclick='' >Solutions by Industry</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/en_middleeast/buildings/replacement-parts-and-supplies-contact-page' onclick='' >Replacement Parts and Supplies</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/en_middleeast/buildings/our-brands' onclick='' >Our Brands</a>                                            </li>
+                                    </ul>
+
+
+
+                                </div>
+                            </div>
+                    </div>
+                    <div class="panel">
+
+                        <div class="panel-heading" role="tab" id="menu1eea3875-3fea-45ca-9a5c-7bbb31087b8d">
+                            <h4 class="panel-title">
+                                    <a class ="collapsed" href="/en_middleeast/batteries" onclick="var ">
+                                        <i class="dropdown-icon icon icon-battery"></i>
+                                        <span class="menu-heading title-battery">Batteries</span>
+                                    </a>
+                            </h4>
+                        </div>
+
+                    </div>
+            </div>
+
+                <div class="menu-divider"></div>
+                <ul class="menu-main-categories">
+                        <li class="menu-category">
+<a href='/en_middleeast/our-company' onclick='' >About Us</a>                        </li>
+                        <li class="menu-category">
+<a href='/en_middleeast/careers/why-johnson-controls' onclick='' >Careers</a>                        </li>
+                        <li class="menu-category">
+<a href='/en_middleeast/media-center/news' onclick='' >Media</a>                        </li>
+                        <li class="menu-category">
+<a href='/investors' onclick='' >Investors (U.S. Site)</a>                        </li>
+                        <li class="menu-category">
+<a href='/en_middleeast/insights' onclick='' >Insights</a>                        </li>
+                        <li class="menu-category">
+<a href='/en_middleeast/contact-us' onclick='' >Contact</a>                        </li>
+                </ul>
+
+                <div class="menu-divider"></div>
+            <div class="menu-social-container">
+                    <a href="https://www.facebook.com/JohnsonControls" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-facebook"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/company/johnson-controls" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://twitter.com/johnsoncontrols" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                    <a href="https://www.youtube.com/user/JohnsonControlsInc/JohnsonControls" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-youtube"></i>
+                    </a>
+            </div>
+    </div>
+</div>
+
+
+
+<div class="menu-shadow-overlay">
+
+</div>
+
+<div class="header initial-load-2 load-animations" >
+    <a href="/en_middleeast">
+        <img src='/en_middleeast/-/media/jci/corp/homepage/images/jci-logo-black-and-white.png' class='logo header-logo' alt='jci logo black and white' />
+    </a>
+
+
+    <div class="header-items">
+
+        <div class="header-search search-overlay-btn">
+            <div class="icon-search"></div>
+        </div>
+
+        <div class="header-text">
+            
+        </div>
+
+    </div>
+
+    <div class="menu-btn">
+        <!--
+        <div class="menu-burger">
+            <div class="icon-menu"></div>
+            <div class="icon icon-menu-closed"></div>
+        </div>
+        -->
+        <div class="nav-icon" id="nav-icon">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+
+        <div class="text">
+            Menu
+        </div>
+    </div>
+</div>    <div class="breadcrumb-control">
+        
+        <ol class="breadcrumb">
+                    <li class="">
+
+Media Center                    </li>
+                    <li class="">
+
+                            <a href="/en_middleeast/media-center/news">
+                                News
+                                
+                            </a>
+                    </li>
+                    <li class="active">
+
+                            <a href="/en_middleeast/media-center/news/press-releases/2016/03/08/johnson-controls-ceo-sets-the-record-straight">
+                                Johnson Controls&#39; CEO sets the record straight
+                                
+                            </a>
+                    </li>
+
+        </ol>
+
+    </div>
+
+        
+<div class="container main-content">
+
+    <div class="article-rendering">
+
+        <div class="article-outer-container">
+                <div class="article-title">
+        <h1>Johnson Controls' CEO sets the record straight</h1>
+    </div>
+
+
+        </div>
+
+        <div class="article-inner-container">
+            
+<div class="article-share">
+
+    <div class="article-share-popout">
+
+        <div class="article-share-right-triangle">
+        </div>
+
+        <div class="article-share-left-triangle">
+        </div>
+
+        <div>
+            Share On
+        </div>
+
+        <ul>
+                    <li data-link="https://www.facebook.com/sharer/sharer.php?u={url}" 
+                        data-site-name="Facebook"
+                        data-article-title="Johnson Controls&#39; CEO sets the record straight" 
+                        class="social-sharing-link">
+                        <i class="fa fa-facebook"></i>Facebook
+                    </li>
+                    <li data-link="https://www.linkedin.com/shareArticle?url={url}" 
+                        data-site-name="LinkedIn"
+                        data-article-title="Johnson Controls&#39; CEO sets the record straight" 
+                        class="social-sharing-link">
+                        <i class="fa fa-linkedin"></i>LinkedIn
+                    </li>
+                    <li data-link="https://twitter.com/intent/tweet?url={url}&amp;text={title}" 
+                        data-site-name="Twitter"
+                        data-article-title="Johnson Controls&#39; CEO sets the record straight" 
+                        class="social-sharing-link">
+                        <i class="fa fa-twitter"></i>Twitter
+                    </li>
+                    <li data-link="" 
+                        data-site-name="YouTube"
+                        data-article-title="Johnson Controls&#39; CEO sets the record straight" 
+                        class="social-sharing-link">
+                        <i class="fa fa-youtube"></i>YouTube
+                    </li>
+            
+            <li>
+                <a href="mailto:?subject=I would like to share this page with you:Johnson Controls&#39; CEO sets the record straight&body=http://www.johnsoncontrols.com/en_middleeast/media-center/news/press-releases/2016/03/08/johnson-controls-ceo-sets-the-record-straight">
+                    <i class="fa fa-envelope-o"></i>Contact Us
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div class="article-share-ui">
+        <div class="article-share-icon">
+            <span class="icon icon-share"></span>
+        </div>
+
+        <div class="text">
+            Share
+        </div>
+    </div>
+</div>
+
+<script>
+    jci.socialSharingLinks.init(window.location.href, "li.social-sharing-link");
+</script>    <div class="article-main-content">
+        <div class="article-subtitle">
+            <h3>Company did not take federal funds in auto bailout</h3>
+        </div>
+
+        <style type="text/css">
+
+
+/* Style Definitions */
+span.prnews_span
+{
+font-size:8pt;
+font-family:"Arial";
+color:black;
+}
+a.prnews_a
+{
+color:blue;
+}
+li.prnews_li
+{
+font-size:8pt;
+font-family:"Arial";
+color:black;
+}
+p.prnews_p
+{
+font-size:0.62em;
+font-family:"Arial";
+color:black;
+margin:0in;
+}
+.prngen3{
+BORDER-TOP:1pt; BORDER-RIGHT:1pt; VERTICAL-ALIGN: BOTTOM; BORDER-BOTTOM:1pt; PADDING-LEFT:0.50em; BORDER-LEFT:1pt; PADDING-RIGHT:0.50em
+}
+.prnpr6{
+PADDING-RIGHT:0.50em
+}
+.prnsbr1{
+BORDER-RIGHT:1pt
+}
+.prnpl6{
+PADDING-LEFT:0.50em
+}
+.prnsbl1{
+BORDER-LEFT:1pt
+}
+.prnvat{
+VERTICAL-ALIGN: TOP
+}
+.prntblns{
+BORDER-TOP: 1pt; BORDER-RIGHT: 1pt; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: 1pt; BORDER-LEFT: 1pt
+}
+.prnsbb1{
+BORDER-BOTTOM:1pt
+}
+.prnsbt1{
+BORDER-TOP:1pt
+}
+
+</style>
+
+<p><span class="xn-location">MILWAUKEE</span>, <span class="xn-chron">March 8, 2016</span> /PRNewswire/ -- In an op-ed on the <a href="http://www.freep.com/story/opinion/contributors/2016/03/07/johnson-controls-ceo-supplier-never-received-auto-bailout-money/81457292/" target="_blank" rel="nofollow">Detroit Free Press</a> website, Johnson Controls Chairman and CEO <span class="xn-person">Alex Molinaroli</span> refutes erroneous accusations that the company was in financial distress and sought funds from the federal government in 2008 as part of the U.S. auto industry bailout. </p>
+
+<p>These inaccurate attacks have become a recurring theme in stump speeches, debates and campaign ads during this presidential campaign season. In the op-ed Molinaroli lays out the truth about the company's actions and ongoing contributions to the U.S. economy.  </p>
+
+<p><a href="http://www.johnsoncontrols.com/insights/2016/enterprise/in-the-news/op-ed" target="_blank" rel="nofollow">Read the entire op-ed</a>.</p>
+
+<p><b><u>About Johnson Controls:</u></b></p>
+
+<p>Johnson Controls is a global diversified technology and industrial leader serving customers in more than 150 countries. Our 150,000 employees create quality products, services and solutions to optimize energy and operational efficiencies of buildings; lead-acid automotive batteries and advanced batteries for hybrid and electric vehicles; and seating components and systems for automobiles. Our commitment to sustainability dates back to our roots in 1885, with the invention of the first electric room thermostat. Through our growth strategies and by increasing market share we are committed to delivering value to shareholders and making our customers successful. In 2015, <i>Corporate Responsibility Magazine </i>recognized Johnson Controls as the #14 company in its annual &quot;100 Best Corporate Citizens&quot; list. For additional information, please visit <a href="http://www.johnsoncontrols.com" rel="nofollow">http://www.johnsoncontrols.com</a> or follow us @johnsoncontrols on Twitter.</p>
+
+<div>
+<table cellspacing="0" cellpadding="0" border="0" class="prntblns"><tr>
+<td class="prnsbt1 prnsbr1 prnvat prnsbb1 prnpl6 prnsbl1 prnpr6">
+<p class="prnews_p"><span class="prnews_span">CONTACT:</span></p>
+</td>
+<td class="prngen3">
+<p class="prnews_p"><span class="prnews_span">Fraser Engerman</span></p>
+
+<p class="prnews_p"><span class="prnews_span">414-524-2733</span></p>
+
+<p class="prnews_p"><span class="prnews_span"><a class="prnews_a" href="mailto:fraser.engerman@jci.com" target="_blank" rel="nofollow">fraser.engerman@jci.com</a></span></p>
+</td>
+<td class="prngen3"><br/></td></tr></table></div>
+<p> </p>
+
+
+<p>SOURCE  Johnson Controls</p>
+
+        <div class="block-quote">
+            
+        </div>
+
+        
+    </div>
+
+<div class="article-share">
+
+    <div class="article-share-popout">
+
+        <div class="article-share-right-triangle">
+        </div>
+
+        <div class="article-share-left-triangle">
+        </div>
+
+        <div>
+            Share On
+        </div>
+
+        <ul>
+                    <li data-link="https://www.facebook.com/sharer/sharer.php?u={url}" 
+                        data-site-name="Facebook"
+                        data-article-title="Johnson Controls&#39; CEO sets the record straight" 
+                        class="social-sharing-link">
+                        <i class="fa fa-facebook"></i>Facebook
+                    </li>
+                    <li data-link="https://www.linkedin.com/shareArticle?url={url}" 
+                        data-site-name="LinkedIn"
+                        data-article-title="Johnson Controls&#39; CEO sets the record straight" 
+                        class="social-sharing-link">
+                        <i class="fa fa-linkedin"></i>LinkedIn
+                    </li>
+                    <li data-link="https://twitter.com/intent/tweet?url={url}&amp;text={title}" 
+                        data-site-name="Twitter"
+                        data-article-title="Johnson Controls&#39; CEO sets the record straight" 
+                        class="social-sharing-link">
+                        <i class="fa fa-twitter"></i>Twitter
+                    </li>
+                    <li data-link="" 
+                        data-site-name="YouTube"
+                        data-article-title="Johnson Controls&#39; CEO sets the record straight" 
+                        class="social-sharing-link">
+                        <i class="fa fa-youtube"></i>YouTube
+                    </li>
+            
+            <li>
+                <a href="mailto:?subject=I would like to share this page with you:Johnson Controls&#39; CEO sets the record straight&body=http://www.johnsoncontrols.com/en_middleeast/media-center/news/press-releases/2016/03/08/johnson-controls-ceo-sets-the-record-straight">
+                    <i class="fa fa-envelope-o"></i>Contact Us
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div class="article-share-ui">
+        <div class="article-share-icon">
+            <span class="icon icon-share"></span>
+        </div>
+
+        <div class="text">
+            Share
+        </div>
+    </div>
+</div>
+
+<script>
+    jci.socialSharingLinks.init(window.location.href, "li.social-sharing-link");
+</script>
+
+
+        </div>
+    </div>
+</div>
+
+<script>
+    jci.ArticleSublayout.init();
+</script>
+        
+
+
+<div class="spacer"></div>
+<div class="footer" style="background-image: url('/en_middleeast/-/media/jci/header-and-footer/skylinebuildingsnewyorkskyscrapers.jpg')">
+
+    <div class="footer-content container">
+        <a href="/en_middleeast">
+            <img src='/en_middleeast/-/media/jci/corp/homepage/images/jci-logo-color.png' class='footer-logo' alt='jci logo color' />
+        </a>
+            <div class="footer-main-box">
+
+                <div class="footer-row row">
+
+                        <div class="footer-left col-md-2 col-sm-6">
+                            <div class="footer-col-title">
+                                Buildings
+                            </div>
+
+                                <ul class="footer-list">
+                                        <li>
+<a href='/en_middleeast/buildings/air-systems-contact-page' onclick='' >Air Systems</a>                                        </li>
+                                        <li>
+<a href='/en_middleeast/buildings/building-management' onclick='' >Building Management</a>                                        </li>
+                                        <li>
+<a href='/en_middleeast/buildings/hvac-controls' onclick='' >HVAC Controls</a>                                        </li>
+                                        <li>
+<a href='/en_middleeast/buildings/hvac-equipment' onclick='' >HVAC Equipment</a>                                        </li>
+                                        <li>
+<a href='/en_middleeast/buildings/refrigeration' onclick='' >Refrigeration</a>                                        </li>
+                                        <li>
+<a href='/en_middleeast/buildings/services-and-support-contact-page' onclick='' target='_self' >Services and Support</a>                                        </li>
+                                        <li>
+<a href='/en_middleeast/buildings/security-and-fire-safety' onclick='' >Security and Fire Safety</a>                                        </li>
+                                        <li>
+<a href='/en_middleeast/buildings/solutions-by-industry' onclick='' >Solutions by Industry</a>                                        </li>
+                                        <li>
+<a href='/en_middleeast/buildings/replacement-parts-and-supplies-contact-page' onclick='' >Replacement Parts and Supplies</a>                                        </li>
+                                        <li>
+<a href='/en_middleeast/buildings/our-brands' onclick='' >Our Brands</a>                                        </li>
+                                </ul>
+                        </div>
+                        <div class="footer-left col-md-2 col-sm-6">
+                            <div class="footer-col-title">
+                                Batteries
+                            </div>
+
+                                <ul class="footer-list">
+                                        <li>
+<a href='/en_middleeast/batteries' onclick='' >About Batteries</a>                                        </li>
+                                </ul>
+                        </div>
+
+                    <div class="footer-divider"></div>
+
+                        <div class="footer-right-1 col-md-2 col-sm-6">
+                            <ul class="footer-list">
+                                    <li>
+<a href='/en_middleeast/our-company' onclick='' >About Us</a>                                    </li>
+                                    <li>
+<a href='/en_middleeast/careers/why-johnson-controls' onclick='' >Careers</a>                                    </li>
+                                    <li>
+<a href='/en_middleeast/media-center/news' onclick='' >Media</a>                                    </li>
+                                    <li>
+<a href='/en_middleeast/insights' onclick='' >Insights</a>                                    </li>
+                                    <li>
+<a href='/investors' onclick='' >Investors (U.S. Site)</a>                                    </li>
+                                    <li>
+<a href='/en_middleeast/contact-us' onclick='' >Contact</a>                                    </li>
+                                    <li>
+<a href='/en_middleeast/legal/terms' onclick='' >Legal</a>                                    </li>
+                            </ul>
+                        </div>
+
+
+                    <div class="footer-right-2 col-md-6 col-sm-6">
+
+                            <div class="footer-country">
+                                <a href="/site-selector-page" target="Active Browser">
+                                    <i class="fa fa-globe"></i>
+                                    Select a Country
+                                </a>
+                                
+                            </div>
+
+                        <div class="footer-social-container">
+                                <a href="https://www.facebook.com/JohnsonControls" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-facebook"></i>
+                                </a>
+                                <a href="https://www.linkedin.com/company/johnson-controls" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-linkedin"></i>
+                                </a>
+                                <a href="https://twitter.com/johnsoncontrols" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-twitter"></i>
+                                </a>
+                                <a href="https://www.youtube.com/user/JohnsonControlsInc/JohnsonControls" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-youtube"></i>
+                                </a>
+                        </div>
+                    </div>
+
+                    <div class="footer-copy">
+                        <p>© 2016 Johnson Controls. All Rights Reserved</p>
+                    </div>
+                </div>
+            </div>
+</div>
+</div>
+
+    </div>
+    
+    
+
+<script>
+    jci.jQuery(function () {
+        var enableTweetQuote = 1; 
+        jci.tweetQuote.init(enableTweetQuote, window.location.href, "Share On Twitter");
+
+    });
+</script>
+
+    <script type="text/javascript">
+
+    piAId = '55162';
+    piCId = '1020';
+
+    (function () {
+        function async_load() {
+            var s = document.createElement('script'); s.type = 'text/javascript';
+            s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+            var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+        }
+        if (window.attachEvent) { window.attachEvent('onload', async_load); }
+        else { window.addEventListener('load', async_load, false); }
+    })();
+
+</script>
+
+    <script type="text/javascript">
+    (function() {
+        var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+        sz.src = '//siteimproveanalytics.com/js/siteanalyze_33556.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+        })();
+</script>
+
+
+        <!--ServerName: PRODCD1 -->
+
+</body>
+</html>

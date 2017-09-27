@@ -1,0 +1,193 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>关于我们-上海韬诚公关咨询有限公司</title>
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="js/modernizr.js"></script>
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery.slicebox.js"></script>
+<script type="text/javascript">
+			$(function() {
+				
+				var Page = (function() {
+
+					var $navArrows = $( '#nav-arrows' ).hide(),
+						$navOptions = $( '#nav-options' ).hide(),
+						$shadow = $( '#shadow' ).hide(),
+						slicebox = $( '#sb-slider' ).slicebox( {
+							onReady : function() {
+
+								$navArrows.show();
+								$navOptions.show();
+								$shadow.show();
+
+							},
+							orientation : 'h',
+							cuboidsCount : 4
+						} ),
+						
+						init = function() {
+
+							initEvents();
+							
+						},
+						initEvents = function() {
+
+							// add navigation events
+							$navArrows.children( ':first' ).on( 'click', function() {
+
+								slicebox.next();
+								return false;
+
+							} );
+
+							$navArrows.children( ':last' ).on( 'click', function() {
+								
+								slicebox.previous();
+								return false;
+
+							} );
+						
+							slicebox.play();return false;
+
+							
+
+						};
+
+						return { init : init };
+
+				})();
+
+				Page.init();
+
+			});
+			
+		</script>
+
+</head>
+
+<body>
+<div class="detail">
+  <div class="pic4">
+ <div class="top">
+  
+    <div class="logoAndNav">
+    <div class="logo_bg"></div>
+      <div class="logo"><a href="#"><img src="images/logo.png" width="125px"></a></div>
+  
+      <div class="nav">
+        <ul>
+          <ul>
+          <li><a href="index.html">首页</a><span>|</span></li>
+           <li><a href="about.html" class="hover">关于我们</a><span>|</span></li>
+          <li><a href="service.html">我们的服务</a><span>|</span></li>
+          <li><a href="case.html">我们的客户</a><span>|</span></li>
+            <li><a href="join.html">加入我们</a><span>|</span></li>
+          <li><a href="contact.html">联系我们</a></li>
+        </ul>
+        </ul>
+      </div>
+    </div>
+    <div class="clear"></div>
+  </div>
+    <div class="clear"></div>
+    <div class="aboutUs">
+     
+      <div class="aboutUs_top"></div>
+      <div class="aboutUs_middle">
+           <div class="container">
+            <div class="wrapper">
+              <ul id="sb-slider" class="sb-slider">
+			  
+              	<li><img src="images/banner1.jpg" title=""/></li>
+               
+           </ul>
+             <!--  <div id="nav-arrows" class="nav-arrows"><a href="#">Next</a><a href="#">Previous</a> </div> -->
+            </div>
+            <!-- /wrapper --> 
+            
+          </div>
+       
+       
+      </div>
+
+      <div class="company">
+        <dl class="company1">
+          <h2 style="font-weight:bold;font-size:20px;color:#000">关于我们</h2>
+          <dd>
+            <p>在世界传播业，百年大牌林立<br/>
+但全球每年仍然会有一些优秀的小众传播公司冒出头来<br/>
+未来的传播业是<span class="bottomline">boutique agency的时代</span><br/>
+在这个行业，<span class="bottomline">规模</span>从来不是翘楚的资本<br/>
+优质的案例只依赖有<span class="bottomline">天赋</span>的团队<br/>
+<span class="bottomline">小众传播公司</span>永远有机会改写历史<br/>
+在区域内提供<span class="bottomline">更好、更精</span>的服务<br/>
+2010年，<span class="bottomline">韬诚公关</span>在上海，破笋而出</p>
+            
+
+          </dd>
+        </dl>
+        <div class="clear"></div>
+        <dl class="company2">
+       
+          <dd>
+            <p>
+创办六年<br/>
+	但始终坚持孜孜以求的态度追求<span class="bottomline">极致的专业</span><br/>
+	在有限的领域里开发无限创意<br/>
+团队不大<br/>
+	但立志只招募独具潜力的个人<br/>
+	<span class="bottomline">天赋与洞察力</span>比从业经验更宝贵<br/>
+羽翼未丰<br/>
+	但崇尚<span class="bottomline">智圆行方</span>的境界<br/>
+	在知识广博、格物致知的同时注重人品的方正不苟<br/>
+创业伊始<br/>
+	但经济收益不是我们的近期目标<br/>
+	<span class="bottomline">创造不一样传播案例的激情</span>是我们的动力<br/>
+
+韬诚公关 =	<br/><span class="bottomline">投资人 + PR高手 + 国际公关伙伴<br/> 活力 + 创造力 + 热情<br/>
+总监级别的客户服务<br/>
+完美主义者</span><br/><br/>
+<span style="padding:10px;border:1px solid #F00;font-weight:bold;font-size:18px;color:#000">与您共同创造不同的影响力</span>
+</p>
+          </dd>
+        </dl>
+        <div class="clear"></div>
+
+      </div>
+    </div><!-- #BeginLibraryItem "/Library/footer.lbi" -->
+<!-- start .copyright -->
+
+<div class="copyright">
+  <div class="shadow">
+    <div class="footer">
+     <!--  <div class="footer_left">关注我们:</div>
+      <div class="sns">
+        <ul>
+         
+          <li class="weibo"><a href="#" target="_blank">新浪微博</a></li>
+          <li class="weibo"><a href="#" target="_blank">腾讯微博</a></li>
+          <li class="weibo"><a href="#" target="_blank">微信</a></li>
+          
+        </ul>
+      </div> -->
+      <div class="footer_right"> 
+      
+        <p>©2015 上海韬诚公关咨询有限公司&nbsp;&nbsp;&nbsp;&nbsp; 沪ICP备0000000 </p>
+      </div>
+    </div>
+    <div class="clear"></div>
+  </div>
+</div>
+
+<!-- end .copyright --><!-- #EndLibraryItem --></div>
+</div><!--[if lt IE 9]>
+<script type="text/javascript">$.debugBGS = true;</script>
+<script type="text/javascript" src="js/jquery.backgroundSize.js"></script>
+<script type="text/javascript">
+$(".detail").css({backgroundSize: "cover"});
+</script><![endif]-->
+
+</body>
+</html>

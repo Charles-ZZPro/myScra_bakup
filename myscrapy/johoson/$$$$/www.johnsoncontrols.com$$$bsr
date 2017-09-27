@@ -1,0 +1,1066 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6 en" lang="en" > <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7 en" lang="en" > <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8 en" lang="en" > <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="en" class="en">
+<!--<![endif]-->
+
+<head>
+
+    <script>
+        var jci = {};
+        jci.virtualFolder = '/';
+    </script>
+
+    
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+
+<title>Business and Sustainability Report</title>
+<link rel="canonical" href="http://www.johnsoncontrols.com/corporate-sustainability/reporting-and-policies/2016-business-and-sustainability-report" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+
+    <meta name="robots" content="nofollow,noindex" />
+
+<script type="text/javascript">
+/*{literal}<![CDATA[*/window.lightningjs||function(c){function g(b,d){d&&(d+=(/\?/.test(d)?"&":"?")+"lv=1");c[b]||function(){var i=window,h=document,j=b,g=h.location.protocol,l="load",k=0;(function(){function b(){a.P(l);a.w=1;c[j]("_load")}c[j]=function(){function m(){m.id=e;return c[j].apply(m,arguments)}var b,e=++k;b=this&&this!=i?this.id||0:0;(a.s=a.s||[]).push([e,b,arguments]);m.then=function(b,c,h){var d=a.fh[e]=a.fh[e]||[],j=a.eh[e]=a.eh[e]||[],f=a.ph[e]=a.ph[e]||[];b&&d.push(b);c&&j.push(c);h&&f.push(h);return m};return m};var a=c[j]._={};a.fh={};a.eh={};a.ph={};a.l=d?d.replace(/^\/\//,(g=="https:"?g:"http:")+"//"):d;a.p={0:+new Date};a.P=function(b){a.p[b]=new Date-a.p[0]};a.w&&b();i.addEventListener?i.addEventListener(l,b,!1):i.attachEvent("on"+l,b);var q=function(){function b(){return["<head></head><",c,' onload="var d=',n,";d.getElementsByTagName('head')[0].",d,"(d.",g,"('script')).",i,"='",a.l,"'\"></",c,">"].join("")}var c="body",e=h[c];if(!e)return setTimeout(q,100);a.P(1);var d="appendChild",g="createElement",i="src",k=h[g]("div"),l=k[d](h[g]("div")),f=h[g]("iframe"),n="document",p;k.style.display="none";e.insertBefore(k,e.firstChild).id=o+"-"+j;f.frameBorder="0";f.id=o+"-frame-"+j;/MSIE[ ]+6/.test(navigator.userAgent)&&(f[i]="javascript:false");f.allowTransparency="true";l[d](f);try{f.contentWindow[n].open()}catch(s){a.domain=h.domain,p="javascript:var d="+n+".open();d.domain='"+h.domain+"';",f[i]=p+"void(0);"}try{var r=f.contentWindow[n];r.write(b());r.close()}catch(t){f[i]=p+'d.write("'+b().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};a.l&&setTimeout(q,0)})()}();c[b].lv="1";return c[b]}var o="lightningjs",k=window[o]=g(o);k.require=g;k.modules=c}({});
+if(!navigator.userAgent.match(/Android|BlackBerry|BB10|iPhone|iPad|iPod|Opera Mini|IEMobile/i)) {window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/ca95063754e0.js"); } else {window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/fc973043953c.js"); }/*]]>{/literal}*/</script><script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0066/3434.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+<link rel="image_src" href="/-/media/default-images/page600x400.jpg" />
+<meta property="og:title" content="Business and Sustainability Report" />
+<meta property="og:description" content="" />
+<meta property="og:url" content="http://www.johnsoncontrols.com/corporate-sustainability/reporting-and-policies/2016-business-and-sustainability-report" />
+<meta property="og:image" content="/-/media/default-images/page600x400.jpg"/>
+
+    <meta property="og:site_name" content="Business and Sustainability Report" />
+
+
+    
+<link rel="shortcut icon" type="image/x-icon">
+<link rel="icon" href="/-/media/jci/corp/homepage/images/jci.png" type="image/png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/-/media/jci/corp/homepage/images/jci_76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/-/media/jci/corp/homepage/images/jci_120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/-/media/jci/corp/homepage/images/jci_150x150.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/-/media/jci/corp/homepage/images/jci_180x180.png">
+    
+<link href="/include/jci_com/vendor/css/bootstrap/bootstrap.min.css" rel="stylesheet"/>
+
+<link href="/include/jci_com/vendor/css/ScrollPane/jscrollpane.css" rel="stylesheet"/>
+<link href="/include/jci_com/vendor/css/FontAwesome/font-awesome.css" rel="stylesheet"/>
+
+<link href="/include/jci_com/Local/css/jci.css" rel="stylesheet"/>
+
+
+<script src="/include/jci_com/vendor/scripts/jquery/jquery-1.11.3.min.js"></script>
+
+<script src="/include/jci_com/vendor/scripts/plugins/jquery-scrollto.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jquery.validate.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jquery.validate.unobtrusive.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jQueryUI.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/jquery.cookie.js"></script>
+<script src="/include/jci_com/vendor/scripts/jquery/ellipsis.js"></script>
+<script src="/include/jci_com/vendor/scripts/foolproof/mvcfoolproof.unobtrusive.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/bootstrap/bootstrap.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/knockout/knockout-3.3.0.js"></script>
+<script src="/include/jci_com/vendor/scripts/freewall/freewall.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/jQuery.mousewheel.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/jquery.jscrollpane.min.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/SelectBoxPlugin.js"></script>
+<script src="/include/jci_com/vendor/scripts/plugins/iframeResizer.min.js"></script>
+
+<script src="/include/jci_com/local/scripts/jci.jQuery.js"></script>
+<script src="/include/jci_com/local/scripts/jci.constants.js"></script>
+<script src="/include/jci_com/local/scripts/jci.utilities.js"></script>
+<script src="/include/jci_com/local/scripts/jci.resize-event.js"></script>
+<script src="/include/jci_com/local/scripts/jci.navigation.js"></script>
+<script src="/include/jci_com/local/scripts/jci.cookies.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-us-sublayout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.filters-base.js"></script>
+<script src="/include/jci_com/local/scripts/jci.observable-filter.js"></script>
+<script src="/include/jci_com/local/scripts/jci.search-input.js"></script>
+<script src="/include/jci_com/local/scripts/jci.paging.js"></script>
+<script src="/include/jci_com/local/scripts/jci.search-base.js"></script>
+<script src="/include/jci_com/local/scripts/jci.media-resource-search-result-base.js"></script>
+<script src="/include/jci_com/local/scripts/jci.experts-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.experts-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.full-site-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.full-site-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.insights-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.media-news-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.insights-list.js"></script>
+<script src="/include/jci_com/local/scripts/jci.insights-sharing.js"></script>
+<script src="/include/jci_com/local/scripts/jci.image-resource-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.video-resource-search-result.js"></script>
+<script src="/include/jci_com/local/scripts/jci.media-resources-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.social-sharing.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-us-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.product-contact-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.resource-links.js"></script>
+<script src="/include/jci_com/local/scripts/jci.resource-download-form.js"></script>
+<script src="/include/jci_com/local/scripts/jci.stock-ticker.js"></script>
+<script src="/include/jci_com/local/scripts/jci.sticky-footer.js"></script>
+<script src="/include/jci_com/local/scripts/jci.video-banner.js"></script>
+<script src="/include/jci_com/local/scripts/jci.tabs.js"></script>
+<script src="/include/jci_com/local/scripts/jci.product-filters.js"></script>
+<script src="/include/jci_com/local/scripts/jci.contact-us-location-search.js"></script>
+<script src="/include/jci_com/local/scripts/jci.country-dropdown.js"></script>
+<script src="/include/jci_com/local/scripts/jci.job-search-callout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.image-and-video-gallery.js"></script>
+<script src="/include/jci_com/local/scripts/jci.leadership.js"></script>
+<script src="/include/jci_com/local/scripts/jci.related-callout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.search-overlay.js"></script>
+<script src="/include/jci_com/local/scripts/jci.tweet-quote.js"></script>
+<script src="/include/jci_com/local/scripts/jci.article-sublayout.js"></script>
+<script src="/include/jci_com/local/scripts/jci.preview-mode.js"></script>
+
+
+    <!--Commenting the next line out.  to reenable add the at symbol before the html-->
+    <!--Html.Partial("~/Views/JCI_com/Renderings/Analytics/WebTrends.cshtml")-->
+    <script src="/Include/JCI_com/Vendor/Scripts/WebTrends/webtrends.load.js"></script>
+  
+    <!--[if IE]>
+        <link href="JCI_com/Local/Css/JCI-IE9.css" rel="stylesheet" />
+    <![endif]-->
+    <style type="text/css">
+    #press-release-button {
+    	position: absolute;
+    	bottom: 8%;
+    	left: 50%;
+    	transform: translateX(-50%);
+    	border-radius: 2px;
+    	text-transform: uppercase;
+    	font-family: SegoeSb, 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    	font-size: 12px;
+    	color: #ffffff;
+    	text-align: center;
+    }
+    #press-release-button a {
+    	color: #fff;
+	    background: #faa51a;
+	    border: 2px solid transparent;
+	    padding: 0.6em 2em;
+	    display: inline-block;
+	    transition: all 250ms ease-in-out;
+    }
+    @media screen and (max-width: 480px) {
+    	#press-release-button {
+    		left: 0!important;
+    		transform: none!important;
+    		position: static!important;
+    	}
+    }
+    @media screen and (max-width: 320px) {
+    	.global-presence {
+    		font-size: 26px!important;
+    	}
+    }
+
+</style>
+    
+<meta name="VIcurrentDateTime" content="636371689591749316" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+
+</head>
+
+<body class="">
+
+    <div class="page-layout">
+        
+<!--SEARCH-->
+<div class="search-overlay">
+
+    <div class="search-overlay-background"></div>
+
+    <div class="search-overlay-main">
+
+        <div class="search-overlay-input-wrapper">
+
+            <input class="search-text-input" type="text" placeholder="Search" />
+
+            <div class="overlay-search-submit">
+
+                <div class="submit-btn">
+                    <div class="icon-search">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="search-overlay-close search-overlay-btn">X Close</div>
+    </div>
+</div>
+
+<script>
+
+    jci.jQuery(function () {
+        jci.searchOverlay.init(".search-overlay", "/search");
+    });
+</script>
+
+    <div class="cookie-header">
+
+        <div class="text">
+            <div>
+<p>This site uses cookies to offer you a better browsing experience. By clicking Approve, you consent to the use of cookies on your device as described in our <a href="/legal/privacy">privacy notice</a>.</p>
+</div>
+        </div>
+
+        <div class="approve-cookie">
+            Approve
+        </div>
+
+    </div>
+
+<script>
+    jci.cookies.init(
+        "JohnsonControls-United States - AcceptsCookies",
+        "true",
+        "true");
+
+    jci.previewMode.init("true");
+</script>
+
+
+
+
+<!--MENU-->
+<div class="menu-dropdown off-right">
+
+    <div class="menu-lists-container sticker" id="sticker">
+            <div class="panel-group menu-scroll-list" id="accordion" role="tablist" aria-multiselectable="true">
+                    <div class="panel">
+
+                        <div class="panel-heading" role="tab" id="menue951cb26-fca5-46c7-9238-f3c6ac1cd2d5">
+                            <h4 class="panel-title">
+                                    <a class="collapsed"
+                                       data-toggle="collapse"
+                                       data-parent="#accordion"
+                                       href="#buildings"
+                                       aria-expanded="false"
+                                       aria-controls="buildings"
+                                       onclick="">
+                                        <i class="dropdown-icon icon icon-buildings"></i>
+                                        <span class="menu-heading title-buildings">Buildings</span>
+                                    </a>
+                            </h4>
+                        </div>
+
+                            <div id="buildings" 
+                                 class="panel-collapse collapse" 
+                                 role="tabpanel" 
+                                 aria-labelledby="menue951cb26-fca5-46c7-9238-f3c6ac1cd2d5">
+
+                                <div class="panel-body">
+
+                                    <ul class="menu-accordian-items">
+                                            <li class="accordian-item">
+<a href='/buildings/air-systems' onclick='' >Air Systems</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/building-management' onclick='' >Building Management</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/hvac-controls' onclick='' >HVAC Controls</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/hvac-equipment' onclick='' >HVAC Equipment</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/security-and-fire-safety' onclick='' >Security and Fire Safety</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/refrigeration' onclick='' >Refrigeration</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/services-and-support' onclick='' >Services  and Support</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/replacement-parts-and-supplies' onclick='' >Replacement Parts and Supplies</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/solutions-by-industry' onclick='' >Solutions by Industry</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/buildings/our-brands' onclick='' >Our Brands</a>                                            </li>
+                                    </ul>
+
+
+
+                                </div>
+                            </div>
+                    </div>
+                    <div class="panel">
+
+                        <div class="panel-heading" role="tab" id="menu0e5b15bf-0582-4ce6-be25-c2d9bb15a73b">
+                            <h4 class="panel-title">
+                                    <a class="collapsed"
+                                       data-toggle="collapse"
+                                       data-parent="#accordion"
+                                       href="#batteries"
+                                       aria-expanded="false"
+                                       aria-controls="batteries"
+                                       onclick="">
+                                        <i class="dropdown-icon icon icon-battery"></i>
+                                        <span class="menu-heading title-battery">Batteries</span>
+                                    </a>
+                            </h4>
+                        </div>
+
+                            <div id="batteries" 
+                                 class="panel-collapse collapse" 
+                                 role="tabpanel" 
+                                 aria-labelledby="menu0e5b15bf-0582-4ce6-be25-c2d9bb15a73b">
+
+                                <div class="panel-body">
+
+                                    <ul class="menu-accordian-items">
+                                            <li class="accordian-item">
+<a href='/batteries/capabilities' onclick='' >Capabilities</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/batteries/applications/passenger-vehicles' onclick='' >Applications</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/batteries/lead-acid-batteries/flood-lead-acid-batteries' onclick='' >Lead-acid Products</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/batteries/lithium-ion-batteries' onclick='' >Lithium-ion Products</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/batteries/battery-recycling' onclick='' >Battery Recycling</a>                                            </li>
+                                    </ul>
+
+
+
+                                </div>
+                            </div>
+                    </div>
+                    <div class="panel">
+
+                        <div class="panel-heading" role="tab" id="menud95a0fbc-ffc5-4ad4-a0b8-457297df174d">
+                            <h4 class="panel-title">
+                                    <a class="collapsed"
+                                       data-toggle="collapse"
+                                       data-parent="#accordion"
+                                       href="#distributed-energy-storage"
+                                       aria-expanded="false"
+                                       aria-controls="distributed-energy-storage"
+                                       onclick="">
+                                        <i class="dropdown-icon icon icon-energystorage"></i>
+                                        <span class="menu-heading title-energystorage">Distributed Energy Storage</span>
+                                    </a>
+                            </h4>
+                        </div>
+
+                            <div id="distributed-energy-storage" 
+                                 class="panel-collapse collapse" 
+                                 role="tabpanel" 
+                                 aria-labelledby="menud95a0fbc-ffc5-4ad4-a0b8-457297df174d">
+
+                                <div class="panel-body">
+
+                                    <ul class="menu-accordian-items">
+                                            <li class="accordian-item">
+<a href='/distributed-energy-storage/capabilities' onclick='' >Capabilities</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/distributed-energy-storage/applications' onclick='' >Applications</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/distributed-energy-storage/energy-storage-solutions' onclick='' >Energy Storage Solutions</a>                                            </li>
+                                            <li class="accordian-item">
+<a href='/distributed-energy-storage/news-and-resources' onclick='' >News and Resources</a>                                            </li>
+                                    </ul>
+
+
+
+                                </div>
+                            </div>
+                    </div>
+            </div>
+
+                <div class="menu-divider"></div>
+                <ul class="menu-main-categories">
+                        <li class="menu-category">
+<a href='/about-us/our-company' onclick='' >About Us</a>                        </li>
+                        <li class="menu-category">
+<a href='/careers/why-johnson-controls' onclick='' >Careers</a>                        </li>
+                        <li class="menu-category">
+<a href='/media-center/news' onclick='' >Media</a>                        </li>
+                        <li class="menu-category">
+<a href='/investors' onclick='' >Investors</a>                        </li>
+                        <li class="menu-category">
+<a href='/insights' onclick='' >Insights</a>                        </li>
+                        <li class="menu-category">
+<a href='/corporate-sustainability/environment' onclick='' >Corporate Sustainability </a>                        </li>
+                        <li class="menu-category">
+<a href='/suppliers' onclick='' >Suppliers</a>                        </li>
+                        <li class="menu-category">
+<a href='/contact-us' onclick='' >Contact</a>                        </li>
+                        <li class="menu-category">
+<a href='/login' onclick='' target='_self' >Login</a>                        </li>
+                </ul>
+
+                <div class="menu-divider"></div>
+            <div class="menu-social-container">
+                    <a href="https://www.facebook.com/JohnsonControls" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-facebook"></i>
+                    </a>
+                    <a href="https://twitter.com/johnsoncontrols" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                    <a href="https://www.youtube.com/user/JohnsonControlsInc/JohnsonControls" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-youtube"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/company/johnson-controls" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://www.instagram.com/johnsoncontrols/" class="menu-social-icon" target="_blank">
+                        <i class="fa fa-instagram"></i>
+                    </a>
+            </div>
+    </div>
+</div>
+
+
+
+<div class="menu-shadow-overlay">
+
+</div>
+
+<div class="header initial-load-2 load-animations" >
+    <a href="/">
+        <img src='/-/media/jci/corp/homepage/images/jci-logo-black-and-white.png' class='logo header-logo' alt='jci-logo' />
+    </a>
+
+
+    <div class="header-items">
+
+        <div class="header-search search-overlay-btn">
+            <div class="icon-search"></div>
+        </div>
+
+        <div class="header-text">
+                <a href="/site-selector-page" class="loginicon"><i class="fa fa-globe"></i></a>
+            
+<a href='/site-selector-page' >Select a Country</a>        </div>
+
+    </div>
+
+    <div class="menu-btn">
+        <!--
+        <div class="menu-burger">
+            <div class="icon-menu"></div>
+            <div class="icon icon-menu-closed"></div>
+        </div>
+        -->
+        <div class="nav-icon" id="nav-icon">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+
+        <div class="text">
+            Menu
+        </div>
+    </div>
+</div>    <div class="breadcrumb-control">
+        
+        <ol class="breadcrumb">
+                    <li class="">
+
+Environment                    </li>
+                    <li class="">
+
+                            <a href="/corporate-sustainability/reporting-and-policies">
+                                Reporting &amp; Policies
+                                
+                            </a>
+                    </li>
+                    <li class="active">
+
+                            <a href="/corporate-sustainability/reporting-and-policies/2016-business-and-sustainability-report">
+                                Business and Sustainability Report
+                                
+                            </a>
+                    </li>
+
+        </ol>
+
+    </div>
+
+    <div class="home-video-container initial-load-1 initial-load-3 load-animations"
+         style="background-image: url('/-/media/jci/corporate-sustainability/bsr/2016/banners/videobanner.jpg'); background-attachment: scroll; background-position:center;">
+
+        <video id="home-background-video" style="display:none" autoplay class="home-video-vid" >
+                                </video>
+
+        <div class="vid-track"></div>
+        <div class="vid-load-spinner"></div>
+        <div class="vid-play-btn visible"><i class="icon icon-play"></i></div>
+        <div class="vid-controls"></div>
+
+    </div>
+    <div class="full-video-container">
+        <video preload="auto" class="full-video">
+                <source src="/-/media/jci/corporate-sustainability/bsr/2016/video-banners/bk_bravoechojc_low_0829a-(1).mp4" type='video/mp4' />
+                                </video>
+
+        <div class="full-video-close-button"></div>
+        <div class="full-video-controls">
+            <div class="full-video-action">
+                <svg xml:space="preserve" enable-background="new 0 0 54 54" viewBox="0 0 54 54" y="0px" x="0px" height="54px" width="54px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" class="play-button play-button-small">
+                    <path d="M27.1,4c12.7,0,23,10.3,23,23s-10.3,23-23,23s-23-10.3-23-23S14.4,4,27.1,4 M27.1,2c-13.8,0-25,11.2-25,25 s11.2,25,25,25s25-11.2,25-25S40.9,2,27.1,2L27.1,2z" fill="#E2E2E2" />
+                    <polygon points="20.1,18 20.1,36 38.1,27 " stroke-miterlimit="10" stroke-linejoin="round" stroke-width="2" stroke="#E2E2E2" fill="none" />
+                </svg>
+                <svg xml:space="preserve" enable-background="new 0 0 54 54" viewBox="0 0 54 54" y="0px" x="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" id="Layer_1" version="1.1" class="loading">
+                    <path d="M27.1,3
+            c-13.3,0-24,10.7-24,24s10.7,24,24,24s24-10.7,24-24c0-10.5-6.7-19.4-16.1-22.7"
+                        stroke-miterlimit="10" stroke-linecap="round" stroke-width="2" stroke="#E2E2E2" fill="none" />
+                </svg>
+                <svg xml:space="preserve" enable-background="new 0 0 54 54" viewBox="0 0 54 54" y="0px" x="0px" height="54px" width="54px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" id="Svg1" version="1.1" class="pause-button">
+                    <path d="M27,4c12.7,0,23,10.3,23,23S39.7,50,27,50S4,39.7,4,27S14.3,4,27,4 M27,2C13.2,2,2,13.2,2,27s11.2,25,25,25 s25-11.2,25-25S40.8,2,27,2L27,2z" fill="#E2E2E2" />
+                    <line y2="36" x2="22" y1="18" x1="22" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#E2E2E2" fill="none" />
+                    <line y2="36" x2="32" y1="18" x1="32" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#E2E2E2" fill="none" />
+                </svg>
+            </div>
+            <div class="full-video-seeker">
+                <div class="full-video-track">
+                    <div class="full-video-track-current"></div>
+                    <div class="full-video-track-pointer"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        var autoplay = false;
+
+        function DetectAutoplay() {
+            var backgroundVideo = document.getElementById("home-background-video");
+            backgroundVideo.addEventListener('play', function () {
+                backgroundVideo.style.display = "block";
+                autoplay = true;
+            }, false);
+        }
+        DetectAutoplay();
+
+        jci.jQuery(document).ready(function () {
+            var videoControls = new jci.VideoBanner('.home-video-container', '.full-video-container');
+            videoControls.init();
+        });
+
+    </script>
+
+
+
+
+    <div class="subnav-menu">
+
+        <ul class="subnav-list">
+          
+
+                        <li class="active visible-xs hidden-sm hidden-md hidden-lg">
+
+                            <span class="text">
+                                <a href="#">
+                                   Please Select One
+                                </a>
+                            </span>
+
+                            <div class="mobile-subnav-arrow">
+                                <div class="icon icon-arrow-down"></div>
+                                <div class="icon icon-arrow-up"></div>
+                            </div>
+                        </li>
+                    <li class="">
+                    
+                        <span class="text">
+                            <a href="/corporate-sustainability/reporting-and-policies/2016-business-and-sustainability-report/message-to-stakeholders">
+                                Message to Stakeholders
+                            </a>
+                        </span>
+
+                        <div class="mobile-subnav-arrow">
+                            <div class="icon icon-arrow-down"></div>
+                            <div class="icon icon-arrow-up"></div>
+                        </div>
+                    </li>
+                    <li class="">
+                    
+                        <span class="text">
+                            <a href="/corporate-sustainability/reporting-and-policies/2016-business-and-sustainability-report/economic-prosperity">
+                                Economic Prosperity
+                            </a>
+                        </span>
+
+                        <div class="mobile-subnav-arrow">
+                            <div class="icon icon-arrow-down"></div>
+                            <div class="icon icon-arrow-up"></div>
+                        </div>
+                    </li>
+                    <li class="">
+                    
+                        <span class="text">
+                            <a href="/corporate-sustainability/reporting-and-policies/2016-business-and-sustainability-report/social-responsibility">
+                                Social Responsibility
+                            </a>
+                        </span>
+
+                        <div class="mobile-subnav-arrow">
+                            <div class="icon icon-arrow-down"></div>
+                            <div class="icon icon-arrow-up"></div>
+                        </div>
+                    </li>
+                    <li class="">
+                    
+                        <span class="text">
+                            <a href="/corporate-sustainability/reporting-and-policies/2016-business-and-sustainability-report/environmental-leadership">
+                                Environmental Leadership
+                            </a>
+                        </span>
+
+                        <div class="mobile-subnav-arrow">
+                            <div class="icon icon-arrow-down"></div>
+                            <div class="icon icon-arrow-up"></div>
+                        </div>
+                    </li>
+
+        </ul>
+
+
+    </div>
+
+            <div class="reg-text-header">
+        <h1>TOMORROW, TODAY</h1>
+    </div>
+    <div class="container content-text page-sub">
+        <p>The headline story of fiscal 2016 is the introduction of a new Johnson Controls. The merger with Tyco strengthens our global leadership in building and energy technologies and solutions, uniquely positioning us to create smarter, safer, more efficient buildings and cities, powered by intelligent, sustainable energy solutions.</p>
+<p>As our planet increasingly becomes one community, one network of marketplaces, one inclusive and circular economy, Johnson Controls is doing what we&rsquo;ve always done&mdash;and what we do best: Creating the infrastructure for opportunity. Developing platforms for passionate living. Advancing energies to fuel the future. With a dedication to excellence and a commitment to helping our customers win, we&rsquo;re building tomorrow&mdash;today.</p>
+<style>
+    .large-hero {
+    color: #fff;
+    font-family: 'SegoeL','SegoeUI','Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-size: 32px;
+    font-weight: lighter;
+    padding-top: 180px;
+    padding-bottom: 225px;
+    text-align: center;
+    background-position: center;
+    }
+    .large-hero-subtitle {
+    font-size: 48px;
+    }
+    .infographic-left .infographic-data {
+    background: #2F2F2E;
+    color: #fff;
+    height: 480px;
+    text-align: center;
+    }
+    .infographic-left .infographic-image .infographic-image-overlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background: 2F2F2E !IMPORTANT;
+    color: #fff;
+    }
+    .infographic-image {padding: 50px;}
+    @media (min-width: 992px)
+    .col-md-7 {
+    width: 58.33333333% !IMPORTANT;
+    }
+</style>
+    </div>
+
+
+    <div class="button-call-to-action">
+
+
+        <div class="btn-wrapper">
+
+            <div class="Orange Small">
+
+<a href='/corporate-sustainability/reporting-and-policies/2016-business-and-sustainability-report/message-to-stakeholders' onclick='' title='Message to Stakeholders' >Message to Stakeholders</a>            </div>
+        </div>
+    </div>
+
+    <div class="container page-sub">
+
+            <div class="content-text">
+                <div style="background-color: #343741; width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; margin-bottom: -30px;">
+<article style="max-width: 1910px; margin: 0px auto;">
+<p style="text-align: center; color: #ffffff;"><img alt="revenue statistics" style="width: 100%; max-width: 1910px; height: auto;" src="/-/media/jci/corporate-sustainability/bsr/2016/landing-page/homepagefinancialgraph.png?la=en&amp;hash=DCAAB590336D47CC50DE4F95225978155D66C488"></p>
+</article>
+<div id="press-release-button"><a href="http://www.johnsoncontrols.com/media-center/news/press-releases/2016/11/08/johnson-controls-reports-2016-fiscal-fourth-quarter-and-full-year-earnings" style="color: inherit; text-decoration: none; text-align: center;">Press release with complete financial performance</a></div>
+</div>
+<style>
+    a:hover{text-decoration: none!important; border-bottom: none!important;}
+    @media screen and (max-width: 767px) {
+    #press-release-button {
+    bottom: -30px!important;
+    z-index: 1000;
+    }
+    }
+</style>
+            </div>
+    </div>
+
+
+
+
+
+    <div class="row content-rotator-right" >
+<a href="/corporate-sustainability/reporting-and-policies/2016-business-and-sustainability-report/economic-prosperity">
+    <div class="col-md-7 left-image"
+         style="background-image:url('/-/media/jci/corporate-sustainability/bsr/2016/landing-page/economicprosperity.jpg')">
+
+        <div class="overlay-gradient">
+
+            <div class="overlay-section">
+
+                <div class="overlay-white-bar"></div>
+
+                <h3>
+ECONOMIC PROSPERITY                </h3>
+            </div>
+        </div>
+    </div>
+    </a>
+    
+            <div class="col-md-5 right-rotator">
+
+                <div id="carousel-right-16ac639b-e2bf-4501-ba7e-edfcb89bca4d"
+                     class="carousel slide vertical carousel-right"
+                     data-ride="carousel"
+                     data-interval="false">
+
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner" role="listbox">
+
+                                <div class="item active">
+
+
+                                    <div class="news-title">
+
+                                        <h3>
+<a href='/corporate-sustainability/reporting-and-policies/2016-business-and-sustainability-report/economic-prosperity' onclick='' ></a>                                        </h3>
+                                    </div>
+
+                                    <div class="news-text">
+                                        <article class="global-presence" style="color: #ffffff; font-size: 37px;">
+<p><i>"We provide our customers with dependable, easy-to-maintain systems that reduce energy costs and total cost of ownership."</i></p>
+<p><span style="font-size: 16px; font-weight: bold">Dominic Ticali</span> <span style="font-size: 13px;">National Accounts sales manager</span></p>
+</article>
+                                    </div>
+                                </div>
+
+                        <div class="carousel-fade"></div>
+                    </div>
+
+                    <!-- Controls -->
+                </div>
+            </div>
+</div>
+
+
+
+    <div class="row content-rotator-left">
+    <a href="/corporate-sustainability/reporting-and-policies/2016-business-and-sustainability-report/social-responsibility">
+    <div class="col-md-7 right-image"
+         style="background-image:url('/-/media/jci/corporate-sustainability/bsr/2016/banners/socialresponsibilityrotatorcontainer.jpg')">
+
+        <div class="overlay-gradient">
+
+            <div class="overlay-section">
+
+                <div class="overlay-white-bar"></div>
+
+                <h3>
+SOCIAL RESPONSIBILITY                </h3>
+            </div>
+        </div>
+    </div>
+    </a>
+        <div class="col-md-5 left-rotator">
+
+            <div id="carousel-left-9a624524-fb7b-4e96-998b-23eea94a22e6"
+                 class="carousel slide vertical carousel-left"
+                 data-ride="carousel"
+                 data-interval="false">
+
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner" role="listbox">
+
+                            <div class="item active">
+                                <div class="news-story-info">
+
+                                    <div class="news-type">
+                                        
+                                    </div>
+                                </div>
+
+                                <div class="news-title">
+
+                                    <h3>
+<a href='/corporate-sustainability/reporting-and-policies/2016-business-and-sustainability-report/social-responsibility/engagement' onclick='' ></a>                                    </h3>
+                                </div>
+
+                                <div class="news-text">
+                                    <p style="text-align: center;"><img src="/-/media/jci/corporate-sustainability/bsr/2016/landing-page/volunteer.png?la=en&amp;hash=F85EC8D17FDA1680C50DBC08109CEF95F1C0AC77" alt="slide" width="100%" height="auto"></p>
+                                </div>
+                            </div>
+
+                    <div class="carousel-fade"></div>
+                </div>
+
+                <!-- Controls -->
+
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row content-rotator-right" >
+<a href="/corporate-sustainability/reporting-and-policies/2016-business-and-sustainability-report/environmental-leadership">
+    <div class="col-md-7 left-image"
+         style="background-image:url('/-/media/jci/corporate-sustainability/bsr/2016/banners/environmentalleadershiprotatorcontainer.jpg')">
+
+        <div class="overlay-gradient">
+
+            <div class="overlay-section">
+
+                <div class="overlay-white-bar"></div>
+
+                <h3>
+ENVIRONMENTAL LEADERSHIP                </h3>
+            </div>
+        </div>
+    </div>
+    </a>
+    
+            <div class="col-md-5 right-rotator">
+
+                <div id="carousel-right-a6e5e640-49da-4e6b-a6b7-5e62185c323b"
+                     class="carousel slide vertical carousel-right"
+                     data-ride="carousel"
+                     data-interval="false">
+
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner" role="listbox">
+
+                                <div class="item active">
+
+
+                                    <div class="news-title">
+
+                                        <h3>
+<a href='/corporate-sustainability/reporting-and-policies/2016-business-and-sustainability-report/environmental-leadership/highlights' onclick='' ></a>                                        </h3>
+                                    </div>
+
+                                    <div class="news-text">
+                                        <p style="text-align: center;"><img src="/-/media/jci/corporate-sustainability/bsr/2016/landing-page/homepage80percent.png?la=en&amp;hash=95B68C08F29C79599846B0B3D74D6715EF4682A2" alt="slide" width="100%" height="auto"></p>
+                                    </div>
+                                </div>
+
+                        <div class="carousel-fade"></div>
+                    </div>
+
+                    <!-- Controls -->
+                </div>
+            </div>
+</div>
+
+
+
+
+
+
+    <div class="container page-sub">
+
+            <div class="content-text">
+                <div style="background-color: #ffffff; width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; margin-top: -30px; margin-bottom: -20px;">
+<article style="max-width: 1910px; margin: auto;">
+<p style="text-align: center; color: #ffffff;"><img src="/-/media/jci/corporate-sustainability/bsr/2016/banners/landingbottomoverlay.jpg?la=en&amp;hash=25F4BB68B95DDFFE99E6C3E0213A074547DB9AAC" alt="who we are" width="100%" height="auto">
+<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #fff; background: #faa51a; border-radius: 2px; padding: 10px 20px; text-transform: uppercase; font-family: 'SegoeSb', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; display: inline-block; text-align: center;"><a href="http://www.johnsoncontrols.com/about-us/our-company" style="color: inherit; text-decoration:none; text-align: center;">Who we are</a></div>
+</p>
+<p>
+</p>
+</article>
+</div>
+            </div>
+    </div>
+
+        
+
+
+<div class="spacer"></div>
+<div class="footer" style="background-image: url('/-/media/jci/header-and-footer/skylinebuildingsnewyorkskyscrapers.jpg')">
+
+    <div class="footer-content container">
+        <a href="/">
+            <img src='/-/media/jci/corp/homepage/images/jci-logo-color.png' class='footer-logo' alt='jci logo color' />
+        </a>
+            <div class="footer-main-box">
+
+                <div class="footer-row row">
+
+                        <div class="footer-left col-md-2 col-sm-6">
+                            <div class="footer-col-title">
+                                Buildings
+                            </div>
+
+                                <ul class="footer-list">
+                                        <li>
+<a href='/buildings/air-systems' onclick='' >Air Systems</a>                                        </li>
+                                        <li>
+<a href='/buildings/building-management' onclick='' >Building Management</a>                                        </li>
+                                        <li>
+<a href='/buildings/hvac-controls' onclick='' >HVAC Controls</a>                                        </li>
+                                        <li>
+<a href='/buildings/hvac-equipment' onclick='' >HVAC Equipment</a>                                        </li>
+                                        <li>
+<a href='/buildings/security-and-fire-safety' onclick='' >Security and Fire Safety</a>                                        </li>
+                                        <li>
+<a href='/buildings/refrigeration' onclick='' >Refrigeration</a>                                        </li>
+                                        <li>
+<a href='/buildings/services-and-support' onclick='' >Services  and Support</a>                                        </li>
+                                        <li>
+<a href='/buildings/replacement-parts-and-supplies' onclick='' >Replacement Parts and Supplies</a>                                        </li>
+                                        <li>
+<a href='/buildings/solutions-by-industry' onclick='' >Solutions by Industry</a>                                        </li>
+                                        <li>
+<a href='/buildings/our-brands' onclick='' >Our Brands</a>                                        </li>
+                                </ul>
+                        </div>
+                        <div class="footer-left col-md-2 col-sm-6">
+                            <div class="footer-col-title">
+                                Batteries
+                            </div>
+
+                                <ul class="footer-list">
+                                        <li>
+<a href='/batteries/capabilities' onclick='' >Capabilities</a>                                        </li>
+                                        <li>
+<a href='/batteries/applications/passenger-vehicles' onclick='' >Applications</a>                                        </li>
+                                        <li>
+<a href='/batteries/lead-acid-batteries/flood-lead-acid-batteries' onclick='' >Lead-acid Products</a>                                        </li>
+                                        <li>
+<a href='/batteries/lithium-ion-batteries' onclick='' >Lithium-ion Products</a>                                        </li>
+                                        <li>
+<a href='/batteries/battery-recycling' onclick='' >Battery Recycling</a>                                        </li>
+                                </ul>
+                        </div>
+
+                    <div class="footer-divider"></div>
+
+                        <div class="footer-right-1 col-md-2 col-sm-6">
+                            <ul class="footer-list">
+                                    <li>
+<a href='/about-us/our-company' onclick='' >About Us</a>                                    </li>
+                                    <li>
+<a href='/careers/why-johnson-controls' onclick='' >Careers</a>                                    </li>
+                                    <li>
+<a href='/media-center/news' onclick='' >Media</a>                                    </li>
+                                    <li>
+<a href='/investors' onclick='' >Investors</a>                                    </li>
+                                    <li>
+<a href='/insights' onclick='' >Insights</a>                                    </li>
+                                    <li>
+<a href='/corporate-sustainability' onclick='' >Corporate Sustainability</a>                                    </li>
+                                    <li>
+<a href='/about-us/ethics-and-compliance' onclick='' target='_self' >Ethics</a>                                    </li>
+                                    <li>
+<a href='/suppliers' onclick='' target='_self' >Suppliers</a>                                    </li>
+                                    <li>
+<a href='/location-finder' onclick='' target='_self' >Locations</a>                                    </li>
+                                    <li>
+<a href='/contact-us' onclick='' >Contact</a>                                    </li>
+                                    <li>
+<a href='/legal/terms' onclick='' >Legal</a>                                    </li>
+                            </ul>
+                        </div>
+
+
+                    <div class="footer-right-2 col-md-6 col-sm-6">
+
+                            <div class="footer-country">
+                                <a href="/site-selector-page" target="">
+                                    <i class="fa fa-globe"></i>
+                                    Select a Country
+                                </a>
+                                
+                            </div>
+
+                        <div class="footer-social-container">
+                                <a href="https://www.facebook.com/JohnsonControls" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-facebook"></i>
+                                </a>
+                                <a href="https://twitter.com/johnsoncontrols" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-twitter"></i>
+                                </a>
+                                <a href="https://www.youtube.com/user/JohnsonControlsInc/JohnsonControls" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-youtube"></i>
+                                </a>
+                                <a href="https://www.linkedin.com/company/johnson-controls" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-linkedin"></i>
+                                </a>
+                                <a href="https://www.instagram.com/johnsoncontrols/" class="footer-social-icon" target="_blank">
+                                    <i class="fa fa-instagram"></i>
+                                </a>
+                        </div>
+                    </div>
+
+                    <div class="footer-copy">
+                        <p>© 2017 Johnson Controls. All Rights Reserved | <a href="http://www.miitbeian.gov.cn" target="_blank">沪ICP备16004024号</a></p>
+                    </div>
+                </div>
+            </div>
+</div>
+</div>
+
+    </div>
+    
+    
+
+<script>
+    jci.jQuery(function () {
+        var enableTweetQuote = 1; 
+        jci.tweetQuote.init(enableTweetQuote, window.location.href, "Share On Twitter");
+
+    });
+</script>
+
+    <script type="text/javascript">
+
+    piAId = '55162';
+    piCId = '1020';
+
+    (function () {
+        function async_load() {
+            var s = document.createElement('script'); s.type = 'text/javascript';
+            s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+            var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+        }
+        if (window.attachEvent) { window.attachEvent('onload', async_load); }
+        else { window.addEventListener('load', async_load, false); }
+    })();
+
+</script>
+
+    <script type="text/javascript">
+    (function() {
+        var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+        sz.src = '//siteimproveanalytics.com/js/siteanalyze_33556.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+        })();
+</script>
+
+
+        <!--ServerName: PRODCD1 -->
+
+</body>
+</html>
